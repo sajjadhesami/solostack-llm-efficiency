@@ -1,7 +1,7 @@
 ## Tech Arena 2025 - Efficient LLM Inference Pipeline (with Fine-Tuning)
 
 ### Challenge Overview
-This repository contains our submission for the Huawei Ireland Research Center Tech Arena 2025 (Phase 2) challenge, *Spend Less and Do More – An LLM Efficiency Challenge*. The brief focuses on building an efficient single-round question-answering pipeline that maximizes accuracy while minimizing end-to-end latency. The evaluator combines multiple optimizations such as RAG, efficient serving, and compact model design, so every engineering choice must deliver measurable latency savings without sacrificing answer quality.
+This repository contains my submission for the Huawei Ireland Research Center Tech Arena 2025 (Phase 2) challenge, *Spend Less and Do More – An LLM Efficiency Challenge*. The brief focuses on building an efficient single-round question-answering pipeline that maximizes accuracy while minimizing end-to-end latency. The evaluator combines multiple optimizations such as RAG, efficient serving, and compact model design, so every engineering choice must deliver measurable latency savings without sacrificing answer quality.
 
 ### Objective & Metrics
 - **Goal**: Deliver an optimized LLM inference pipeline for single-turn QA (no conversation memory).
@@ -96,4 +96,5 @@ answers = pipeline([
     --data_algebra data/train_algebra.json
   ```
 - After training, point the corresponding `PEFT_ADAPTER_*` env vars to the produced folders (or copy them under `main/inferencePipeline/adapters/`) before rerunning inference.
+
 
