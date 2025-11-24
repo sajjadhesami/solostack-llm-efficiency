@@ -1,0 +1,1827 @@
+[
+  {
+    "questionID": "TRAIN_CHN_001",
+    "question": "What are the four great inventions of ancient China, and why were they historically significant?",
+    "answer": "The four great inventions are papermaking, printing, gunpowder, and the compass. Their significance is profound: paper and printing revolutionized the recording and dissemination of knowledge; gunpowder changed warfare and later mining and construction; the compass enabled advanced navigation and exploration, facilitating global trade and cultural exchange."
+  },
+  {
+    "questionID": "TRAIN_CHN_002",
+    "question": "Explain the core principles of Confucianism and its influence on traditional Chinese society.",
+    "answer": "The core principles of Confucianism include Ren (benevolence, humaneness), Yi (righteousness, justice), Li (proper ritual, etiquette), and Xiao (filial piety). It emphasized hierarchical but reciprocal relationships, social harmony, and moral self-cultivation. It profoundly influenced Chinese governance, family structure, education, and social ethics for over two millennia, forming the bedrock of the imperial examination system and social order."
+  },
+  {
+    "questionID": "TRAIN_CHN_003",
+    "question": "What is the difference between Mandarin (Putonghua) and Cantonese (Yue)?",
+    "answer": "Mandarin is the official national language of China, based on the Beijing dialect. Cantonese is a major regional language spoken primarily in Guangdong, Guangxi, Hong Kong, and Macau. They are not mutually intelligible, as they differ significantly in pronunciation, vocabulary, and grammar. Mandarin has four tones, while Cantonese has six to nine distinct tones, making its sound system more complex."
+  },
+  {
+    "questionID": "TRAIN_CHN_004",
+    "question": "Describe the symbolism and traditions associated with the Chinese Lunar New Year (Spring Festival).",
+    "answer": "The Lunar New Year symbolizes family reunion and the hope for prosperity in the coming year. Key traditions include a massive family reunion dinner on New Year's Eve, giving red envelopes (hongbao) containing money for good luck, setting off firecrackers to scare away evil spirits, thorough house cleaning to sweep away bad fortune, and decorating with red couplets and paper-cuts with auspicious themes."
+  },
+  {
+    "questionID": "TRAIN_CHN_005",
+    "question": "What is the significance of the Dragon in Chinese culture?",
+    "answer": "Unlike its Western counterpart, the Chinese dragon is a benevolent and auspicious creature. It symbolizes power, strength, good luck, and control over water elements like rainfall and rivers. It was the imperial emblem of the emperor, representing his authority. The dragon is a central figure in mythology and is celebrated during festivals like the Dragon Boat Festival."
+  },
+  {
+    "questionID": "TRAIN_CHN_006",
+    "question": "Explain the concept of 'Yin and Yang' and its role in Chinese philosophy.",
+    "answer": "Yin and Yang represent the dualistic nature of the universe, where opposite forces are interconnected and interdependent. Yin is associated with darkness, femininity, passivity, and the moon; Yang with light, masculinity, activity, and the sun. The concept, central to Daoism and Chinese thought, illustrates that balance between these forces is essential for harmony in nature, health, and society."
+  },
+  {
+    "questionID": "TRAIN_CHN_007",
+    "question": "What are the key characteristics of traditional Chinese landscape painting (Shanshui Hua)?",
+    "answer": "Traditional Chinese landscape painting emphasizes the harmony between humanity and nature, often depicting mountains, water, and mist. Key characteristics include the use of brush and ink, an asymmetrical composition, the concept of 'empty space' to suggest infinity, and the integration of poetry, calligraphy, and painting seals into the artwork. The goal is not realistic representation but capturing the spiritual essence or 'qi' (life force) of nature."
+  },
+  {
+    "questionID": "TRAIN_CHN_008",
+    "question": "What is the historical and cultural importance of the Silk Road?",
+    "answer": "The Silk Road was a vast network of trade routes connecting China with Central Asia, the Middle East, and Europe. It was crucial for the exchange of not only goods like silk, spices, and porcelain but also technologies, ideas, religions (Buddhism, Islam), and cultures. It facilitated a period of unparalleled cross-cultural interaction that shaped the civilizations along its path."
+  },
+  {
+    "questionID": "TRAIN_CHN_009",
+    "question": "How does the Chinese writing system differ from an alphabetic system?",
+    "answer": "The Chinese writing system is logographic, where each character represents a morpheme (a unit of meaning) rather than a sound. This is fundamentally different from alphabetic systems, where letters represent phonemes. This means one can read Chinese without knowing how to pronounce it, and the system can be understood by speakers of different, mutually unintelligible Chinese dialects."
+  },
+  {
+    "questionID": "TRAIN_CHN_010",
+    "question": "What is the story and meaning behind the Mid-Autumn Festival?",
+    "answer": "The Mid-Autumn Festival celebrates the harvest and family reunion under the brightest full moon of the year. The most famous legend is that of Chang'e, the Moon Goddess, who consumed an elixir of immortality and flew to the moon, separated from her husband. Traditions include eating mooncakes (round pastries symbolizing completeness and reunion), admiring the moon, and lighting lanterns."
+  },
+  {
+    "questionID": "TRAIN_CHN_011",
+    "question": "Describe the 'Five Relationships' in Confucian philosophy and their importance.",
+    "answer": "The Five Relationships are the foundational social bonds in Confucianism: ruler and subject, father and son, husband and wife, elder and younger brother, and friend and friend. Each relationship is hierarchical (except friendship) and involves mutual obligations. The superior party provides benevolence and care, while the subordinate offers loyalty and respect. This framework was intended to create a stable, harmonious, and ethical social order."
+  },
+  {
+    "questionID": "TRAIN_CHN_012",
+    "question": "What is Pinyin and what is its primary function?",
+    "answer": "Pinyin is the official romanization system for Standard Chinese in mainland China. It uses the Latin alphabet to represent the sounds of Mandarin Chinese. Its primary function is to teach Mandarin pronunciation to children and foreign learners, and it is widely used for typing Chinese characters on electronic devices."
+  },
+  {
+    "questionID": "TRAIN_CHN_013",
+    "question": "Explain the symbolism in a traditional Chinese garden.",
+    "answer": "Traditional Chinese gardens are microcosms of the natural world, designed for contemplation and harmony. Key elements and their symbolism include: rocks (enduring strength of nature), water (life and change), specific plants like bamboo (resilience), lotus (purity), and pine (longevity), and winding paths (the meandering journey of life). The goal is to create a landscape that reflects the Daoist ideal of balance between humanity and nature."
+  },
+  {
+    "questionID": "TRAIN_CHN_014",
+    "question": "Who was Emperor Qin Shi Huang, and what was his most significant legacy?",
+    "answer": "Emperor Qin Shi Huang was the first emperor who unified China in 221 BCE, establishing the Qin Dynasty. His most significant legacies include standardizing Chinese script, currency, and measurements, and beginning the construction of the Great Wall to protect against northern invasions. He is also famous for his terracotta army, built to guard his tomb."
+  },
+  {
+    "questionID": "TRAIN_CHN_015",
+    "question": "What is the significance of the color red in Chinese culture?",
+    "answer": "Red is the color of luck, joy, happiness, and celebration in Chinese culture. It is ubiquitously used during festivals like the Lunar New Year and weddings to ward off evil spirits and attract good fortune. It symbolizes vitality and is associated with the fire element. In modern times, it also carries political connotations as the color of the Communist revolution."
+  },
+  {
+    "questionID": "TRAIN_CHN_016",
+    "question": "What are the basic strokes that make up Chinese characters?",
+    "answer": "All Chinese characters are composed of a set of basic strokes. The eight fundamental strokes are: the dot (点, diǎn), horizontal (横, héng), vertical (竖, shù), hook (钩, gōu), rising (提, tí), bending (折, zhé), left-falling (撇, piě), and right-falling (捺, nà). Mastering these strokes is the first step in learning Chinese calligraphy and writing."
+  },
+  {
+    "questionID": "TRAIN_CHN_017",
+    "question": "What is the philosophical and historical significance of the 'I Ching' (Book of Changes)?",
+    "answer": "The I Ching is an ancient divination text and one of the oldest Chinese classics. Its significance lies in its system of 64 hexagrams, which represent all possible states and processes of the universe. It is a foundational text for both Confucian and Daoist philosophy, exploring the concepts of change, balance (Yin and Yang), and the dynamic interplay of cosmic forces. It has been used for centuries for wisdom, guidance, and understanding the patterns of life."
+  },
+  {
+    "questionID": "TRAIN_CHN_018",
+    "question": "Describe the origins and practice of Chinese calligraphy.",
+    "answer": "Chinese calligraphy is the artistic practice of writing Chinese characters with a brush and ink. It originated in the Shang Dynasty with oracle bone script and evolved through styles like Seal, Clerical, Cursive, Running, and Standard script. It is revered as a high art form, reflecting the writer's personality, emotion, and discipline. The 'Four Treasures of the Study'—brush, ink, paper, and inkstone—are essential tools for its practice."
+  },
+  {
+    "questionID": "TRAIN_CHN_019",
+    "question": "What is the story behind the Dragon Boat Festival?",
+    "answer": "The Dragon Boat Festival commemorates the death of the patriotic poet and minister Qu Yuan (c. 340–278 BCE) from the state of Chu during the Warring States period. Upon hearing of his kingdom's capture, he drowned himself in the Miluo River. Locals raced in boats to save him and threw rice dumplings (zongzi) into the water to prevent fish from eating his body. This evolved into the traditions of dragon boat racing and eating zongzi."
+  },
+  {
+    "questionID": "TRAIN_CHN_020",
+    "question": "How does the Chinese tea culture differ from Western tea-drinking habits?",
+    "answer": "Chinese tea culture is deeply ritualistic and focuses on the appreciation of the tea's aroma, taste, and appearance. It often involves multiple short infusions of loose-leaf tea in small vessels (Gongfu tea ceremony). In contrast, Western tea culture typically involves brewing tea bags in a large pot or cup for a single, longer infusion, often with added milk and sugar, and is more associated with social occasions like afternoon tea."
+  },
+  {
+    "questionID": "TRAIN_CHN_021",
+    "question": "What are the key beliefs and goals of Daoism (Taoism)?",
+    "answer": "The key belief of Daoism is in the Dao (The Way), the natural, spontaneous, and eternal principle that is the source of all existence. Its primary goals are to live in harmony with the Dao, which involves Wu Wei (effortless action, or non-action that is in accord with the natural flow), simplicity, spontaneity, and compassion. It emphasizes the balance of Yin and Yang and achieving longevity or immortality through inner alchemy and meditation."
+  },
+  {
+    "questionID": "TRAIN_CHN_022",
+    "question": "What is the significance of the Forbidden City in Beijing?",
+    "answer": "The Forbidden City was the imperial palace for the Ming and Qing dynasties (from 1420 to 1912). Its name signifies that access was forbidden to commoners. It is significant as a symbol of imperial power and the center of Chinese government for nearly 500 years. Its vast complex of wooden buildings, laid out according to cosmological principles, represents the pinnacle of traditional Chinese architecture and is a UNESCO World Heritage site."
+  },
+  {
+    "questionID": "TRAIN_CHN_023",
+    "question": "Explain the concept of 'Face' (Mianzi) in Chinese social interactions.",
+    "answer": "'Face' (Mianzi) represents a person's reputation, prestige, and social standing. It is a crucial concept in Chinese social relations. 'Giving face' means showing respect and enhancing someone's reputation, while 'losing face' means being humiliated or having one's dignity damaged. Maintaining one's own face and giving face to others is essential for maintaining social harmony and successful relationships in both personal and business contexts."
+  },
+  {
+    "questionID": "TRAIN_CHN_024",
+    "question": "What are the major regional cuisines of China? Briefly describe one.",
+    "answer": "The eight major regional cuisines are Cantonese, Sichuan, Jiangsu, Zhejiang, Fujian, Hunan, Anhui, and Shandong. For example, Sichuan cuisine is famous for its bold, pungent, and spicy flavors, often utilizing chili peppers, Sichuan peppercorns (which create a 'mala' or numbing sensation), and garlic. Popular dishes include Mapo Tofu and Kung Pao Chicken."
+  },
+  {
+    "questionID": "TRAIN_CHN_025",
+    "question": "What is the historical and cultural importance of the Terracotta Army?",
+    "answer": "The Terracotta Army is a collection of thousands of life-sized clay soldiers, horses, and chariots buried near the tomb of Emperor Qin Shi Huang around 210–209 BCE. Its importance lies in its demonstration of the emperor's immense power and his belief in an afterlife where he would need an army. It provides invaluable historical insight into the military practices, technology, and artistry of the Qin Dynasty."
+  },
+  {
+    "questionID": "TRAIN_CHN_026",
+    "question": "What is the significance of the number eight in Chinese culture?",
+    "answer": "The number eight is considered extremely lucky in Chinese culture because its pronunciation, 'bā', sounds similar to the word for 'prosper' or 'wealth' (发, fā). It is associated with good fortune and success. This is why the 2008 Beijing Olympics opened on 8/8/2008 at 8:08 PM, and why addresses and phone numbers containing the number eight are highly sought after."
+  },
+  {
+    "questionID": "TRAIN_CHN_027",
+    "question": "Explain the concept of 'Guanxi' and its role in Chinese society and business.",
+    "answer": "Guanxi refers to the network of interpersonal relationships and social connections that facilitate business and other dealings. It implies a system of mutual obligations, reciprocity, and trust. In Chinese society, strong Guanxi is often more important than formal rules or contracts, as it builds trust, enables smoother transactions, and provides access to opportunities and resources that might otherwise be unavailable."
+  },
+  {
+    "questionID": "TRAIN_CHN_028",
+    "question": "What are the 'Three Teachings' that have shaped Chinese philosophy and religion?",
+    "answer": "The 'Three Teachings' are Confucianism, Daoism, and Buddhism. They are not mutually exclusive but have coexisted and influenced each other for centuries. Confucianism provides the ethical and social framework, Daoism offers spiritual and philosophical insights on nature and the cosmos, and Buddhism contributes concepts of karma, reincarnation, and compassion. Many Chinese people incorporate elements from all three into their worldview."
+  },
+  {
+    "questionID": "TRAIN_CHN_029",
+    "question": "Describe the traditional Chinese wedding ceremony and its key symbols.",
+    "answer": "A traditional Chinese wedding is rich with symbolism. Key rituals include the bride wearing a red Qipao or dress (red for luck), the 'Three Letters and Six Etiquettes' betrothal process, the tea ceremony where the couple serves tea to their elders as a sign of respect, and the wedding banquet. Symbols include double happiness characters (囍), dragons and phoenixes (representing the couple), and dates/lotuses/peanuts (wishing for early birth of a son)."
+  },
+  {
+    "questionID": "TRAIN_CHN_030",
+    "question": "What is the difference between Simplified and Traditional Chinese characters?",
+    "answer": "Simplified Chinese characters are used in mainland China and Singapore, and were developed by the Chinese government in the 1950s-60s to increase literacy by reducing the number of strokes in many complex traditional characters. Traditional Chinese characters are used in Taiwan, Hong Kong, and Macau, and retain the original, often more complex forms. While many characters are identical, thousands differ, though the two systems are generally mutually intelligible to educated readers."
+  },
+  {
+    "questionID": "TRAIN_CHN_031",
+    "question": "Who was Laozi and what is he famous for?",
+    "answer": "Laozi is a legendary philosopher of ancient China, traditionally considered the founder of Daoism and the author of its fundamental text, the 'Daodejing' (Tao Te Ching). The text, composed of 81 short chapters, explores the concept of the Dao (The Way) and the virtue of 'Wu Wei' (non-action). His historical existence is debated, but his philosophical influence has been profound and enduring."
+  },
+  {
+    "questionID": "TRAIN_CHN_032",
+    "question": "What is the story and meaning behind the Chinese legend of the 'Butterfly Lovers'?",
+    "answer": "The legend of the Butterfly Lovers is a tragic love story often called the 'Chinese Romeo and Juliet'. It tells of Zhu Yingtai, who disguises herself as a man to attend school, where she falls in love with her classmate Liang Shanbo. When they are prevented from marrying, they both die of heartbreak and are transformed into a pair of butterflies, forever united in death. The story symbolizes the pursuit of love and learning against social constraints."
+  },
+  {
+    "questionID": "TRAIN_CHN_033",
+    "question": "What is the historical significance of the Yellow River in Chinese civilization?",
+    "answer": "The Yellow River is known as the 'Mother River' and the 'Cradle of Chinese Civilization'. The North China Plain around its banks was where the earliest Chinese dynasties, the Xia and Shang, emerged. It provided water for agriculture, but its frequent and devastating floods also earned it the name 'China's Sorrow'. This duality made controlling the river a central task of Chinese rulers and a key theme in Chinese history."
+  },
+  {
+    "questionID": "TRAIN_CHN_034",
+    "question": "Explain the art of Chinese seal carving and its purpose.",
+    "answer": "Chinese seal carving is the art of engraving a name or a motto onto a stone or other hard material to create a seal, or 'chop'. The seal is then stamped in red cinnabar paste onto documents, paintings, and calligraphy works as a signature or a mark of ownership and authenticity. It is considered one of the four traditional arts, alongside calligraphy, painting, and poetry, and is highly personalized."
+  },
+  {
+    "questionID": "TRAIN_CHN_035",
+    "question": "What are the twelve Chinese zodiac animals and how is the zodiac cycle determined?",
+    "answer": "The twelve Chinese zodiac animals are, in order: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig. The cycle is determined by the lunar year of one's birth, with each year assigned one of the twelve animals in a repeating 12-year cycle. Each animal is believed to impart specific personality traits to people born in its year."
+  },
+  {
+    "questionID": "TRAIN_CHN_036",
+    "question": "What is the concept of 'Feng Shui' and how is it applied?",
+    "answer": "Feng Shui is an ancient Chinese practice of arranging the physical environment—buildings, rooms, and furniture—to achieve harmony with the natural world and the flow of 'Qi' (energy). It is based on the principles of Yin and Yang and the five elements. Applications include orienting a house to face south, placing a desk in a 'command position', and using specific colors and materials to balance energy for health, prosperity, and good fortune."
+  },
+  {
+    "questionID": "TRAIN_CHN_037",
+    "question": "Describe the role and characteristics of the Chinese Phoenix (Fenghuang).",
+    "answer": "The Chinese Phoenix, or Fenghuang, is a mythical bird symbolizing high virtue, grace, and the union of Yin and Yang. It is often paired with the dragon, where the dragon represents the emperor and the phoenix the empress. Unlike its Western counterpart, it does not die and rebirth in fire. It is a composite creature, with parts representing other animals, and is a symbol of peace and prosperity."
+  },
+  {
+    "questionID": "TRAIN_CHN_038",
+    "question": "What is the 'One Child Policy' and what were its major social impacts?",
+    "answer": "The 'One Child Policy' was a population control initiative implemented by China from 1979 to 2015 to curb rapid population growth. Its major social impacts include a dramatic decline in birth rates, a severe gender imbalance due to a cultural preference for sons, a rapidly aging population, and the phenomenon of 'Little Emperors'—only children who were often over-indulged. It was relaxed to a 'Two Child Policy' in 2015 and a 'Three Child Policy' in 2021."
+  },
+  {
+    "questionID": "TRAIN_CHN_039",
+    "question": "What is Peking Opera and what are its most distinctive features?",
+    "answer": "Peking Opera is a highly stylized form of traditional Chinese theater combining music, vocal performance, mime, dance, and acrobatics. Its most distinctive features include elaborate and colorful makeup and costumes that symbolize character traits, the use of specific vocal techniques, and highly conventionalized and symbolic movements. For example, holding a whip signifies riding a horse, and walking in a circle represents a long journey."
+  },
+  {
+    "questionID": "TRAIN_CHN_040",
+    "question": "What is the historical importance of the Tang Dynasty?",
+    "answer": "The Tang Dynasty is often considered a golden age of Chinese civilization. It was a period of great political, military, and cultural power. Its capital, Chang'an, was the largest city in the world. The dynasty saw a flourishing of poetry (with poets like Li Bai and Du Fu), art, and Buddhism. It also re-opened and secured the Silk Road, facilitating extensive foreign trade and cultural exchange."
+  },
+  {
+    "questionID": "TRAIN_CHN_041",
+    "question": "Explain the meaning and usage of the Chinese word 'Qi' (or 'Chi').",
+    "answer": "'Qi' is a fundamental concept in Chinese culture, often translated as 'vital energy', 'life force', or 'air'. It is the circulating energy thought to be inherent in all things. The balance and free flow of Qi is considered essential for health in Traditional Chinese Medicine, for power in martial arts like Tai Chi and Qigong, and for harmony in practices like Feng Shui."
+  },
+  {
+    "questionID": "TRAIN_CHN_042",
+    "question": "What are 'Journey to the West' and 'Romance of the Three Kingdoms', and why are they important?",
+    "answer": "They are two of the 'Four Great Classical Novels' of Chinese literature. 'Journey to the West' is a mythological novel about the Monkey King's journey to India to retrieve Buddhist sutras. 'Romance of the Three Kingdoms' is a historical novel about the power struggles at the end of the Han Dynasty. Both are foundational to Chinese culture, providing countless idioms, archetypes, and stories that remain immensely popular today."
+  },
+  {
+    "questionID": "TRAIN_CHN_043",
+    "question": "What is the Double Ninth Festival and how is it celebrated?",
+    "answer": "The Double Ninth Festival occurs on the 9th day of the 9th lunar month. The number nine is Yang, and a double nine is considered potentially dangerous, so customs aim to ward off danger. People celebrate by climbing mountains to 'escape misfortune', drinking chrysanthemum wine, and wearing the zhuyu plant. In modern times, it is also celebrated as Seniors' Day, a day to honor the elderly."
+  },
+  {
+    "questionID": "TRAIN_CHN_044",
+    "question": "Describe the traditional Chinese concept of the 'Mandate of Heaven'.",
+    "answer": "The 'Mandate of Heaven' was a philosophical concept used to justify the rule of the Emperor of China. It held that heaven would bless the authority of a just ruler, but would be displeased with a despotic ruler and withdraw its mandate. Natural disasters, rebellions, and invasions were seen as signs that the mandate was lost, justifying the overthrow of the dynasty. This concept explained the dynastic cycle in Chinese history."
+  },
+  {
+    "questionID": "TRAIN_CHN_045",
+    "question": "What is the significance of jade in Chinese culture?",
+    "answer": "Jade is more than a precious stone in China; it is a cultural symbol of purity, moral integrity, grace, and beauty. It has been prized since Neolithic times for its durability and subtle, warm luster. Confucius likened the virtues of a gentleman to jade. It was used in ritual objects, burial suits for royalty, and exquisite jewelry, and is believed to have protective and health-giving properties."
+  },
+  {
+    "questionID": "TRAIN_CHN_046",
+    "question": "What are the key principles of Traditional Chinese Medicine (TCM)?",
+    "answer": "The key principles of TCM are based on the balance of Yin and Yang and the smooth flow of 'Qi' through meridians in the body. Health is a state of balance, while disease is an imbalance or blockage. TCM uses a holistic approach, employing treatments like herbal medicine, acupuncture, acupressure, cupping, and dietary therapy to restore this balance and stimulate the body's own healing abilities."
+  },
+  {
+    "questionID": "TRAIN_CHN_047",
+    "question": "What is the 'Hukou' system in China?",
+    "answer": "The Hukou system is a household registration system that officially identifies a person as a resident of a particular area. It categorizes people as either 'rural' or 'urban'. Historically, it restricted internal migration, as access to social welfare, education, and healthcare was tied to one's Hukou location. While reforms have loosened these restrictions, it remains a major factor in social stratification and the lives of migrant workers."
+  },
+  {
+    "questionID": "TRAIN_CHN_048",
+    "question": "Explain the cultural meaning behind the Chinese proverb 'A journey of a thousand miles begins with a single step'.",
+    "answer": "This proverb, from Laozi's Daodejing, emphasizes the importance of starting and the power of small, consistent actions to achieve great things. It teaches that even the most ambitious and daunting tasks must be initiated and that perseverance in taking each small step is crucial for success. It is a fundamental concept in both Daoist and Confucian thought, valuing patience and diligent effort."
+  },
+  {
+    "questionID": "TRAIN_CHN_049",
+    "question": "What is the 'Belt and Road Initiative' and what are its stated goals?",
+    "answer": "The Belt and Road Initiative is a global infrastructure development strategy adopted by the Chinese government in 2013. It aims to invest in nearly 70 countries and international organizations, building a modern version of the Silk Road. Its stated goals are to enhance regional connectivity, embrace a brighter shared future for mankind, and stimulate economic development through infrastructure projects like railways, ports, and energy pipelines across Asia, Africa, and Europe."
+  },
+  {
+    "questionID": "TRAIN_CHN_050",
+    "question": "What are the main styles of traditional Chinese clothing, and what is the difference between a Qipao and a Hanfu?",
+    "answer": "The two main styles are the Hanfu and the Qipao. Hanfu refers to the historical clothing of the Han Chinese people, characterized by cross-collars, wide sleeves, and a wrapping robe tied with a sash. The Qipao (or Cheongsam) is a more modern, form-fitting one-piece dress for women that developed from Manchu clothing in the 1920s Shanghai. It is known for its high collar and side slits, representing a blend of traditional and contemporary fashion."
+  },
+  {
+    "questionID": "TRAIN_ZH_00001",
+    "question": "What are the key philosophical and religious traditions that have shaped Chinese culture for millennia?",
+    "answer": "Three key traditions are Confucianism, Daoism, and Buddhism. Confucianism emphasizes social harmony, filial piety, and ethical conduct. Daoism focuses on living in harmony with the natural flow of the universe (the Dao). Buddhism, which entered China from India, contributes concepts of karma, reincarnation, and enlightenment. These systems often coexist and have profoundly influenced Chinese ethics, art, politics, and daily life."
+  },
+  {
+    "questionID": "TRAIN_ZH_00002",
+    "question": "Explain the concept of 'Face' (面子 miànzi) in Chinese social interactions and why it is so important.",
+    "answer": "'Face' represents a person's social prestige, reputation, and dignity. It is the currency of social standing. 'Giving face' (给面子 gěi miànzi) means showing respect, while 'losing face' (丢脸 diūliǎn) is a serious social embarrassment caused by public criticism or disrespect. Maintaining one's own face and, crucially, the face of others is essential for smooth social relationships, business dealings, and preserving group harmony."
+  },
+  {
+    "questionID": "TRAIN_ZH_00003",
+    "question": "What is Pinyin and what is its primary role in learning the Chinese language?",
+    "answer": "Pinyin is the official romanization system for Standard Chinese (Mandarin). It uses the Latin alphabet to represent the sounds of Chinese characters. Its primary role is to teach and standardize pronunciation. Pinyin is an essential tool for beginners to learn how to pronounce characters correctly and is the primary input method for typing Chinese on digital devices."
+  },
+  {
+    "questionID": "TRAIN_ZH_00004",
+    "question": "Describe the basic structure of a Chinese character and the difference between pictographs and ideographs.",
+    "answer": "Chinese characters are logograms, each representing a morpheme (a unit of meaning). Structurally, they are composed of strokes arranged in a square space. Pictographs (象形 xiàngxíng) are stylized drawings of objects, like 山 (mountain) or 人 (person). Ideographs (指事 zhǐshì) represent abstract ideas through symbolic forms, such as 上 (up) and 下 (down). The vast majority of characters are compound characters combining a semantic and a phonetic component."
+  },
+  {
+    "questionID": "TRAIN_ZH_00005",
+    "question": "What is the significance of the Dragon in Chinese culture, and how does it differ from its Western counterpart?",
+    "answer": "In Chinese culture, the dragon (龙 lóng) is a benevolent and powerful symbol of wisdom, strength, good fortune, and imperial authority. It is associated with water and weather. Unlike the often malevolent, fire-breathing dragons of Western folklore, the Chinese dragon is a divine, celestial creature revered as an auspicious protector, not a monster to be slain."
+  },
+  {
+    "questionID": "TRAIN_ZH_00006",
+    "question": "What are the four tones in Standard Mandarin Chinese, and why are they critical for meaning?",
+    "answer": "The four tones are: 1st Tone (high and level, e.g., mā 妈 - mother), 2nd Tone (rising, e.g., má 麻 - hemp), 3rd Tone (dipping, e.g., mǎ 马 - horse), and 4th Tone (falling, e.g., mà 骂 - to scold). Tones are phonemic, meaning that the same syllable with different tones can have completely different meanings. For example, 'ma' can mean 'mother,' 'hemp,' 'horse,' or 'scold' depending on the tone."
+  },
+  {
+    "questionID": "TRAIN_ZH_00007",
+    "question": "Explain the historical and cultural importance of the Silk Road.",
+    "answer": "The Silk Road was a vast network of trade routes connecting China with Central Asia, the Middle East, and Europe. It was crucial not just for the trade of silk, but also for spices, tea, porcelain, and technologies like papermaking and gunpowder. More importantly, it facilitated the exchange of ideas, religions (Buddhism, Islam), languages, and cultures, shaping the development of civilizations across Eurasia."
+  },
+  {
+    "questionID": "TRAIN_ZH_00008",
+    "question": "What is the Mid-Autumn Festival (中秋节 Zhōngqiū Jié) and what are its main traditions?",
+    "answer": "The Mid-Autumn Festival is a major harvest festival celebrated on the 15th day of the 8th lunar month. It symbolizes family reunion and thanksgiving. The main traditions include gathering with family, admiring the full moon, eating mooncakes (round pastries with sweet fillings), and lighting lanterns. The round shapes of the moon and mooncakes represent completeness and family unity."
+  },
+  {
+    "questionID": "TRAIN_ZH_00009",
+    "question": "What is the difference between 汉字 (Hànzì) and 中文 (Zhōngwén)?",
+    "answer": "中文 (Zhōngwén) refers to the Chinese language as a whole, both spoken and written. 汉字 (Hànzì) refers specifically to the Chinese written characters themselves. One learns 中文, which includes studying its pronunciation, grammar, and vocabulary, and a key part of that is learning to read and write 汉字."
+  },
+  {
+    "questionID": "TRAIN_ZH_00100",
+    "question": "Describe the core principles of Confucianism as taught by Confucius (孔子 Kǒngzǐ).",
+    "answer": "The core principles of Confucianism are rooted in ethical philosophy and social harmony. Key concepts include: 仁 (rén) - benevolence or humaneness; 义 (yì) - righteousness; 礼 (lǐ) - proper ritual and social conduct; 智 (zhì) - wisdom; and 信 (xìn) - integrity. It emphasizes the Five Key Relationships (ruler-subject, father-son, husband-wife, elder-younger, friend-friend) and the virtue of 孝 (xiào) - filial piety, or respect for one's parents and ancestors."
+  },
+  {
+    "questionID": "TRAIN_ZH_0011",
+    "question": "What is the significance of the color red in Chinese culture?",
+    "answer": "Red (红 hóng) is an extremely auspicious color in Chinese culture, symbolizing good fortune, joy, vitality, and celebration. It is ubiquitously used during festivals like Chinese New Year, in weddings, and for other happy occasions. It is believed to ward off evil spirits. Red envelopes (红包 hóngbāo) containing money are given as gifts to bring good luck."
+  },
+  {
+    "questionID": "TRAIN_ZH_0012",
+    "question": "What are the key differences between Simplified and Traditional Chinese characters?",
+    "answer": "The key difference is complexity. Simplified Chinese (简体字 jiǎntǐzì), developed in the 19500s in mainland China, has fewer strokes per character to promote literacy. Traditional Chinese (繁体字 fántǐzì) retains the original, more complex forms. They are used in Taiwan, Hong Kong, and Macau. While many characters are identical, thousands differ. For example, 'dragon' is 龙 (Simplified) and 龍 (Traditional)."
+  },
+  {
+    "questionID": "TRAIN_ZH_0013",
+    "question": "What is the historical significance of the Great Wall of China?",
+    "answer": "The Great Wall is a series of fortifications built over centuries, primarily during the Ming Dynasty, to protect the Chinese empires from nomadic invasions from the north. It served as a military defense system, a means of border control (regulating trade and immigration), and a symbol of the emperor's power and the engineering prowess of Chinese civilization."
+  },
+  {
+    "questionID": "TRAIN_ZH_0014",
+    "question": "Explain the concept of Yin and Yang (阴阳 yīnyáng).",
+    "answer": "Yin and Yang represent the concept of dualism in ancient Chinese philosophy. They describe how seemingly opposite or contrary forces are actually interconnected and interdependent in the natural world. Yin is associated with darkness, femininity, passivity, and the moon. Yang is associated with light, masculinity, activity, and the sun. The taijitu symbol illustrates their balance, with each containing a seed of the other, representing constant flow and harmony."
+  },
+  {
+    "questionID": "TRAIN_ZH_0015",
+    "question": "What is the purpose of a Chinese seal (印章 yìnzhāng)?",
+    "answer": "A Chinese seal is a stamp carved with characters, used in place of a signature to sign documents, artworks, and official papers. It is dipped in red ink paste and impressed onto a surface. Historically used by emperors and officials, they are now also used by artists, calligraphers, and individuals. A seal signifies authority, authenticity, and personal identity, and is considered a work of art in itself."
+  },
+  {
+    "questionID": "TRAIN_ZH_0016",
+    "question": "What are the 'Four Great Classical Novels' of Chinese literature? Name them and their authors.",
+    "answer": "The Four Great Classical Novels are foundational works of Chinese literature. They are: 1) 'Romance of the Three Kingdoms' (三国演义 Sānguó Yǎnyì) by Luo Guanzhong, a historical epic; 2) 'Water Margin' (水浒传 Shuǐhǔ Zhuàn) by Shi Nai'an, about outlaws; 3) 'Journey to the West' (西游记 Xīyóu Jì) by Wu Cheng'en, a mythological adventure; and 4) 'Dream of the Red Chamber' (红楼梦 Hónglóu Mèng) by Cao Xueqin, a family saga and love story."
+  },
+  {
+    "questionID": "TRAIN_ZH_0017",
+    "question": "What is the significance of tea (茶 chá) in Chinese culture beyond being a beverage?",
+    "answer": "Tea is deeply embedded in Chinese culture, representing a philosophy, an art form, and a social ritual. The Chinese tea ceremony (茶道 chádào) emphasizes mindfulness, respect, and appreciation for the tea's aroma, taste, and appearance. It is a medium for social bonding, a symbol of hospitality, and has long been associated with meditation, scholarship, and health in traditional Chinese medicine."
+  },
+  {
+    "questionID": "TRAIN_ZH_0018",
+    "question": "How does the Chinese kinship system reflect the cultural value of family and hierarchy?",
+    "answer": "The Chinese kinship system is highly detailed and specific, with distinct terms for relatives based on whether they are from the father's or mother's side, their age relative to one's parents, and their gender. This reflects the patrilineal tradition and the importance of the family clan. It reinforces the Confucian values of filial piety and the precise understanding of one's place within a complex social hierarchy, ensuring proper respect is shown to each family member."
+  },
+  {
+    "questionID": "TRAIN_ZH_0019",
+    "question": "What is the legend behind the Chinese Zodiac (生肖 shēngxiào) and its twelve animals?",
+    "answer": "The legend states that the Jade Emperor decreed the years would be named after the first twelve animals to cross a river. The clever Rat hitched a ride on the Ox and jumped ahead to finish first. The order is: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, and Pig. Each animal is believed to impart its personality traits to people born in its year, forming a 12-year cycle."
+  },
+  {
+    "questionID": "TRAIN_ZH_00200",
+    "question": "Describe the art of Chinese calligraphy and its status as a high art form.",
+    "answer": "Chinese calligraphy (书法 shūfǎ) is the artistic practice of writing Chinese characters with a brush and ink. It is revered as a 'visual art of thought' and one of the highest forms of Chinese art. It is not merely writing but an expression of the calligrapher's emotion, character, and cultivation at the moment of creation. Mastery requires years of discipline and is judged on the quality of the strokes, the composition, and the overall rhythm and spirit (气韵 qìyùn) of the work."
+  },
+  {
+    "questionID": "TRAIN_ZH_0021",
+    "question": "What are the main customs and taboos associated with Chinese New Year (春节 Chūnjié)?",
+    "answer": "Customs include cleaning the house to sweep away bad luck, having a reunion dinner, giving red envelopes, setting off firecrackers, and visiting family. Taboos include: not sweeping or taking out garbage on New Year's Day (to avoid sweeping away good fortune), not using sharp objects like scissors or knives (to avoid 'cutting' luck), not saying inauspicious words, and not breaking dishes (which symbolizes a break in family ties)."
+  },
+  {
+    "questionID": "TRAIN_ZH_0022",
+    "question": "What is Feng Shui (风水 fēngshuǐ) and what is its fundamental principle?",
+    "answer": "Feng Shui is an ancient Chinese practice of arranging the physical environment—buildings, rooms, and furniture—to achieve harmony with the natural world. Its fundamental principle is to harness the flow of 'Qi' (气), or life force energy, to promote health, prosperity, and good fortune. It considers the balance of Yin and Yang and the interaction of the five elements (wood, fire, earth, metal, water)."
+  },
+  {
+    "questionID": "TRAIN_ZH_0023",
+    "question": "What is the historical and cultural significance of the Terracotta Army?",
+    "answer": "The Terracotta Army is a collection of thousands of life-sized clay soldiers, horses, and chariots buried near the tomb of China's First Emperor, Qin Shi Huang, around 2100–2009 BCE. Its significance is multi-faceted: it demonstrates the emperor's immense power and his belief in maintaining his rule in the afterlife, and it provides an invaluable historical record of the military, technology, and art of the Qin Dynasty."
+  },
+  {
+    "questionID": "TRAIN_ZH_0024",
+    "question": "Explain the concept of 'Guanxi' (关系) in Chinese society.",
+    "answer": "Guanxi refers to the network of interpersonal relationships and social connections that facilitate business and other dealings. It implies a reciprocal exchange of favors and obligations. Having strong guanxi is crucial for success, as it builds trust and cooperation. It is more profound than simple networking; it is a deeply embedded social mechanism based on long-term mutual commitment and loyalty."
+  },
+  {
+    "questionID": "TRAIN_ZH_0025",
+    "question": "What are the key characteristics of Chinese garden design, as seen in places like the Summer Palace?",
+    "answer": "Chinese gardens are designed to create a miniature, idealized natural landscape that evokes a sense of peace and harmony. Key characteristics include: asymmetry and naturalistic layouts; the use of rocks (especially Taihu rocks) and water as central elements; the integration of architecture like pavilions and bridges; 'borrowed scenery' (借景 jièjǐng) incorporating distant views; and winding paths that reveal new vistas at every turn, encouraging contemplation and reflection."
+  },
+  {
+    "questionID": "CHIN_001",
+    "question": "What is the significance of Confucianism in Chinese culture?",
+    "answer": "Confucianism emphasizes moral integrity, filial piety, and social harmony. It shaped Chinese ethics, education, and governance for centuries, influencing family structures and societal roles."
+  },
+  {
+    "questionID": "CHIN_002",
+    "question": "Explain the concept of 'guanxi' in Chinese society.",
+    "answer": "'Guanxi' refers to networks of relationships based on trust and reciprocity. It plays a crucial role in business and social interactions, where personal connections often outweigh formal contracts."
+  },
+  {
+    "questionID": "CHIN_003",
+    "question": "What does the Chinese idiom '塞翁失马' (sāi wēng shī mǎ) mean?",
+    "answer": "It means 'a blessing in disguise.' The story teaches that misfortune can lead to unexpected good outcomes, reflecting a philosophical acceptance of life's unpredictability."
+  },
+  {
+    "questionID": "CHIN_004",
+    "question": "Describe the structure of Mandarin Chinese tones.",
+    "answer": "Mandarin has four main tones: high-level (first), rising (second), falling-rising (third), and falling (fourth), plus a neutral tone. Tones change word meaning, making them essential for comprehension."
+  },
+  {
+    "questionID": "CHIN_005",
+    "question": "What is the historical importance of the Great Wall of China?",
+    "answer": "Built over centuries, the Great Wall served as a defense against northern invasions and symbolized imperial strength. It also facilitated border control and trade regulation."
+  },
+  {
+    "questionID": "CHIN_006",
+    "question": "Explain the role of tea in Chinese culture.",
+    "answer": "Tea symbolizes hospitality and harmony. The tea ceremony reflects respect and mindfulness, and tea culture permeates daily life, literature, and traditional medicine."
+  },
+  {
+    "questionID": "CHIN_007",
+    "question": "What is the meaning of '春联' (chūnlián) during Chinese New Year?",
+    "answer": "Spring couplets are red banners with auspicious phrases placed on doorways to invite good fortune and happiness for the coming year."
+  },
+  {
+    "questionID": "CHIN_008",
+    "question": "What is the difference between simplified and traditional Chinese characters?",
+    "answer": "Simplified characters have fewer strokes and are used mainly in mainland China, while traditional characters retain complex forms and are used in Taiwan, Hong Kong, and Macau."
+  },
+  {
+    "questionID": "CHIN_009",
+    "question": "What does the dragon symbolize in Chinese culture?",
+    "answer": "The dragon represents power, strength, and good luck. It is associated with emperors and is a central figure in festivals like the Dragon Boat Festival."
+  },
+  {
+    "questionID": "CHIN_010",
+    "question": "Explain the concept of 'yin and yang' in Chinese philosophy.",
+    "answer": "Yin and yang represent complementary forces: yin is passive and dark, yang is active and bright. Their balance underpins harmony in nature and human life."
+  },
+  {
+    "questionID": "CHIN_011",
+    "question": "What is the significance of the Mid-Autumn Festival?",
+    "answer": "Celebrated on the 15th day of the 8th lunar month, it honors the moon and family reunion. People eat mooncakes and appreciate the full moon as a symbol of unity."
+  },
+  {
+    "questionID": "CHIN_012",
+    "question": "What is the origin of Chinese calligraphy?",
+    "answer": "Chinese calligraphy evolved from ancient oracle bone inscriptions. It is considered an art form that reflects the writer's personality and mastery of brush techniques."
+  },
+  {
+    "questionID": "CHIN_013",
+    "question": "What is 'pinyin' and why is it important?",
+    "answer": "Pinyin is the Romanization system for Mandarin pronunciation. It aids language learners and is used for typing Chinese characters on digital devices."
+  },
+  {
+    "questionID": "CHIN_014",
+    "question": "What does the color red symbolize in Chinese culture?",
+    "answer": "Red symbolizes luck, happiness, and prosperity. It is prominent in festivals, weddings, and decorations to ward off evil spirits."
+  },
+  {
+    "questionID": "CHIN_015",
+    "question": "What is the role of the Chinese zodiac in cultural traditions?",
+    "answer": "The zodiac assigns an animal to each year in a 12-year cycle. It influences personality beliefs, compatibility, and is central to New Year customs."
+  },
+  {
+    "questionID": "CHIN_016",
+    "question": "Explain the concept of 'face' (面子) in Chinese culture.",
+    "answer": "'Face' refers to social reputation and dignity. Maintaining face is crucial in interactions, influencing behavior, politeness, and conflict avoidance."
+  },
+  {
+    "questionID": "CHIN_017",
+    "question": "What is the significance of bamboo in Chinese art and literature?",
+    "answer": "Bamboo symbolizes resilience and integrity. It appears in poetry and painting as a metaphor for strength and flexibility in adversity."
+  },
+  {
+    "questionID": "CHIN_018",
+    "question": "What is the meaning of '四书五经' (Four Books and Five Classics)?",
+    "answer": "They are foundational Confucian texts that shaped Chinese education and governance for centuries, covering ethics, rituals, and philosophy."
+  },
+  {
+    "questionID": "CHIN_019",
+    "question": "What is the cultural importance of the Lantern Festival?",
+    "answer": "Held on the 15th day of the first lunar month, it marks the end of Chinese New Year celebrations. People light lanterns and solve riddles for good fortune."
+  },
+  {
+    "questionID": "CHIN_020",
+    "question": "What is the role of chopsticks in Chinese dining etiquette?",
+    "answer": "Chopsticks symbolize respect and tradition. Proper use includes not pointing them at others or sticking them upright in food, which resembles funeral rites."
+  },
+  {
+    "questionID": "CHIN_021",
+    "question": "What is the meaning of '一带一路' (Belt and Road Initiative)?",
+    "answer": "It is a modern economic and diplomatic strategy aimed at enhancing trade and infrastructure connectivity across Asia, Africa, and Europe."
+  },
+  {
+    "questionID": "CHIN_022",
+    "question": "What is the significance of jade in Chinese culture?",
+    "answer": "Jade symbolizes purity and virtue. It has been used for ornaments and rituals for millennia, often associated with moral excellence."
+  },
+  {
+    "questionID": "CHIN_023",
+    "question": "What is the origin of Chinese opera?",
+    "answer": "Chinese opera combines music, dance, and drama, originating in the Tang dynasty. Peking opera is the most famous form, known for elaborate costumes and facial makeup."
+  },
+  {
+    "questionID": "CHIN_024",
+    "question": "What is the meaning of '书法' (shūfǎ) in Chinese culture?",
+    "answer": "Shūfǎ means calligraphy, regarded as a high art form. It reflects aesthetic principles and the writer's inner character through brush strokes."
+  },
+  {
+    "questionID": "CHIN_025",
+    "question": "Explain the concept of 'Dao' in Daoism.",
+    "answer": "Dao refers to the 'Way,' the fundamental principle underlying the universe. Daoism advocates harmony with nature and simplicity in life."
+  },
+  {
+    "questionID": "CHIN_026",
+    "question": "What is the basic word order in Mandarin Chinese?",
+    "answer": "Mandarin follows Subject-Verb-Object (SVO) order, similar to English. For example: '我吃苹果' (wǒ chī píngguǒ) means 'I eat apples.'"
+  },
+  {
+    "questionID": "CHIN_027",
+    "question": "Explain the role of measure words in Chinese grammar.",
+    "answer": "Measure words (量词) are required between numbers and nouns. For example, '一杯水' (yì bēi shuǐ) means 'a cup of water,' where '杯' is the measure word."
+  },
+  {
+    "questionID": "CHIN_028",
+    "question": "What is the difference between '你' and '您' in Mandarin?",
+    "answer": "'你' (nǐ) is the informal 'you,' while '您' (nín) is the polite form used to show respect, often toward elders or in formal contexts."
+  },
+  {
+    "questionID": "CHIN_029",
+    "question": "Describe the function of aspect particles like '了' in Mandarin.",
+    "answer": "'了' indicates a completed action or a change of state. For example, '我吃了饭' (wǒ chī le fàn) means 'I have eaten.'"
+  },
+  {
+    "questionID": "CHIN_030",
+    "question": "What is the significance of radicals in Chinese characters?",
+    "answer": "Radicals are components that often indicate meaning or category. For example, the radical '氵' relates to water and appears in characters like '河' (river)."
+  },
+  {
+    "questionID": "CHIN_031",
+    "question": "Explain the concept of homophones in Mandarin Chinese.",
+    "answer": "Mandarin has many homophones due to limited syllable combinations and tonal distinctions. For example, '四' (four) and '死' (death) sound similar, influencing cultural taboos."
+  },
+  {
+    "questionID": "CHIN_032",
+    "question": "What is the difference between '的', '地', and '得' in Chinese grammar?",
+    "answer": "'的' marks possession or adjectives, '地' connects adverbs to verbs, and '得' introduces complements. Example: '漂亮的花' (beautiful flower), '慢慢地走' (walk slowly), '跑得快' (run fast)."
+  },
+  {
+    "questionID": "CHIN_033",
+    "question": "What does the idiom '画蛇添足' mean?",
+    "answer": "It means 'to ruin something by adding unnecessary details,' literally 'drawing legs on a snake.' It warns against overdoing things."
+  },
+  {
+    "questionID": "CHIN_034",
+    "question": "What is the role of tone sandhi in Mandarin pronunciation?",
+    "answer": "Tone sandhi refers to tone changes in context. For example, two third tones together become second + third: '你好' (nǐ hǎo) is pronounced 'ní hǎo.'"
+  },
+  {
+    "questionID": "CHIN_035",
+    "question": "What is the difference between '会', '能', and '可以'?",
+    "answer": "'会' indicates learned ability, '能' expresses physical or situational ability, and '可以' means permission. Example: '我会游泳' (I can swim), '我能搬箱子' (I can lift the box), '我可以走了吗?' (May I leave?)."
+  },
+  {
+    "questionID": "CHIN_036",
+    "question": "Explain the concept of 'neutral tone' in Mandarin.",
+    "answer": "Neutral tone is light and unstressed, often used in particles or suffixes. For example, '妈妈' (māma) has a neutral tone on the second syllable."
+  },
+  {
+    "questionID": "CHIN_037",
+    "question": "What is the difference between '是' and '有' in Chinese?",
+    "answer": "'是' means 'to be' and is used for identification, while '有' means 'to have.' Example: '我是老师' (I am a teacher), '我有书' (I have books)."
+  },
+  {
+    "questionID": "CHIN_038",
+    "question": "What does the idiom '对牛弹琴' mean?",
+    "answer": "It means 'playing the lute to a cow,' referring to speaking to someone who cannot appreciate what you say—similar to 'casting pearls before swine.'"
+  },
+  {
+    "questionID": "CHIN_039",
+    "question": "What is the difference between '再' and '又' when expressing repetition?",
+    "answer": "'再' refers to future repetition, while '又' refers to past or present repetition. Example: '我再去一次' (I will go again), '他又来了' (He came again)."
+  },
+  {
+    "questionID": "CHIN_040",
+    "question": "Explain the structure of Chinese compound words.",
+    "answer": "Compound words combine two or more morphemes, often forming nouns or verbs. Example: '电脑' (diànnǎo, computer) combines 'electric' and 'brain.'"
+  },
+  {
+    "questionID": "CHIN_041",
+    "question": "What is the difference between '为什么' and '怎么'?",
+    "answer": "'为什么' asks for reasons ('why'), while '怎么' asks for methods or conditions ('how'). Example: '你为什么迟到?' (Why are you late?), '你怎么做的?' (How did you do it?)."
+  },
+  {
+    "questionID": "CHIN_042",
+    "question": "What does the idiom '百闻不如一见' mean?",
+    "answer": "It means 'seeing once is better than hearing a hundred times,' emphasizing the value of direct experience over hearsay."
+  },
+  {
+    "questionID": "CHIN_043",
+    "question": "What is the difference between '谁', '什么', and '哪'?",
+    "answer": "'谁' means 'who,' '什么' means 'what,' and '哪' means 'which.' Example: '这是谁的书?' (Whose book is this?), '你在做什么?' (What are you doing?), '你喜欢哪一个?' (Which one do you like?)."
+  },
+  {
+    "questionID": "CHIN_044",
+    "question": "Explain the concept of 'topic-prominent' structure in Chinese.",
+    "answer": "Chinese often emphasizes the topic before the comment. Example: '这本书，我看过了' (This book, I have read), where the topic precedes the statement."
+  },
+  {
+    "questionID": "CHIN_045",
+    "question": "What is the difference between '吧' and '呢' in sentence-final particles?",
+    "answer": "'吧' suggests a suggestion or soft command, while '呢' indicates a question or continuation. Example: '我们走吧' (Let's go), '你呢?' (And you?)."
+  },
+  {
+    "questionID": "CHIN_046",
+    "question": "What does the idiom '刻舟求剑' mean?",
+    "answer": "It means 'marking the boat to find a lost sword,' criticizing rigid thinking that ignores changing circumstances."
+  },
+  {
+    "questionID": "CHIN_047",
+    "question": "What is the difference between '多少' and '几'?",
+    "answer": "'多少' asks for an indefinite quantity, while '几' asks for a small, specific number. Example: '你有多少书?' (How many books do you have?), '你有几本书?' (How many books do you have?)."
+  },
+  {
+    "questionID": "CHIN_048",
+    "question": "Explain the role of classifiers in Chinese numerals.",
+    "answer": "Classifiers are inserted between numbers and nouns. Example: '三个人' (three people), where '个' is the classifier for people."
+  },
+  {
+    "questionID": "CHIN_049",
+    "question": "What does the idiom '纸上谈兵' mean?",
+    "answer": "It means 'discussing military tactics on paper,' criticizing impractical theories without real-world application."
+  },
+  {
+    "questionID": "CHIN_050",
+    "question": "What is the difference between '因为...所以...' and '虽然...但是...'?",
+    "answer": "'因为...所以...' expresses cause and effect ('because... therefore...'), while '虽然...但是...' expresses contrast ('although... but...'). Example: '因为下雨，所以我没去' (Because it rained, I didn't go), '虽然下雨，但是我去了' (Although it rained, I went)."
+  },
+  {
+    "questionID": "CHIN_051",
+    "question": "What is the difference between '把' and '被' constructions in Mandarin?",
+    "answer": "'把' introduces a sentence where the object is acted upon intentionally, often with disposal meaning. Example: '我把书放在桌子上' (I put the book on the table). '被' introduces passive voice, indicating the subject receives the action. Example: '书被我放在桌子上' (The book was placed on the table by me)."
+  },
+  {
+    "questionID": "CHIN_052",
+    "question": "Explain the structure '连...都...' in Chinese emphasis.",
+    "answer": "The pattern '连...都...' emphasizes extremity or unexpectedness. Example: '连他都不知道' means 'Even he doesn't know,' highlighting surprise that someone expected to know does not."
+  },
+  {
+    "questionID": "CHIN_053",
+    "question": "What does the idiom '亡羊补牢' mean?",
+    "answer": "It means 'to mend the pen after losing sheep,' suggesting that taking corrective action after a mistake is still worthwhile."
+  },
+  {
+    "questionID": "CHIN_054",
+    "question": "How do tone changes occur in the words '一' and '不'?",
+    "answer": "'一' changes to second tone before a fourth tone (e.g., '一个' → 'yí gè'), and '不' changes to second tone before a fourth tone (e.g., '不是' → 'bú shì')."
+  },
+  {
+    "questionID": "CHIN_055",
+    "question": "What is the role of Classical Chinese in modern writing?",
+    "answer": "Classical Chinese (文言文) influences idioms, formal expressions, and literary style. While modern writing uses vernacular Chinese, classical phrases remain common in formal contexts."
+  },
+  {
+    "questionID": "CHIN_056",
+    "question": "Explain the difference between '着', '了', and '过' as aspect markers.",
+    "answer": "'着' indicates a continuous state (e.g., '门开着' – The door is open), '了' marks completion or change (e.g., '我吃了饭' – I ate), and '过' denotes past experience (e.g., '我去过北京' – I have been to Beijing)."
+  },
+  {
+    "questionID": "CHIN_057",
+    "question": "What does the idiom '鹤立鸡群' mean?",
+    "answer": "It means 'a crane standing among chickens,' describing someone who stands out as exceptional among ordinary people."
+  },
+  {
+    "questionID": "CHIN_058",
+    "question": "What is the difference between '哪儿' and '哪里'?",
+    "answer": "Both mean 'where,' but '哪儿' is more common in northern dialects, while '哪里' is used in southern regions and formal contexts."
+  },
+  {
+    "questionID": "CHIN_059",
+    "question": "Explain the concept of reduplication in Chinese adjectives.",
+    "answer": "Reduplication softens tone or adds emphasis. Example: '看看' (take a look), '慢慢' (slowly), '甜甜的' (sweet)."
+  },
+  {
+    "questionID": "CHIN_060",
+    "question": "What does the idiom '掩耳盗铃' mean?",
+    "answer": "It means 'covering one's ears while stealing a bell,' criticizing self-deception or futile attempts to hide wrongdoing."
+  },
+  {
+    "questionID": "CHIN_061",
+    "question": "What is the difference between '才' and '就' in expressing timing?",
+    "answer": "'才' implies lateness or difficulty (e.g., '他十点才来' – He came only at 10), while '就' implies earliness or ease (e.g., '他八点就来了' – He came as early as 8)."
+  },
+  {
+    "questionID": "CHIN_062",
+    "question": "Explain the role of '呢' in progressive aspect.",
+    "answer": "'呢' marks ongoing action when added after a verb phrase. Example: '我在吃饭呢' means 'I am eating.'"
+  },
+  {
+    "questionID": "CHIN_063",
+    "question": "What does the idiom '井底之蛙' mean?",
+    "answer": "It means 'a frog at the bottom of a well,' describing someone with a narrow perspective or limited knowledge."
+  },
+  {
+    "questionID": "CHIN_064",
+    "question": "What is the difference between '和', '跟', and '同'?",
+    "answer": "All mean 'with' or 'and,' but '和' is most common in writing, '跟' in speech, and '同' in formal contexts."
+  },
+  {
+    "questionID": "CHIN_065",
+    "question": "Explain the concept of 'resultative complements' in Chinese.",
+    "answer": "Resultative complements indicate the outcome of an action. Example: '吃完' (finish eating), '打破' (break by hitting)."
+  },
+  {
+    "questionID": "CHIN_066",
+    "question": "What does the idiom '骑虎难下' mean?",
+    "answer": "It means 'hard to get off a tiger once riding it,' describing a situation where one cannot easily withdraw after starting."
+  },
+  {
+    "questionID": "CHIN_067",
+    "question": "What is the difference between '给' and '让' in causative constructions?",
+    "answer": "'给' often introduces the beneficiary (e.g., '给他买书' – buy a book for him), while '让' introduces permission or causation (e.g., '让我来' – let me do it)."
+  },
+  {
+    "questionID": "CHIN_068",
+    "question": "Explain the use of '把' in disposal constructions.",
+    "answer": "'把' moves the object before the verb to emphasize its handling. Example: '把门关上' means 'close the door.'"
+  },
+  {
+    "questionID": "CHIN_069",
+    "question": "What does the idiom '画饼充饥' mean?",
+    "answer": "It means 'drawing a cake to satisfy hunger,' criticizing empty promises or unrealistic solutions."
+  },
+  {
+    "questionID": "CHIN_070",
+    "question": "What is the difference between '先...再...' and '一边...一边...'?",
+    "answer": "'先...再...' expresses sequential actions (first... then...), while '一边...一边...' expresses simultaneous actions (doing two things at once)."
+  },
+  {
+    "questionID": "CHIN_071",
+    "question": "Explain the concept of 'topic-comment' sentences in Chinese.",
+    "answer": "Chinese often starts with a topic followed by a comment. Example: '这件事，我不清楚' (This matter, I am not clear about)."
+  },
+  {
+    "questionID": "CHIN_072",
+    "question": "What does the idiom '自相矛盾' mean?",
+    "answer": "It means 'self-contradiction,' originating from a story about a man who claimed his spear could pierce any shield and his shield could block any spear."
+  },
+  {
+    "questionID": "CHIN_073",
+    "question": "What is the difference between '能不能' and '可不可以'?",
+    "answer": "Both ask for possibility or permission, but '能不能' focuses on ability, while '可不可以' emphasizes permission."
+  },
+  {
+    "questionID": "CHIN_074",
+    "question": "Explain the role of '啊' in sentence-final position.",
+    "answer": "'啊' softens tone, adds emphasis, or conveys surprise. Example: '好啊!' (Great!), '慢一点啊' (Slow down!)."
+  },
+  {
+    "questionID": "CHIN_075",
+    "question": "What does the idiom '杯弓蛇影' mean?",
+    "answer": "It means 'mistaking the reflection of a bow in a cup for a snake,' describing unnecessary fear caused by misunderstanding."
+  },
+  {
+    "questionID": "CHIN_076",
+    "question": "What is the difference between '多少' used as a question and as an adverb?",
+    "answer": "As a question, '多少' asks for quantity (e.g., '你有多少书?' – How many books do you have?). As an adverb, it means 'somewhat' or 'a little' (e.g., '他多少懂一点' – He understands a little)."
+  },
+  {
+    "questionID": "CHIN_077",
+    "question": "Explain the concept of 'serial verb constructions' in Chinese.",
+    "answer": "Serial verb constructions use multiple verbs in sequence without conjunctions. Example: '我去买东西' (I go buy things), where '去' and '买' appear together."
+  },
+  {
+    "questionID": "CHIN_078",
+    "question": "What does the idiom '守株待兔' mean?",
+    "answer": "It means 'waiting by a tree stump for a rabbit,' criticizing reliance on luck instead of effort."
+  },
+  {
+    "questionID": "CHIN_079",
+    "question": "What is the difference between '已经' and '才' in time expressions?",
+    "answer": "'已经' emphasizes that something has already happened (e.g., '我已经吃饭了' – I have already eaten), while '才' implies lateness or unexpected delay (e.g., '他才来' – He came late)."
+  },
+  {
+    "questionID": "CHIN_080",
+    "question": "Explain the role of '过' in experiential aspect.",
+    "answer": "'过' indicates that an action has been experienced at least once. Example: '我去过北京' means 'I have been to Beijing.'"
+  },
+  {
+    "questionID": "CHIN_081",
+    "question": "What does the idiom '望梅止渴' mean?",
+    "answer": "It means 'quenching thirst by thinking of plums,' describing comfort through imagination when reality cannot satisfy needs."
+  },
+  {
+    "questionID": "CHIN_082",
+    "question": "What is the difference between '要是' and '如果'?",
+    "answer": "Both mean 'if,' but '要是' is more colloquial, while '如果' is slightly more formal. Example: '要是下雨，我们就不去' vs. '如果下雨，我们就不去.'"
+  },
+  {
+    "questionID": "CHIN_083",
+    "question": "Explain the concept of 'topic chains' in Chinese discourse.",
+    "answer": "Topic chains link sentences by maintaining the same topic without repeating it. Example: '这本书我买了，很好看.' The second clause omits the subject because it's understood."
+  },
+  {
+    "questionID": "CHIN_084",
+    "question": "What does the idiom '一箭双雕' mean?",
+    "answer": "It means 'shooting two eagles with one arrow,' equivalent to 'killing two birds with one stone.'"
+  },
+  {
+    "questionID": "CHIN_085",
+    "question": "What is the difference between '才' and '刚'?",
+    "answer": "'才' emphasizes lateness or difficulty, while '刚' emphasizes recentness. Example: '他才来' (He came late), '他刚来' (He just arrived)."
+  },
+  {
+    "questionID": "CHIN_086",
+    "question": "Explain the role of '呢' in elliptical questions.",
+    "answer": "'呢' can indicate a question when the verb is omitted. Example: '你呢?' means 'And you?'"
+  },
+  {
+    "questionID": "CHIN_087",
+    "question": "What does the idiom '指鹿为马' mean?",
+    "answer": "It means 'calling a deer a horse,' referring to deliberate distortion of facts for manipulation."
+  },
+  {
+    "questionID": "CHIN_088",
+    "question": "What is the difference between '差不多' and '几乎'?",
+    "answer": "Both mean 'almost,' but '差不多' can also mean 'about the same,' while '几乎' strictly means 'nearly.' Example: '他们差不多一样高' vs. '他几乎摔倒.'"
+  },
+  {
+    "questionID": "CHIN_089",
+    "question": "Explain the concept of 'coverbs' in Chinese grammar.",
+    "answer": "Coverbs function like prepositions but retain verbal properties. Example: '给' in '给他写信' (write a letter to him) acts as a coverb."
+  },
+  {
+    "questionID": "CHIN_090",
+    "question": "What does the idiom '画龙点睛' mean?",
+    "answer": "It means 'adding the eyes to a dragon,' describing a finishing touch that brings something to life."
+  },
+  {
+    "questionID": "CHIN_091",
+    "question": "What is the difference between '以后' and '之后'?",
+    "answer": "Both mean 'after,' but '以后' often refers to future time, while '之后' can refer to past or future. Example: '吃饭以后去散步' vs. '会议之后我们讨论.'"
+  },
+  {
+    "questionID": "CHIN_092",
+    "question": "Explain the role of '吧' in rhetorical questions.",
+    "answer": "'吧' can soften rhetorical questions. Example: '你不会不知道吧?' means 'You can't not know, right?'"
+  },
+  {
+    "questionID": "CHIN_093",
+    "question": "What does the idiom '刻苦耐劳' mean?",
+    "answer": "It means 'hardworking and enduring,' praising diligence and perseverance."
+  },
+  {
+    "questionID": "CHIN_094",
+    "question": "What is the difference between '马上' and '立刻'?",
+    "answer": "Both mean 'immediately,' but '马上' is slightly less formal and often used in speech, while '立刻' is more formal."
+  },
+  {
+    "questionID": "CHIN_095",
+    "question": "Explain the concept of 'resultative verb compounds' in Chinese.",
+    "answer": "Resultative compounds combine an action verb with a result verb. Example: '打破' (break by hitting), '吃完' (finish eating)."
+  },
+  {
+    "questionID": "CHIN_096",
+    "question": "What does the idiom '愚公移山' mean?",
+    "answer": "It means 'the foolish old man moves mountains,' symbolizing perseverance in overcoming great obstacles."
+  },
+  {
+    "questionID": "CHIN_097",
+    "question": "What is the difference between '并且' and '而且'?",
+    "answer": "Both mean 'and,' but '而且' often adds emphasis or introduces additional information, while '并且' is more formal."
+  },
+  {
+    "questionID": "CHIN_098",
+    "question": "Explain the role of '着' in progressive aspect.",
+    "answer": "'着' indicates a continuous state or ongoing action. Example: '他笑着说' means 'He said while smiling.'"
+  },
+  {
+    "questionID": "CHIN_099",
+    "question": "What does the idiom '半途而废' mean?",
+    "answer": "It means 'to give up halfway,' criticizing lack of perseverance."
+  },
+  {
+    "questionID": "CHIN_100",
+    "question": "What is the difference between '一定' and '肯定'?",
+    "answer": "'一定' expresses certainty or obligation (e.g., '你一定要来' – You must come), while '肯定' emphasizes affirmation (e.g., '他肯定知道' – He definitely knows)."
+  },
+  {
+    "questionID": "LEARN_CHN_001",
+    "question": "How do you say 'hi' in Chinese?",
+    "answer": "You can say '你好' (nǐ hǎo), which literally means 'you good' and is the most common greeting."
+  },
+  {
+    "questionID": "LEARN_CHN_002",
+    "question": "How do you ask 'What is your name?' in Chinese?",
+    "answer": "You say '你叫什么名字？' (nǐ jiào shénme míngzi?), which means 'What are you called?'"
+  },
+  {
+    "questionID": "LEARN_CHN_003",
+    "question": "How do you say 'thank you' in Chinese?",
+    "answer": "You say '谢谢' (xièxiè), which is the standard way to express gratitude."
+  },
+  {
+    "questionID": "LEARN_CHN_004",
+    "question": "How do you say 'goodbye' in Chinese?",
+    "answer": "You say '再见' (zàijiàn), which means 'see you again.'"
+  },
+  {
+    "questionID": "LEARN_CHN_005",
+    "question": "中国的首都是哪里?",
+    "answer": "中国的首都是北京 (Běijīng), which is the political and cultural center of China."
+  },
+  {
+    "questionID": "LEARN_CHN_006",
+    "question": "How do you ask 'Where is the bathroom?' in Chinese?",
+    "answer": "You say '洗手间在哪里？' (xǐshǒujiān zài nǎlǐ?), which means 'Where is the restroom?'"
+  },
+  {
+    "questionID": "LEARN_CHN_007",
+    "question": "How do you say 'I am learning Chinese' in Mandarin?",
+    "answer": "You say '我在学中文' (wǒ zài xué zhōngwén), which means 'I am studying Chinese.'"
+  },
+  {
+    "questionID": "LEARN_CHN_008",
+    "question": "How do you ask 'How much is this?' in Chinese?",
+    "answer": "You say '这个多少钱？' (zhège duōshǎo qián?), which means 'How much does this cost?'"
+  },
+  {
+    "questionID": "LEARN_CHN_009",
+    "question": "How do you say 'I like Chinese food' in Mandarin?",
+    "answer": "You say '我喜欢中国菜' (wǒ xǐhuān zhōngguó cài), which means 'I like Chinese cuisine.'"
+  },
+  {
+    "questionID": "LEARN_CHN_010",
+    "question": "How do you ask 'Do you speak English?' in Chinese?",
+    "answer": "You say '你会说英语吗？' (nǐ huì shuō yīngyǔ ma?), which means 'Can you speak English?'"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_001",
+    "question": "How do you say 'Hello' in Chinese?",
+    "answer": "You say '你好' (nǐ hǎo), which means 'Hello'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_002",
+    "question": "How do you ask 'What is your name?' in Chinese?",
+    "answer": "You say '你叫什么名字？' (nǐ jiào shénme míngzì?), which means 'What is your name?'.",
+    "grammarNote": "'叫' means 'to be called'. Pattern: 你 叫 什么 名字？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_003",
+    "question": "How do you say 'Thank you' in Chinese?",
+    "answer": "You say '谢谢' (xièxiè), which means 'Thank you'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_004",
+    "question": "How do you ask 'Where is the bathroom?' in Chinese?",
+    "answer": "You say '洗手间在哪里？' (xǐshǒujiān zài nǎlǐ?), which means 'Where is the bathroom?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_005",
+    "question": "How do you say 'Goodbye' in Chinese?",
+    "answer": "You say '再见' (zàijiàn), which means 'Goodbye'.",
+    "grammarNote": "'再/一遍' for repetition: 再 说 一遍."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_006",
+    "question": "How do you ask 'How much is this?' in Chinese?",
+    "answer": "You say '这个多少钱？' (zhège duōshǎo qián?), which means 'How much is this?'.",
+    "grammarNote": "'多少' asks quantity/price. Pattern: ... 是 多少？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_007",
+    "question": "How do you say 'I don't understand' in Chinese?",
+    "answer": "You say '我不懂' (wǒ bù dǒng), which means 'I don't understand'.",
+    "grammarNote": "'不' negates present/future; placed before verb/adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_008",
+    "question": "How do you ask 'Can you help me?' in Chinese?",
+    "answer": "You say '你能帮我吗？' (nǐ néng bāng wǒ ma?), which means 'Can you help me?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_009",
+    "question": "How do you say 'Excuse me' in Chinese?",
+    "answer": "You say '不好意思' (bù hǎo yìsi), which means 'Excuse me' or 'Sorry'.",
+    "grammarNote": "'不' negates present/future; placed before verb/adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_010",
+    "question": "How do you ask 'Do you speak English?' in Chinese?",
+    "answer": "You say '你会说英语吗？' (nǐ huì shuō yīngyǔ ma?), which means 'Can you speak English?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_011",
+    "question": "How do you say 'Yes' in Chinese?",
+    "answer": "You say '是' (shì), which means 'Yes'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_012",
+    "question": "How do you say 'No' in Chinese?",
+    "answer": "You say '不是' (bú shì), which means 'No'.",
+    "grammarNote": "'不' negates present/future; placed before verb/adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_013",
+    "question": "How do you say 'Sorry' in Chinese?",
+    "answer": "You say '对不起' (duìbuqǐ), which means 'Sorry'.",
+    "grammarNote": "'不' negates present/future; placed before verb/adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_014",
+    "question": "How do you say 'Please' in Chinese?",
+    "answer": "You say '请' (qǐng), which means 'Please'.",
+    "grammarNote": "'请' (please) softens requests and often precedes the verb."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_015",
+    "question": "How do you ask 'What time is it?' in Chinese?",
+    "answer": "You say '现在几点？' (xiànzài jǐ diǎn?), which means 'What time is it?'.",
+    "grammarNote": "'几点' asks time (hour). Pattern: 现在 几点？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_016",
+    "question": "How do you say 'I love you' in Chinese?",
+    "answer": "You say '我爱你' (wǒ ài nǐ), which means 'I love you'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_017",
+    "question": "How do you ask 'Where are you from?' in Chinese?",
+    "answer": "You say '你来自哪里？' (nǐ láizì nǎlǐ?), which means 'Where are you from?'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_018",
+    "question": "How do you say 'I am from Ireland' in Chinese?",
+    "answer": "You say '我来自爱尔兰' (wǒ láizì ài'ěrlán), which means 'I am from Ireland'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_019",
+    "question": "How do you ask 'Can I pay by card?' in Chinese?",
+    "answer": "You say '可以刷卡吗？' (kěyǐ shuākǎ ma?), which means 'Can I pay by card?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_020",
+    "question": "How do you say 'I am hungry' in Chinese?",
+    "answer": "You say '我饿了' (wǒ è le), which means 'I am hungry'.",
+    "grammarNote": "'了' marks completed action or change of state (e.g., 我饿了)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_021",
+    "question": "How do you say 'I am thirsty' in Chinese?",
+    "answer": "You say '我渴了' (wǒ kě le), which means 'I am thirsty'.",
+    "grammarNote": "'了' marks completed action or change of state (e.g., 我饿了)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_022",
+    "question": "How do you ask 'Where is the train station?' in Chinese?",
+    "answer": "You say '火车站在哪里？' (huǒchēzhàn zài nǎlǐ?), which means 'Where is the train station?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_023",
+    "question": "How do you say 'I need a doctor' in Chinese?",
+    "answer": "You say '我需要医生' (wǒ xūyào yīshēng), which means 'I need a doctor'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_024",
+    "question": "How do you ask 'What is this?' in Chinese?",
+    "answer": "You say '这是什么？' (zhè shì shénme?), which means 'What is this?'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_025",
+    "question": "How do you say 'I like it' in Chinese?",
+    "answer": "You say '我喜欢它' (wǒ xǐhuān tā), which means 'I like it'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_026",
+    "question": "How do you ask 'Do you have vegetarian food?' in Chinese?",
+    "answer": "You say '有素食吗？' (yǒu sùshí ma?), which means 'Do you have vegetarian food?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '有' = have/there is. Questions: 有 ... 吗？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_027",
+    "question": "How do you say 'I am learning Chinese' in Chinese?",
+    "answer": "You say '我在学中文' (wǒ zài xué zhōngwén), which means 'I am learning Chinese'.",
+    "grammarNote": "'在 + Verb' marks ongoing action (present progressive)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_028",
+    "question": "How do you ask 'Can you speak slowly?' in Chinese?",
+    "answer": "You say '你能说慢一点吗？' (nǐ néng shuō màn yīdiǎn ma?), which means 'Can you speak slowly?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object. Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_029",
+    "question": "How do you say 'I am tired' in Chinese?",
+    "answer": "You say '我累了' (wǒ lèi le), which means 'I am tired'.",
+    "grammarNote": "'了' marks completed action or change of state (e.g., 我饿了)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_030",
+    "question": "How do you ask 'Where can I buy tickets?' in Chinese?",
+    "answer": "You say '在哪里买票？' (zài nǎ mǎi piào?), which means 'Where can I buy tickets?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_031",
+    "question": "How do you say 'I need water' in Chinese?",
+    "answer": "You say '我需要水' (wǒ xūyào shuǐ), which means 'I need water'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_032",
+    "question": "How do you ask 'Is there Wi-Fi here?' in Chinese?",
+    "answer": "You say '这里有无线网络吗？' (zhèlǐ yǒu wúxiàn wǎngluò ma?), which means 'Is there Wi-Fi here?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '有' = have/there is. Questions: 有 ... 吗？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_033",
+    "question": "How do you say 'I am lost' in Chinese?",
+    "answer": "You say '我迷路了' (wǒ mílù le), which means 'I am lost'.",
+    "grammarNote": "'了' marks completed action or change of state (e.g., 我饿了)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_034",
+    "question": "How do you ask 'Can you recommend a restaurant?' in Chinese?",
+    "answer": "You say '你能推荐一家餐馆吗？' (nǐ néng tuījiàn yī jiā cānguǎn ma?), which means 'Can you recommend a restaurant?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object. Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_035",
+    "question": "How do you say 'I am happy' in Chinese?",
+    "answer": "You say '我很开心' (wǒ hěn kāixīn), which means 'I am happy'.",
+    "grammarNote": "'很' is often used with adjectives; links subject and adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_036",
+    "question": "How do you ask 'What is your phone number?' in Chinese?",
+    "answer": "You say '你的电话号码是多少？' (nǐ de diànhuà hàomǎ shì duōshǎo?), which means 'What is your phone number?'.",
+    "grammarNote": "'多少' asks quantity/price. Pattern: ... 是 多少？ '的' links modifiers to nouns (e.g., 最近的 医院)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_037",
+    "question": "How do you say 'I am cold' in Chinese?",
+    "answer": "You say '我冷' (wǒ lěng), which means 'I am cold'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_038",
+    "question": "How do you say 'I am hot' in Chinese?",
+    "answer": "You say '我热' (wǒ rè), which means 'I am hot'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_039",
+    "question": "How do you ask 'Can I have the bill?' in Chinese?",
+    "answer": "You say '可以给我账单吗？' (kěyǐ gěi wǒ zhàngdān ma?), which means 'Can I have the bill?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object. '给' indicates 'to give/to'. Pattern: 给 我 + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_040",
+    "question": "How do you say 'I am sick' in Chinese?",
+    "answer": "You say '我生病了' (wǒ shēngbìng le), which means 'I am sick'.",
+    "grammarNote": "'了' marks completed action or change of state (e.g., 我饿了)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_041",
+    "question": "How do you ask 'Where is the nearest hospital?' in Chinese?",
+    "answer": "You say '最近的医院在哪里？' (zuìjìn de yīyuàn zài nǎlǐ?), which means 'Where is the nearest hospital?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？ '的' links modifiers to nouns (e.g., 最近的 医院)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_042",
+    "question": "How do you say 'I need help' in Chinese?",
+    "answer": "You say '我需要帮助' (wǒ xūyào bāngzhù), which means 'I need help'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_043",
+    "question": "How do you ask 'What is your favorite food?' in Chinese?",
+    "answer": "You say '你最喜欢的食物是什么？' (nǐ zuì xǐhuān de shíwù shì shénme?), which means 'What is your favorite food?'.",
+    "grammarNote": "'的' links modifiers to nouns (e.g., 最近的 医院)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_044",
+    "question": "How do you say 'I am busy' in Chinese?",
+    "answer": "You say '我很忙' (wǒ hěn máng), which means 'I am busy'.",
+    "grammarNote": "'很' is often used with adjectives; links subject and adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_045",
+    "question": "How do you ask 'Can I take a photo?' in Chinese?",
+    "answer": "You say '我可以拍照吗？' (wǒ kěyǐ pāizhào ma?), which means 'Can I take a photo?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_046",
+    "question": "How do you say 'I am ready' in Chinese?",
+    "answer": "You say '我准备好了' (wǒ zhǔnbèi hǎo le), which means 'I am ready'.",
+    "grammarNote": "'了' marks completed action or change of state (e.g., 我饿了)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_047",
+    "question": "How do you ask 'What does this mean?' in Chinese?",
+    "answer": "You say '这是什么意思？' (zhè shì shénme yìsi?), which means 'What does this mean?'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_048",
+    "question": "How do you say 'I am learning fast' in Chinese?",
+    "answer": "You say '我学得很快' (wǒ xué de hěn kuài), which means 'I am learning fast'.",
+    "grammarNote": "'很' is often used with adjectives; links subject and adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_049",
+    "question": "How do you ask 'Can you write it down?' in Chinese?",
+    "answer": "You say '你能写下来吗？' (nǐ néng xiě xiàlái ma?), which means 'Can you write it down?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_050",
+    "question": "How do you say 'I am excited' in Chinese?",
+    "answer": "You say '我很激动' (wǒ hěn jīdòng), which means 'I am excited'.",
+    "grammarNote": "'很' is often used with adjectives; links subject and adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_051",
+    "question": "How do you say 'one' in Chinese?",
+    "answer": "You say '一' (yī), which means 'one'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_052",
+    "question": "How do you say 'two' in Chinese?",
+    "answer": "You say '二' (èr), which means 'two'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_053",
+    "question": "How do you say 'three' in Chinese?",
+    "answer": "You say '三' (sān), which means 'three'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_054",
+    "question": "How do you say 'four' in Chinese?",
+    "answer": "You say '四' (sì), which means 'four'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_055",
+    "question": "How do you say 'five' in Chinese?",
+    "answer": "You say '五' (wǔ), which means 'five'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_056",
+    "question": "How do you say 'six' in Chinese?",
+    "answer": "You say '六' (liù), which means 'six'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_057",
+    "question": "How do you say 'seven' in Chinese?",
+    "answer": "You say '七' (qī), which means 'seven'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_058",
+    "question": "How do you say 'eight' in Chinese?",
+    "answer": "You say '八' (bā), which means 'eight'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_059",
+    "question": "How do you say 'nine' in Chinese?",
+    "answer": "You say '九' (jiǔ), which means 'nine'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_060",
+    "question": "How do you say 'ten' in Chinese?",
+    "answer": "You say '十' (shí), which means 'ten'.",
+    "grammarNote": "Numbers are single characters; use measure words with nouns (e.g., 一个, 两个)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_061",
+    "question": "How do you say 'red' in Chinese?",
+    "answer": "You say '红色' (hóngsè), which means 'red'.",
+    "grammarNote": "Colors often use '色' (color), e.g., 红色 (red)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_062",
+    "question": "How do you say 'blue' in Chinese?",
+    "answer": "You say '蓝色' (lánsè), which means 'blue'.",
+    "grammarNote": "Colors often use '色' (color), e.g., 红色 (red)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_063",
+    "question": "How do you say 'green' in Chinese?",
+    "answer": "You say '绿色' (lǜsè), which means 'green'.",
+    "grammarNote": "Colors often use '色' (color), e.g., 红色 (red)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_064",
+    "question": "How do you say 'yellow' in Chinese?",
+    "answer": "You say '黄色' (huángsè), which means 'yellow'.",
+    "grammarNote": "Colors often use '色' (color), e.g., 红色 (red)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_065",
+    "question": "How do you say 'black' in Chinese?",
+    "answer": "You say '黑色' (hēisè), which means 'black'.",
+    "grammarNote": "Colors often use '色' (color), e.g., 红色 (red)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_066",
+    "question": "How do you say 'white' in Chinese?",
+    "answer": "You say '白色' (báisè), which means 'white'.",
+    "grammarNote": "Colors often use '色' (color), e.g., 红色 (red)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_067",
+    "question": "How do you ask 'Where is the hotel?' in Chinese?",
+    "answer": "You say '酒店在哪里？' (jiǔdiàn zài nǎlǐ?), which means 'Where is the hotel?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_068",
+    "question": "How do you ask 'Where is the airport?' in Chinese?",
+    "answer": "You say '机场在哪里？' (jīchǎng zài nǎlǐ?), which means 'Where is the airport?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_069",
+    "question": "How do you ask 'Where is the bus stop?' in Chinese?",
+    "answer": "You say '公交车站在哪里？' (gōngjiāo chēzhàn zài nǎlǐ?), which means 'Where is the bus stop?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_070",
+    "question": "How do you ask 'Where is the subway station?' in Chinese?",
+    "answer": "You say '地铁站在哪里？' (dìtiě zhàn zài nǎlǐ?), which means 'Where is the subway station?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_071",
+    "question": "How do you say 'left' in Chinese?",
+    "answer": "You say '左边' (zuǒbiān), which means 'left'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_072",
+    "question": "How do you say 'right' in Chinese?",
+    "answer": "You say '右边' (yòubiān), which means 'right'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_073",
+    "question": "How do you say 'straight ahead' in Chinese?",
+    "answer": "You say '直走' (zhí zǒu), which means 'straight ahead'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_074",
+    "question": "How do you ask 'What time do you open?' in Chinese?",
+    "answer": "You say '你们几点开门？' (nǐmen jǐ diǎn kāimén?), which means 'What time do you open?'.",
+    "grammarNote": "'几点' asks time (hour). Pattern: 现在 几点？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_075",
+    "question": "How do you ask 'What time do you close?' in Chinese?",
+    "answer": "You say '你们几点关门？' (nǐmen jǐ diǎn guānmén?), which means 'What time do you close?'.",
+    "grammarNote": "'几点' asks time (hour). Pattern: 现在 几点？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_076",
+    "question": "How do you say 'morning' in Chinese?",
+    "answer": "You say '早上' (zǎoshang), which means 'morning'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_077",
+    "question": "How do you say 'afternoon' in Chinese?",
+    "answer": "You say '下午' (xiàwǔ), which means 'afternoon'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_078",
+    "question": "How do you say 'evening' in Chinese?",
+    "answer": "You say '晚上' (wǎnshang), which means 'evening'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_079",
+    "question": "How do you say 'today' in Chinese?",
+    "answer": "You say '今天' (jīntiān), which means 'today'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_080",
+    "question": "How do you say 'tomorrow' in Chinese?",
+    "answer": "You say '明天' (míngtiān), which means 'tomorrow'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_081",
+    "question": "How do you say 'yesterday' in Chinese?",
+    "answer": "You say '昨天' (zuótiān), which means 'yesterday'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_082",
+    "question": "How do you ask 'Do you have rice?' in Chinese?",
+    "answer": "You say '有米饭吗？' (yǒu mǐfàn ma?), which means 'Do you have rice?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '有' = have/there is. Questions: 有 ... 吗？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_083",
+    "question": "How do you ask 'Do you have noodles?' in Chinese?",
+    "answer": "You say '有面条吗？' (yǒu miàntiáo ma?), which means 'Do you have noodles?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '有' = have/there is. Questions: 有 ... 吗？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_084",
+    "question": "How do you say 'water' in Chinese?",
+    "answer": "You say '水' (shuǐ), which means 'water'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_085",
+    "question": "How do you say 'tea' in Chinese?",
+    "answer": "You say '茶' (chá), which means 'tea'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_086",
+    "question": "How do you say 'coffee' in Chinese?",
+    "answer": "You say '咖啡' (kāfēi), which means 'coffee'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_087",
+    "question": "How do you say 'beer' in Chinese?",
+    "answer": "You say '啤酒' (píjiǔ), which means 'beer'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_088",
+    "question": "How do you say 'wine' in Chinese?",
+    "answer": "You say '葡萄酒' (pútáojiǔ), which means 'wine'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_089",
+    "question": "How do you ask 'Where can I buy clothes?' in Chinese?",
+    "answer": "You say '在哪里买衣服？' (zài nǎ mǎi yīfu?), which means 'Where can I buy clothes?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_090",
+    "question": "How do you ask 'Where can I buy shoes?' in Chinese?",
+    "answer": "You say '在哪里买鞋？' (zài nǎ mǎi xié?), which means 'Where can I buy shoes?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_091",
+    "question": "How do you say 'cheap' in Chinese?",
+    "answer": "You say '便宜' (piányi), which means 'cheap'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_092",
+    "question": "How do you say 'expensive' in Chinese?",
+    "answer": "You say '贵' (guì), which means 'expensive'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_093",
+    "question": "How do you ask 'Do you have a discount?' in Chinese?",
+    "answer": "You say '有折扣吗？' (yǒu zhékòu ma?), which means 'Do you have a discount?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '有' = have/there is. Questions: 有 ... 吗？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_094",
+    "question": "How do you say 'I am allergic' in Chinese?",
+    "answer": "You say '我过敏' (wǒ guòmǐn), which means 'I am allergic'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_095",
+    "question": "How do you say 'Call the police' in Chinese?",
+    "answer": "You say '叫警察' (jiào jǐngchá), which means 'Call the police'.",
+    "grammarNote": "'叫' means 'to be called'. Pattern: 你 叫 什么 名字？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_096",
+    "question": "How do you say 'Help!' in Chinese?",
+    "answer": "You say '救命！' (jiùmìng!), which means 'Help!'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_097",
+    "question": "How do you say 'Fire!' in Chinese?",
+    "answer": "You say '着火了！' (zháohuǒ le!), which means 'Fire!'.",
+    "grammarNote": "'了' marks completed action or change of state (e.g., 我饿了)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_098",
+    "question": "How do you say 'Stop!' in Chinese?",
+    "answer": "You say '停！' (tíng!), which means 'Stop!'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_099",
+    "question": "How do you say 'Danger!' in Chinese?",
+    "answer": "You say '危险！' (wēixiǎn!), which means 'Danger!'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_100",
+    "question": "How do you ask 'Where is the pharmacy?' in Chinese?",
+    "answer": "You say '药店在哪里？' (yàodiàn zài nǎlǐ?), which means 'Where is the pharmacy?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_101",
+    "question": "How do you ask 'Where is the supermarket?' in Chinese?",
+    "answer": "You say '超市在哪里？' (chāoshì zài nǎlǐ?), which means 'Where is the supermarket?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_102",
+    "question": "How do you say 'I need medicine' in Chinese?",
+    "answer": "You say '我需要药' (wǒ xūyào yào), which means 'I need medicine'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_103",
+    "question": "How do you say 'I feel sick' in Chinese?",
+    "answer": "You say '我觉得不舒服' (wǒ juéde bù shūfu), which means 'I feel sick'.",
+    "grammarNote": "'不' negates present/future; placed before verb/adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_104",
+    "question": "How do you say 'I have a headache' in Chinese?",
+    "answer": "You say '我头疼' (wǒ tóuténg), which means 'I have a headache'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_105",
+    "question": "How do you say 'I have a fever' in Chinese?",
+    "answer": "You say '我发烧' (wǒ fāshāo), which means 'I have a fever'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_106",
+    "question": "How do you say 'I need a taxi' in Chinese?",
+    "answer": "You say '我需要出租车' (wǒ xūyào chūzūchē), which means 'I need a taxi'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_107",
+    "question": "How do you ask 'Where can I find a taxi?' in Chinese?",
+    "answer": "You say '哪里可以打车？' (nǎlǐ kěyǐ dǎchē?), which means 'Where can I find a taxi?'.",
+    "grammarNote": "'能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_108",
+    "question": "How do you say 'airport' in Chinese?",
+    "answer": "You say '机场' (jīchǎng), which means 'airport'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_109",
+    "question": "How do you say 'train station' in Chinese?",
+    "answer": "You say '火车站' (huǒchēzhàn), which means 'train station'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_110",
+    "question": "How do you say 'bus station' in Chinese?",
+    "answer": "You say '汽车站' (qìchēzhàn), which means 'bus station'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_111",
+    "question": "How do you say 'subway station' in Chinese?",
+    "answer": "You say '地铁站' (dìtiě zhàn), which means 'subway station'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_112",
+    "question": "How do you say 'ticket' in Chinese?",
+    "answer": "You say '票' (piào), which means 'ticket'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_113",
+    "question": "How do you say 'hotel' in Chinese?",
+    "answer": "You say '酒店' (jiǔdiàn), which means 'hotel'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_114",
+    "question": "How do you say 'restaurant' in Chinese?",
+    "answer": "You say '餐馆' (cānguǎn), which means 'restaurant'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_115",
+    "question": "How do you say 'menu' in Chinese?",
+    "answer": "You say '菜单' (càidān), which means 'menu'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_116",
+    "question": "How do you say 'bill' in Chinese?",
+    "answer": "You say '账单' (zhàngdān), which means 'bill'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_117",
+    "question": "How do you say 'fork' in Chinese?",
+    "answer": "You say '叉子' (chāzi), which means 'fork'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_118",
+    "question": "How do you say 'spoon' in Chinese?",
+    "answer": "You say '勺子' (sháozi), which means 'spoon'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_119",
+    "question": "How do you say 'knife' in Chinese?",
+    "answer": "You say '刀子' (dāozi), which means 'knife'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_120",
+    "question": "How do you say 'plate' in Chinese?",
+    "answer": "You say '盘子' (pánzi), which means 'plate'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_121",
+    "question": "How do you say 'chopsticks' in Chinese?",
+    "answer": "You say '筷子' (kuàizi), which means 'chopsticks'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_122",
+    "question": "How do you say 'salt' in Chinese?",
+    "answer": "You say '盐' (yán), which means 'salt'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_123",
+    "question": "How do you say 'sugar' in Chinese?",
+    "answer": "You say '糖' (táng), which means 'sugar'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_124",
+    "question": "How do you say 'pepper' in Chinese?",
+    "answer": "You say '胡椒' (hújiāo), which means 'pepper'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_125",
+    "question": "How do you say 'rice' in Chinese?",
+    "answer": "You say '米饭' (mǐfàn), which means 'rice'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_126",
+    "question": "How do you say 'noodles' in Chinese?",
+    "answer": "You say '面条' (miàntiáo), which means 'noodles'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_127",
+    "question": "How do you say 'vegetable' in Chinese?",
+    "answer": "You say '蔬菜' (shūcài), which means 'vegetable'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_128",
+    "question": "How do you say 'fruit' in Chinese?",
+    "answer": "You say '水果' (shuǐguǒ), which means 'fruit'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_129",
+    "question": "How do you say 'apple' in Chinese?",
+    "answer": "You say '苹果' (píngguǒ), which means 'apple'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_130",
+    "question": "How do you say 'banana' in Chinese?",
+    "answer": "You say '香蕉' (xiāngjiāo), which means 'banana'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_131",
+    "question": "How do you say 'orange' in Chinese?",
+    "answer": "You say '橙子' (chéngzi), which means 'orange'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_132",
+    "question": "How do you say 'grape' in Chinese?",
+    "answer": "You say '葡萄' (pútáo), which means 'grape'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_133",
+    "question": "How do you say 'strawberry' in Chinese?",
+    "answer": "You say '草莓' (cǎoméi), which means 'strawberry'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_134",
+    "question": "How do you say 'chicken' in Chinese?",
+    "answer": "You say '鸡肉' (jīròu), which means 'chicken'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_135",
+    "question": "How do you say 'beef' in Chinese?",
+    "answer": "You say '牛肉' (niúròu), which means 'beef'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_136",
+    "question": "How do you say 'pork' in Chinese?",
+    "answer": "You say '猪肉' (zhūròu), which means 'pork'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_137",
+    "question": "How do you say 'fish' in Chinese?",
+    "answer": "You say '鱼' (yú), which means 'fish'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_138",
+    "question": "How do you say 'egg' in Chinese?",
+    "answer": "You say '鸡蛋' (jīdàn), which means 'egg'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_139",
+    "question": "How do you say 'milk' in Chinese?",
+    "answer": "You say '牛奶' (niúnǎi), which means 'milk'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_140",
+    "question": "How do you say 'bread' in Chinese?",
+    "answer": "You say '面包' (miànbāo), which means 'bread'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_141",
+    "question": "How do you ask 'Can I have some water?' in Chinese?",
+    "answer": "You say '可以给我一些水吗？' (kěyǐ gěi wǒ yīxiē shuǐ ma?), which means 'Can I have some water?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object. Numbers are single characters; use measure words with nouns (e.g., 一个, 两个). '给' indicates 'to give/to'. Pattern: 给 我 + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_142",
+    "question": "How do you ask 'Do you have vegetarian options?' in Chinese?",
+    "answer": "You say '有素食选项吗？' (yǒu sùshí xuǎnxiàng ma?), which means 'Do you have vegetarian options?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '有' = have/there is. Questions: 有 ... 吗？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_143",
+    "question": "How do you ask 'Where is the nearest ATM?' in Chinese?",
+    "answer": "You say '最近的自动取款机在哪里？' (zuìjìn de zìdòng qǔkuǎn jī zài nǎlǐ?), which means 'Where is the nearest ATM?'.",
+    "grammarNote": "Location questions use '在 + 哪里/哪儿'. Structure: X 在 哪里？ '的' links modifiers to nouns (e.g., 最近的 医院)."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_144",
+    "question": "How do you ask 'How far is it?' in Chinese?",
+    "answer": "You say '有多远？' (yǒu duō yuǎn?), which means 'How far is it?'.",
+    "grammarNote": "'有' = have/there is. Questions: 有 ... 吗？"
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_145",
+    "question": "How do you ask 'How long does it take?' in Chinese?",
+    "answer": "You say '需要多长时间？' (xūyào duō cháng shíjiān?), which means 'How long does it take?'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_146",
+    "question": "How do you say 'I don't eat pork' in Chinese?",
+    "answer": "You say '我不吃猪肉' (wǒ bù chī zhūròu), which means 'I don't eat pork'.",
+    "grammarNote": "Common verbs: 吃/喝. Structure: Subject + Verb + Object. '不' negates present/future; placed before verb/adjective."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_147",
+    "question": "How do you say 'I'm allergic to peanuts' in Chinese?",
+    "answer": "You say '我对花生过敏' (wǒ duì huāshēng guòmǐn), which means 'I'm allergic to peanuts'.",
+    "grammarNote": "Basic SVO sentence; use ？ for questions."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_148",
+    "question": "How do you ask 'Is this spicy?' in Chinese?",
+    "answer": "You say '这个辣吗？' (zhège là ma?), which means 'Is this spicy?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_149",
+    "question": "How do you ask 'Can I try it on?' in Chinese?",
+    "answer": "You say '我可以试穿吗？' (wǒ kěyǐ shìchuān ma?), which means 'Can I try it on?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '能/可以' express ability/permission. Pattern: Subject + 能/可以 + Verb + Object."
+  },
+  {
+    "questionID": "LEARN_CHN_NEW_150",
+    "question": "How do you ask 'Do you have this in a larger size?' in Chinese?",
+    "answer": "You say '有更大号的吗？' (yǒu gèng dàhào de ma?), which means 'Do you have this in a larger size?'.",
+    "grammarNote": "'吗' is a sentence-final particle forming yes/no questions; order stays SVO. '有' = have/there is. Questions: 有 ... 吗？ '的' links modifiers to nouns (e.g., 最近的 医院)."
+  }
+]

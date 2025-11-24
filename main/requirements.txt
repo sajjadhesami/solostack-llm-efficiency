@@ -1,0 +1,12 @@
+transformers
+tokenizers
+huggingface_hub
+accelerate
+peft
+bitsandbytes
+torch
+pandas
+numpy
+sentencepiece
+requests
+safetensors

@@ -1,0 +1,2487 @@
+[
+  {
+    "questionID": "TRAIN_002",
+    "question": "Analyze how the Treaty of Westphalia (1648) fundamentally redefined the concept of sovereignty and laid the groundwork for the modern international state system.",
+    "answer": "The Treaty of Westphalia ended the Thirty Years' War by establishing the principle of cuius regio, eius religio (whose realm, their religion), granting rulers internal authority. It enshrined state sovereignty and legal equality among nations, negating the supranational authority of the Holy Roman Empire and the Pope. This created the Westphalian system of independent, sovereign states as the primary actors in international relations, a framework focused on territorial integrity and non-interference that defined European diplomacy and persists as the basis for modern international law and organization."
+  },
+  {
+    "questionID": "TRAIN_005",
+    "question": "Contrast the economic and ideological motivations behind the Spanish and Portuguese empires in the Americas during the 16th century with those of the later British and French empires.",
+    "answer": "The Spanish and Portuguese empires were largely extractive and evangelizing, focused on acquiring gold/silver and converting indigenous populations to Catholicism under a centralized monarchy. The later British and French empires, while also mercantilist, emphasized different models: the British promoted agricultural settlement and local governance in North America, while the French focused on the fur trade, requiring less displacement of native peoples. All were economically driven, but the Iberian approach was more directly exploitative and theologically justified, whereas the Northern European models were more commercially diverse and varied in their settler-colonial policies."
+  },
+  {
+    "questionID": "TRAIN_008",
+    "question": "Evaluate the role of the 'Enlightenment' in providing an intellectual framework for the American and French Revolutions, highlighting a key philosophical difference in their outcomes.",
+    "answer": "The Enlightenment provided the core ideas of popular sovereignty, natural rights, and social contract theory (Locke, Rousseau) that justified overthrowing tyrannical rule. Both revolutions championed liberty and equality. A key philosophical difference lies in their conception of these ideals. The American Revolution focused on Lockean individual liberty and property rights, resulting in a constitutional republic. The French Revolution, influenced more by Rousseau's concept of the general will, pursued a more radical and abstract ideal of collective equality, which contributed to the period of the Terror and a stronger, centralized state."
+  },
+  {
+    "questionID": "TRAIN_011",
+    "question": "How did the 'Mandate of Heaven' concept in Imperial China both legitimize and potentially destabilize dynastic rule throughout its history?",
+    "answer": "The Mandate of Heaven legitimized a dynasty by framing its rule as divinely sanctioned, contingent on just and effective governance. It provided a philosophical basis for authority. However, it was a double-edged sword. Natural disasters, famines, or military defeats could be interpreted as the dynasty losing the Mandate. This provided a ready-made justification for rebellion and regime change. Successful rebels could claim they had received the Mandate, thereby legitimizing their overthrow of a corrupt or incompetent ruling house, making it a powerful tool for cyclical political renewal and instability."
+  },
+  {
+    "questionID": "TRAIN_017",
+    "question": "Analyze the primary causes of the 'Crisis of the Third Century' in the Roman Empire and its long-term impact on the structure of the Roman state.",
+    "answer": "The Crisis of the Third Century was caused by a combination of internal instability (frequent civil war and assassination of emperors), external pressure from Sassanid and Germanic invasions, and economic collapse (hyperinflation, debased currency). The long-term impact was profound. Diocletian and Constantine responded by fundamentally restructuring the state, creating the Dominate. This included the Tetrarchy to share power, a massive, separate military and civil administration, price controls, and tying peasants to the land. These reforms stabilized the empire temporarily but ossified its social and economic structure, paving the way for the later division into Eastern and Western halves."
+  },
+  {
+    "questionID": "TRAIN_020",
+    "question": "Contrast the political and social structures of the Aztec and Inca empires on the eve of Spanish contact. How did these differences influence their respective collapses?",
+    "answer": "The Aztec Empire was a hegemonic power based in Tenochtitlan, ruling through fear and demanding tribute from subjugated peoples, which created internal resentment exploited by Cortés. The Inca Empire was a more centralized, bureaucratic state with a divine emperor (Sapa Inca) and a unified language (Quechua), built on forced labor and population transfers. The Aztec's loose structure made allies of their enemies, accelerating collapse. The Inca's centralized nature meant the capture of Atahualpa caused a power vacuum and civil war, also facilitating Pizarro's conquest. Both were devastated by European disease, which preceded military engagement."
+  },
+  {
+    "questionID": "TRAIN_023",
+    "question": "What was the 'Schlieffen Plan' and how did its failure in August 1914 directly contribute to the stalemate of trench warfare on the Western Front?",
+    "answer": "The Schlieffen Plan was Germany's strategy to avoid a two-front war by quickly defeating France via a sweep through neutral Belgium before turning to Russia. Its failure was due to Belgian/British resistance, logistical overstretch, and the French counter-attack at the Marne. This failure meant a quick victory was impossible. Both sides then 'raced to the sea', extending fortified trench lines from Switzerland to the English Channel. Without the mobility for flanking maneuvers, armies were locked in a brutal stalemate, leading to four years of attritional warfare defined by artillery and infantry assaults on fixed positions."
+  },
+  {
+    "questionID": "TRAIN_026",
+    "question": "How did the 'Glorious Revolution' of 1688 establish the principle of parliamentary sovereignty in England and influence the political development of its American colonies?",
+    "answer": "The Glorious Revolution deposed James II and established the constitutional monarchy of William and Mary, who accepted the English Bill of Rights. This document explicitly subordinated the monarchy to Parliament, establishing parliamentary sovereignty. In the colonies, this event was celebrated and reinforced the concept of the rights of Englishmen. Colonial legislatures felt empowered to assert their own authority. However, when Parliament later tried to tax the colonies directly after 1763, colonists argued that as Englishmen, they could only be taxed by their own elected representatives, using the principles of 1688 to justify their resistance, leading to the American Revolution."
+  },
+  {
+    "questionID": "TRAIN_029",
+    "question": "Analyze the geopolitical strategy of 'containment' as articulated by George F. Kennan and describe two distinct proxy conflicts where this policy was implemented during the Cold War.",
+    "answer": "Kennan's containment policy argued that the Soviet Union was inherently expansionist and the US must apply firm, long-term counter-pressure to block its geopolitical advances, ultimately leading to its internal mellowing or collapse. This was implemented globally via proxy wars where the superpowers backed opposing sides without direct conflict. In Vietnam, the US supported South Vietnam against the Soviet/Chinese-backed North. In Afghanistan, the US supported the Mujahideen rebels against the Soviet-backed government. These conflicts were central fronts in the Cold War, demonstrating containment's application in both preventing the spread of communism and rolling back Soviet influence."
+  },
+  {
+    "questionID": "TRAIN_035",
+    "question": "How did the 'Black Death' of the 14th century act as a catalyst for the breakdown of the manorial system and the transition towards a more monetized economy in late medieval Europe?",
+    "answer": "The Black Death's catastrophic mortality (30-50% of Europe) created a severe labor shortage. Serfs, now in high demand, could demand wages for their work or flee to cities. Landlords, desperate for laborers, were forced to commute labor obligations into cash rents and offer better terms. This broke the traditional bonds of serfdom and the self-sufficient manorial economy. The increased use of money, higher wages for urban workers, and the availability of land for purchase began shifting Europe towards a capitalist, wage-based economy, weakening the feudal aristocracy and empowering a nascent middle class."
+  },
+  {
+    "questionID": "TRAIN_041",
+    "question": "What was the 'Russo-Japanese War' (1904-05) and why was its outcome so significant for global perceptions of power and the rise of anti-colonial nationalism in Asia?",
+    "answer": "The Russo-Japanese War was a conflict fought for influence in Manchuria and Korea, which resulted in a stunning victory for Japan. It was the first time in the modern era that an Asian power decisively defeated a major European empire. This shattered the myth of European invincibility and demonstrated that Western military technology and tactics could be successfully adopted by non-Western nations. The victory electrified anti-colonial movements across Asia and Africa, inspiring nationalists from India to Vietnam to believe that European colonial rule could be challenged and overthrown."
+  },
+  {
+    "questionID": "TRAIN_044",
+    "question": "Analyze the role of 'gunpowder technology' in the rise and consolidation of the 'Gunpowder Empires' (Ottoman, Safavid, Mughal) in the early modern period.",
+    "answer": "Gunpowder technology, particularly cannons and muskets, was a key factor in the rise of the Ottoman, Safavid, and Mughal empires. These centralized states could afford to raise and equip large, professional infantry armies equipped with firearms, which undermined the power of traditional, horse-archer elites. Massive siege cannons allowed them to batter down previously impregnable castle walls, enabling rapid territorial expansion. The Ottomans used cannons to conquer Constantinople; the Mughals used them to establish dominance in India. Control over this expensive technology helped these empires centralize power, project force over vast distances, and maintain internal control."
+  },
+  {
+    "questionID": "TRAIN_047",
+    "question": "How did the 'Opium Wars' between Britain and China (1839-42, 1856-60) fundamentally alter the Sino-centric world order and force China into the modern international system?",
+    "answer": "The Opium Wars, triggered by Chinese attempts to halt the British opium trade, ended in humiliating defeat for China. The resulting 'Unequal Treaties' (Nanking, Tianjin) forced China to cede Hong Kong, open treaty ports to foreign trade, grant extraterritoriality to foreigners, and accept fixed low tariffs. This shattered the traditional Sino-centric tributary system, where China was the 'Middle Kingdom'. It demonstrated Western military superiority and forced a reluctant China into a Westphalian system of international relations on disadvantageous terms, marking the beginning of a 'Century of Humiliation' and catalyzing internal crises and eventual revolution."
+  },
+  {
+    "questionID": "train2002",
+    "question": "Analyze the intellectual and political impact of the 'Renaissance' on the subsequent 'Age of Exploration'. How did a shift in worldview enable ventures like those of Columbus and da Gama?",
+    "answer": "The Renaissance fostered a humanist shift from theological dogma to empirical inquiry and individual achievement. This revived classical geography (Ptolemy) and spurred technological innovation in cartography and shipbuilding. Crucially, it cultivated a spirit of optimism and curiosity about the natural world, replacing a medieval mindset of static, faith-based knowledge. This new worldview, combined with the commercial drive of rising nation-states, provided the intellectual and political justification for risking vast resources on speculative voyages, viewing exploration as a path to glory, knowledge, and wealth rather than heresy or folly."
+  },
+  {
+    "questionID": "train2008",
+    "question": "Evaluate the role of 'print culture' in the dissemination of Enlightenment ideas and the creation of a nascent 'public sphere' in 18th-century Europe.",
+    "answer": "The proliferation of printing presses, books, pamphlets, and journals created a revolutionary 'print culture'. It broke the monopoly of the church and state on information, allowing Enlightenment philosophies to spread rapidly and cheaply beyond elite salons. This facilitated critical debate on politics, science, and religion among a growing literate middle class. Coffeehouses and reading societies became hubs for this discussion, forming a 'public sphere' independent of absolutist control. This shared space of reasoned debate, fueled by print, was essential for challenging traditional authority and laying the ideological groundwork for revolutionary movements."
+  },
+  {
+    "questionID": "train2014",
+    "question": "Analyze the geopolitical strategy of 'Lebensraum' (living space) as a driving ideology behind Nazi Germany's expansionist policies in Eastern Europe. What were its historical antecedents?",
+    "answer": "Lebensraum was the Nazi ideology that Germany needed additional territory in the East to secure resources and settle its surplus population, justifying aggressive expansion. It framed this as a racial struggle, envisioning the displacement or subjugation of Slavic peoples. Its antecedents include 19th-century German nationalist thought, Social Darwinism, and earlier colonial practices. It directly echoed the 'Drang nach Osten' (Drive to the East) of the Teutonic Knights and built upon pre-WWI pan-Germanist ambitions. This ideology provided a pseudo-scientific justification for the brutal invasion of Poland and the USSR and the accompanying genocide."
+  },
+  {
+    "questionID": "train2017",
+    "question": "What was the 'Non-Aligned Movement' (NAM) and how did it attempt to navigate the bipolar world of the Cold War? Assess its successes and limitations.",
+    "answer": "The NAM was a group of states, led by India, Egypt, and Yugoslavia, that sought to remain independent from both the US-led Western and Soviet-led Eastern blocs. It promoted peace, decolonization, and economic development. Its success lay in providing a platform for the Global South to assert political sovereignty and critique neo-colonialism. However, its influence was limited by the overwhelming economic and military power of the superpowers, internal divisions among members, and the fact that many NAM countries were still economically dependent on one of the blocs, preventing truly neutral foreign policies."
+  },
+  {
+    "questionID": "train2020",
+    "question": "Contrast the economic and social structures of the North and the South in the United States on the eve of the Civil War, explaining how these differences made conflict increasingly likely.",
+    "answer": "The North had a diversified economy based on free labor, with growing industry, commerce, and small-scale agriculture. It was more urbanized and had a developing infrastructure of railroads and canals. The South's economy was a rural, slave-based plantation system dependent on cash crops like cotton. This created a society dominated by a planter aristocracy. The conflict arose from the incompatibility of these systems. The North's free-labor ideology and the political power of the expanding Republican Party threatened the South's slave-based social order and its political control in Congress, making secession seem like the only way to preserve its way of life."
+  },
+  {
+    "questionID": "train2023",
+    "question": "How did the 'Meiji Restoration' in Japan (1868) represent a deliberate and rapid process of defensive modernization, and what were its key political, economic, and military reforms?",
+    "answer": "The Meiji Restoration was a direct response to the threat of Western imperialism, exemplified by Commodore Perry's arrival. It was 'defensive' because the goal was to strengthen Japan to avoid China's fate. Politically, it restored imperial rule (ending the shogunate) and created a centralized, constitutional government. Economically, it abolished feudalism, promoted industrialization, and built a modern infrastructure (railroads, telegraphs). Militarily, it conscripted a national army and navy based on Western models. This top-down, comprehensive transformation turned Japan from an isolated feudal society into a modern imperial power within a single generation."
+  },
+  {
+    "questionID": "train2026",
+    "question": "What was the 'Bretton Woods System' and how did its establishment in 1944 shape the global economic order in the post-WWII era? Why did it eventually collapse?",
+    "answer": "The Bretton Woods System established a framework for international financial relations, creating the IMF and World Bank. It fixed currencies to the US dollar, which was convertible to gold, promoting stability and facilitating post-war reconstruction and trade. It shaped a period of unprecedented growth and economic integration under US leadership. It collapsed in the early 1970s due to inherent contradictions: the US could not maintain both the dollar's value and its role as global liquidity provider. Growing US inflation and balance-of-payments deficits led to a loss of confidence, forcing President Nixon to suspend dollar-gold convertibility, ending the system of fixed exchange rates."
+  },
+  {
+    "questionID": "train2029",
+    "question": "Analyze the role of 'nationalism' as both a unifying and a divisive force in the 'long nineteenth century' (1789-1914), using specific examples from Europe.",
+    "answer": "Nationalism was unifying in the consolidation of states like Germany and Italy, where it mobilized diverse populations around a common language, culture, and history to form new nations. It was divisive in multi-ethnic empires like Austria-Hungary and the Ottoman Empire, where subject nationalities (e.g., Czechs, Serbs, Greeks) sought independence, threatening imperial integrity. It also created international rivalries, as seen in the Scramble for Africa, where national prestige fueled competition. This dual nature made nationalism the dominant political force of the era, capable of building states and dismantling empires, ultimately contributing to the tensions that led to WWI."
+  },
+  {
+    "questionID": "train2032",
+    "question": "How did the 'Atlantic Revolutions' (American, French, Haitian, Latin American) represent a interconnected 'Age of Revolution'? Compare their primary goals and outcomes.",
+    "answer": "The Atlantic Revolutions were interconnected through the circulation of Enlightenment ideas (liberty, popular sovereignty) and were often inspired by preceding ones. The American Revolution sought independence from Britain and established a constitutional republic. The French Revolution was more radical, aiming to overturn the entire feudal social order. The Haitian Revolution was the only successful slave revolt, establishing a black republic. The Latin American revolutions sought independence from Spanish/Portuguese rule. While all championed 'liberty', its meaning differed: for Americans it was political, for the French social, and for Haitians personal emancipation from slavery. Outcomes varied from stable republics to authoritarian rule."
+  },
+  {
+    "questionID": "train2035",
+    "question": "What was the 'Iranian Revolution' of 1979 and how did it represent a distinct model of political change in the late 20th century, contrasting with both liberal democracy and Soviet-style communism?",
+    "answer": "The Iranian Revolution overthrew the secular, modernizing Shah and established the Islamic Republic, a theocracy under Ayatollah Khomeini. It was distinct because its ideological foundation was not Western liberalism or Marxism, but a radical interpretation of Shia Islam (Islamism). It demonstrated that a modern revolution could be fueled by religious traditionalism and anti-Western sentiment, mobilizing masses through mosques and clerical networks. This created a novel political model: a republican structure with ultimate authority vested in a religious leader (Velayat-e Faqih), challenging the secular assumptions of both superpowers and inspiring Islamist movements globally."
+  },
+  {
+    "questionID": "train2038",
+    "question": "How did the 'Congress of Vienna' (1815) attempt to create a stable balance of power in post-Napoleonic Europe, and to what extent were its principles successful in maintaining peace for the subsequent century?",
+    "answer": "The Congress of Vienna aimed to prevent future French aggression and revolutionary upheaval by restoring legitimate monarchies, creating buffer states around France, and establishing a concert of great powers (Britain, Austria, Prussia, Russia) to manage disputes through diplomacy. Its principles of legitimacy and balance of power were largely successful in preventing a general European war for 99 years (1815-1914). However, it suppressed liberal and nationalist aspirations, leading to revolutions in 1830 and 1848. Ultimately, the rise of new unified nations (Germany, Italy) and escalating nationalist tensions in the Balkans undermined the Vienna system, leading to WWI."
+  },
+  {
+    "questionID": "train2044",
+    "question": "How did the 'Cuban Missile Crisis' of 1962 represent the closest the world came to nuclear war during the Cold War, and what were its long-term consequences for superpower relations and arms control?",
+    "answer": "The Cuban Missile Crisis was a 13-day confrontation after the US discovered Soviet nuclear missiles in Cuba. It brought the superpowers to the brink of nuclear war through a naval blockade and heightened military alerts. The long-term consequences were significant. It instilled a mutual fear of nuclear brinksmanship, leading to the establishment of a direct communication hotline. It also spurred efforts at arms control and détente, resulting in treaties like the Limited Test Ban Treaty (1963) and later the Nuclear Non-Proliferation Treaty (1968). The crisis demonstrated the necessity of diplomacy and crisis management in the nuclear age."
+  },
+  {
+    "questionID": "train2047",
+    "question": "What was the 'Taiping Rebellion' and how did its scale and ideology make it a unique event in 19th-century world history, distinct from other contemporary revolts?",
+    "answer": "The Taiping Rebellion (1850-1864) was a massive civil war in southern China led by Hong Xiuquan, who claimed to be the younger brother of Jesus Christ. Its scale was unprecedented, causing 20-30 million deaths. Its ideology was a unique syncretism of heterodox Christianity and radical social reform, advocating for the abolition of private property, equal distribution of land, and the overthrow of the Confucian Qing dynasty. This blend of millenarian religion and proto-communist social goals distinguished it from other contemporary anti-colonial or nationalist revolts, making it one of the most destructive and ideologically distinctive conflicts of the century."
+  },
+  {
+    "questionID": "train2050",
+    "question": "How did the 'Suez Crisis' of 1956 mark a critical turning point in the decline of British and French colonial power and the rise of both US and Soviet influence in the Middle East?",
+    "answer": "The Suez Crisis, triggered by Egypt's nationalization of the canal, saw Britain, France, and Israel invade Egypt. This backfired spectacularly. The US, fearing Soviet gains, and the USSR both pressured the invaders to withdraw. The crisis demonstrated that the old European powers could no longer act unilaterally without US approval. It humiliated Britain and France, cementing their decline as global powers. It was a triumph for Egyptian President Nasser and Arab nationalism. Most importantly, it revealed the new bipolar reality, with the US and USSR as the dominant external arbiters in the region, filling the power vacuum left by the Europeans."
+  },
+  {
+    "questionID": "TRAIN_11117",
+    "question": "What was the primary significance of the Haitian Revolution?",
+    "answer": "The Haitian Revolution (1791-18114) was the first and only successful slave revolt in world history. It resulted in the establishment of Haiti as the first independent black republic, permanently abolishing slavery and challenging the foundations of the Atlantic slave system."
+  },
+  {
+    "questionID": "TRAIN_11118",
+    "question": "How did the invention of the printing press contribute to the Reformation?",
+    "answer": "The printing press allowed for the rapid and widespread distribution of new ideas. It enabled Martin Luther's 95 Theses and other Reformation texts to be printed and circulated across Europe, breaking the Catholic Church's monopoly on information and fueling religious and political debate."
+  },
+  {
+    "questionID": "TRAIN_1111",
+    "question": "Contrast the primary goals of the American and French Revolutions.",
+    "answer": "The American Revolution primarily sought independence from British rule and the establishment of a constitutional republic based on Enlightenment ideals of representation. The French Revolution was more radical and social, aiming to overthrow the entire Ancien Régime—the absolute monarchy, feudal privileges, and the power of the aristocracy and church—to create a new society based on liberty, equality, and fraternity."
+  },
+  {
+    "questionID": "TRAIN_1117",
+    "question": "What were the main causes of World War I?",
+    "answer": "The main causes of World War I are summarized by the acronym MANIA: Militarism (arms race), Alliances (Triple Entente vs. Triple Alliance), Nationalism (ethnic tensions, especially in the Balkans), Imperialism (competition for colonies), and the immediate trigger, the Assassination of Archduke Franz Ferdinand of Austria-Hungary."
+  },
+  {
+    "questionID": "TRAIN_1118",
+    "question": "How did the Cold War influence conflicts in Asia during the 211th century?",
+    "answer": "The Cold War turned regional Asian conflicts into proxy wars between the superpowers. The Korean War and Vietnam War are prime examples, where the United States and its allies supported one side, while the Soviet Union and/or China supported the other, amplifying the scale and devastation of these wars."
+  },
+  {
+    "questionID": "TRAIN_1123",
+    "question": "What was the 'Scramble for Africa' and what was its primary consequence?",
+    "answer": "The 'Scramble for Africa' was the rapid invasion, occupation, and colonization of most of Africa by European powers between 1881 and 1914. Its primary consequence was the arbitrary drawing of colonial borders, which divided ethnic groups and united rival groups, creating political and ethnic tensions that persist in many African nations to this day."
+  },
+  {
+    "questionID": "TRAIN_1124",
+    "question": "Explain the concept of 'nationalism' and provide a historical example of its impact.",
+    "answer": "Nationalism is an ideology based on the premise that an individual's loyalty and devotion to the nation-state surpass other individual or group interests. A key historical example is the unification of Germany in 1871, driven by a shared language and culture, which was orchestrated by Otto von Bismarck and fundamentally altered the balance of power in Europe."
+  },
+  {
+    "questionID": "FIX_HIST_001",
+    "question": "The 'Pirenne Thesis' argues that the continuity of the Roman world in Western Europe was broken not by the Germanic invasions of the 5th century, but by the Islamic conquests of the 7th and 8th centuries. Summarize Henri Pirenne's central argument. Then, critically evaluate its strengths and weaknesses, citing at least two specific pieces of archaeological or historical evidence that either support or challenge his thesis.",
+    "answer": "Pirenne Thesis: Mediterranean unity and classical civilization persisted under Germanic kingdoms; the crucial break came with 7th-8th century Islamic conquests, which destroyed Mediterranean trade networks and forced Western Europe inward. Strengths: Explains the Carolingian shift northward and decline of Mediterranean cities. Weaknesses: (1) Archaeological evidence shows Mediterranean trade continuing after Muslim conquests (e.g., Egyptian papyrus in Merovingian Gaul); (2) Economic decline began pre-Islam (e.g., Roman coinage degradation in 6th century). The thesis overemphasizes Islamic role and underestimates earlier Germanic transformations."
+  },
+  {
+    "questionID": "FIX_HIST_002",
+    "question": "Compare and contrast the philosophical underpinnings, social structures, and ultimate outcomes of the Haitian Revolution (1791-1804) and the American Revolution (1775-1783). In your analysis, explain why the Haitian Revolution is often described as a more fundamentally radical transformation of society, despite receiving less attention in traditional Western historiography.",
+    "answer": "American Revolution: Enlightenment philosophy (Locke, Montesquieu), preserved slavery and social hierarchy, resulted in constitutional republic. Haitian Revolution: Radical Enlightenment (Rousseau) plus slave rebellion philosophy, completely dismantled racial slavery and colonial structure, established first black republic. The Haitian Revolution was more radical because it attacked the foundational institutions of slavery and white supremacy, not just colonial governance. Its marginalization in Western historiography reflects racial biases and the threat its success posed to slave-holding societies."
+  },
+  {
+    "questionID": "FIX_HIST_003",
+    "question": "The 'Crisis of the Late Middle Ages' (c. 1300-1450) was a period of profound demographic, religious, and social upheaval. Analyze the synergistic effects of three major factors: the Great Famine of 1315-1317, the Black Death (1347-1351), and the Hundred Years' War (1337-1453). Explain how their confluence led to a fundamental breakdown of the manorial system and paved the way for the socioeconomic changes of the early modern period.",
+    "answer": "The synergistic crises: Great Famine weakened populations, Black Death killed 30-50% of Europeans, Hundred Years' War disrupted agriculture and trade. Combined effect: drastic labor shortage undermined manorial system. With fewer workers, peasants could demand higher wages and better conditions, leading to the decline of serfdom. Landowners shifted to rent-based systems and enclosure. This breakdown of feudal obligations, combined with psychological impacts from mass mortality, created conditions for capitalism, wage labor, and the social mobility characterizing the early modern period."
+  },
+  {
+    "questionID": "train-hist-001",
+    "question": "Compare Haitian and American Revolutions",
+    "answer": "American: Enlightenment ideals, white-led independence movement, preserved slavery. Haitian: slave revolt, racial equality focus, abolished slavery, first black republic. Haitian more radical socially, American more influential politically."
+  },
+  {
+    "questionID": "train-hist-002",
+    "question": "Compare Chinese and Japanese responses to Western imperialism",
+    "answer": "China: Self-Strengthening Movement attempted selective adoption while preserving Confucian system, ultimately failed. Japan: Meiji Restoration embraced comprehensive Westernization, rapidly modernized. Different outcomes shaped 20th century Asian geopolitics."
+  },
+  {
+    "questionID": "train-hist-003",
+    "question": "Compare Indian and Algerian decolonization",
+    "answer": "India: largely non-violent movement (Gandhi), negotiated independence, parliamentary democracy. Algeria: violent revolution (FLN), traumatic separation, military-dominated state. Different colonial policies (British indirect vs French direct rule) shaped outcomes."
+  },
+  {
+    "questionID": "train-hist-004",
+    "question": "Analyze Pirenne Thesis",
+    "answer": "Henri Pirenne argued Roman continuity persisted until 7th-8th century Muslim conquests severed Mediterranean unity, creating medieval Europe. Strengths: explains Carolingian shift north. Weaknesses: overstates Muslim role, underestimates earlier Germanic transformations."
+  },
+  {
+    "questionID": "train-hist-005",
+    "question": "Compare Great Depression impacts US vs Germany",
+    "answer": "US: New Deal reform within democracy. Germany: Weimar collapse, Nazi rise. Different political traditions and institutional strengths determined crisis responses."
+  },
+  {
+    "questionID": "train-hist-101",
+    "question": "Evaluate Great Man vs social history approaches",
+    "answer": "Great Man: focuses on individual leaders' impact. Social history: emphasizes broader social forces, everyday life. Most historians now use synthetic approaches recognizing both individual agency and structural constraints."
+  },
+  {
+    "questionID": "train-hist-102",
+    "question": "Discuss archaeological vs written evidence challenges",
+    "answer": "Archaeology: provides material culture but limited on motivations, chronology needs dating methods. Documents: provide intentionality but biased toward literate classes, survival fragmentary. Best practice: triangulate multiple evidence types."
+  },
+  {
+    "questionID": "train-hist-103",
+    "question": "Analyze Great Divergence debate",
+    "answer": "Pomeranz: Europe's advantage came from colonies and coal, not inherent superiority. Brenner: social property relations determined development paths. Debate centers on whether Europe's rise was contingent or structurally determined."
+  },
+  {
+    "questionID": "train-hist-104",
+    "question": "Explain Scientific Revolution origins",
+    "answer": "Synthesis of Renaissance humanism, medieval scholasticism, artisanal knowledge. Mathematical description of nature, experimental method, institutional support (scientific societies). Break from Aristotelian natural philosophy."
+  },
+  {
+    "questionID": "train-hist-105",
+    "question": "Discuss historical causation complexity",
+    "answer": "History involves multiple causality: economic, social, political, environmental, contingent factors. Single-cause explanations usually inadequate. Historians analyze interplay of structure and agency, contingency and determinism."
+  },
+  {
+    "questionID": "train-hist-201",
+    "question": "Analyze Late Middle Ages crisis impact",
+    "answer": "Black Death (30-50% mortality), Hundred Years' War, Great Famine. Shattered manorial system, labor shortages empowered peasants, undermined feudalism, paved way for early modern capitalism and state formation."
+  },
+  {
+    "questionID": "train-hist-202",
+    "question": "Explain Industrial Revolution causes",
+    "answer": "British advantages: coal resources, colonial markets, agricultural revolution, financial system, patent protection, scientific culture. Not inevitable - similar conditions existed elsewhere but Britain had unique combination."
+  },
+  {
+    "questionID": "train-hist-203",
+    "question": "Analyze Cold War origins",
+    "answer": "Ideological conflict (capitalism vs communism), power vacuum post-WWII, mutual suspicions, nuclear revolution. Both sides contributed to escalation through misperception and ideological rigidity."
+  },
+  {
+    "questionID": "train-hist-204",
+    "question": "Explain Renaissance humanism",
+    "answer": "Revival of classical learning, emphasis on human potential, critical scholarship, civic engagement. Shift from medieval scholasticism to empirical, individual-focused worldview. Foundation for Scientific Revolution."
+  },
+  {
+    "questionID": "train-hist-205",
+    "question": "Analyze Columbian Exchange impacts",
+    "answer": "Biological globalization: Americas gave potatoes, maize, tomatoes; Old World gave wheat, horses, diseases. Demographic catastrophe for Native Americans, population growth in Europe, transformed global agriculture and ecology."
+  },
+  {
+    "questionID": "TRAIN_HIST_002",
+    "question": "Compare the political ideologies of the American and French Revolutions.",
+    "answer": "The American Revolution emphasized individual liberty, representative government, and protection of property, influenced by Enlightenment thinkers like Locke. The French Revolution, while also inspired by Enlightenment ideas, focused more on equality and the collective will, leading to radical changes in social hierarchy and governance."
+  },
+  {
+    "questionID": "HIST_B_001",
+    "question": "What was the significance of the Code of Hammurabi in ancient Mesopotamia?",
+    "answer": "The Code of Hammurabi was one of the earliest written legal codes, establishing principles of justice and social hierarchy. It reinforced the king’s authority and introduced the concept of proportional punishment."
+  },
+  {
+    "questionID": "HIST_B_002",
+    "question": "How did the Nile River shape the development of ancient Egyptian civilization?",
+    "answer": "The Nile provided fertile soil through annual floods, enabling stable agriculture and surplus production. It also served as a transportation route, fostering trade and political unity."
+  },
+  {
+    "questionID": "HIST_B_003",
+    "question": "Explain the role of the polis in ancient Greek society.",
+    "answer": "The polis was the central political and social unit, combining governance, military, and cultural life. It fostered civic participation and identity, laying foundations for democracy in Athens."
+  },
+  {
+    "questionID": "HIST_B_004",
+    "question": "Why was the Peloponnesian War a turning point in Greek history?",
+    "answer": "The war weakened Athens and Sparta, ending the Golden Age of Greece. It left Greece fragmented and vulnerable to Macedonian conquest."
+  },
+  {
+    "questionID": "HIST_B_005",
+    "question": "What was the significance of Alexander the Great’s conquests?",
+    "answer": "Alexander’s campaigns spread Hellenistic culture across Asia and Egypt, blending Greek ideas with local traditions. This cultural diffusion shaped art, science, and governance for centuries."
+  },
+  {
+    "questionID": "HIST_B_006",
+    "question": "How did Roman law influence later legal systems?",
+    "answer": "Roman law introduced concepts like property rights, contracts, and citizenship. Its codification in the Justinian Code became a foundation for European civil law traditions."
+  },
+  {
+    "questionID": "HIST_B_007",
+    "question": "What factors led to the fall of the Western Roman Empire?",
+    "answer": "Economic decline, political instability, and invasions by Germanic tribes eroded imperial control. Internal corruption and reliance on mercenary armies accelerated collapse."
+  },
+  {
+    "questionID": "HIST_B_008",
+    "question": "Explain the significance of the Byzantine Empire in preserving classical knowledge.",
+    "answer": "The Byzantine Empire maintained Greek and Roman texts, transmitting them to the Islamic world and later Europe. Its scholars played a key role in the Renaissance revival of classical learning."
+  },
+  {
+    "questionID": "HIST_B_009",
+    "question": "What was the role of the Catholic Church in medieval Europe?",
+    "answer": "The Church dominated spiritual and political life, controlling education and moral authority. It acted as a unifying force during feudal fragmentation."
+  },
+  {
+    "questionID": "HIST_B_010",
+    "question": "How did the Crusades impact Europe and the Middle East?",
+    "answer": "The Crusades stimulated trade and cultural exchange but deepened religious hostility. They weakened feudal structures and strengthened monarchies in Europe."
+  },
+  {
+    "questionID": "HIST_B_011",
+    "question": "What was the significance of the Magna Carta (1215)?",
+    "answer": "The Magna Carta limited royal power and established the principle that rulers are subject to law. It laid groundwork for constitutional government in England."
+  },
+  {
+    "questionID": "HIST_B_012",
+    "question": "How did the Black Death transform European society?",
+    "answer": "The plague killed millions, causing labor shortages and weakening feudalism. It accelerated social mobility and economic changes toward a wage-based economy."
+  },
+  {
+    "questionID": "HIST_B_013",
+    "question": "Explain the role of the Renaissance in shaping modern Europe.",
+    "answer": "The Renaissance revived classical learning and emphasized humanism, art, and science. It fostered intellectual curiosity that paved the way for the Scientific Revolution."
+  },
+  {
+    "questionID": "HIST_B_014",
+    "question": "Why was the printing press revolutionary in the 15th century?",
+    "answer": "It enabled mass production of books, spreading literacy and ideas rapidly. This technology fueled the Reformation and scientific progress."
+  },
+  {
+    "questionID": "HIST_B_015",
+    "question": "What were the main causes of the Protestant Reformation?",
+    "answer": "Corruption in the Catholic Church and the sale of indulgences sparked criticism. Martin Luther’s ideas on faith and scripture challenged papal authority."
+  },
+  {
+    "questionID": "HIST_B_016",
+    "question": "How did the Scientific Revolution challenge traditional authority?",
+    "answer": "It replaced Aristotelian views with empirical observation and experimentation. Thinkers like Galileo and Newton emphasized reason over religious dogma."
+  },
+  {
+    "questionID": "HIST_B_017",
+    "question": "What was the Columbian Exchange and why was it significant?",
+    "answer": "It was the transfer of crops, animals, and diseases between the Old and New Worlds. It reshaped global diets and caused demographic shifts, including Native depopulation."
+  },
+  {
+    "questionID": "HIST_B_018",
+    "question": "Explain the economic basis of European colonialism in the Americas.",
+    "answer": "Colonial economies relied on plantation agriculture and mining, fueled by enslaved labor. These systems enriched Europe and integrated global trade networks."
+  },
+  {
+    "questionID": "HIST_B_019",
+    "question": "What was the Enlightenment’s impact on political thought?",
+    "answer": "It promoted ideas of natural rights, social contracts, and popular sovereignty. These principles inspired revolutions and modern democratic institutions."
+  },
+  {
+    "questionID": "HIST_B_020",
+    "question": "How did the American Revolution influence global politics?",
+    "answer": "It demonstrated that colonial independence was possible and popular sovereignty viable. Its success inspired revolutions in France, Haiti, and Latin America."
+  },
+  {
+    "questionID": "HIST_B_021",
+    "question": "What were the main goals of the French Revolution?",
+    "answer": "It sought to abolish feudal privileges and establish equality under law. The revolution aimed to create a republic based on liberty and fraternity."
+  },
+  {
+    "questionID": "HIST_B_022",
+    "question": "Why was the Haitian Revolution historically unique?",
+    "answer": "It was the only successful slave revolt, abolishing slavery and colonial rule. Haiti became the first independent Black republic in 1804."
+  },
+  {
+    "questionID": "HIST_B_023",
+    "question": "What factors contributed to the Industrial Revolution in Britain?",
+    "answer": "Access to coal, technological innovation, and capital investment drove industrialization. Political stability and colonial markets supported rapid growth."
+  },
+  {
+    "questionID": "HIST_B_024",
+    "question": "How did industrialization change social structures in Europe?",
+    "answer": "It created an urban working class and a wealthy industrial bourgeoisie. Traditional agrarian hierarchies declined as cities expanded."
+  },
+  {
+    "questionID": "HIST_B_025",
+    "question": "What was the significance of the Opium Wars for China?",
+    "answer": "They marked China’s forced integration into global trade under Western dominance. The resulting treaties eroded sovereignty and triggered internal crises."
+  },
+  {
+    "questionID": "HIST_B_026",
+    "question": "Explain the concept of imperialism in the 19th century.",
+    "answer": "Imperialism involved direct control or economic dominance over foreign territories. It was driven by industrial needs for raw materials and markets."
+  },
+  {
+    "questionID": "HIST_B_027",
+    "question": "What was the Scramble for Africa and its consequences?",
+    "answer": "European powers partitioned Africa without regard for ethnic boundaries. This created lasting political instability and exploitation."
+  },
+  {
+    "questionID": "HIST_B_028",
+    "question": "How did World War I differ from previous conflicts?",
+    "answer": "It introduced industrial-scale warfare with trenches, machine guns, and chemical weapons. The war caused unprecedented casualties and political upheaval."
+  },
+  {
+    "questionID": "HIST_B_029",
+    "question": "What were the main causes of World War I?",
+    "answer": "Militarism, alliances, nationalism, and imperial rivalries created tension. The assassination of Archduke Franz Ferdinand triggered the conflict."
+  },
+  {
+    "questionID": "HIST_B_030",
+    "question": "Why was the Treaty of Versailles controversial?",
+    "answer": "It imposed harsh reparations on Germany, fostering resentment. Critics argue it contributed to economic instability and the rise of extremism."
+  },
+  {
+    "questionID": "HIST_B_031",
+    "question": "What was the Russian Revolution’s global significance?",
+    "answer": "It established the first communist state, inspiring socialist movements worldwide. It also intensified ideological divisions leading to the Cold War."
+  },
+  {
+    "questionID": "HIST_B_032",
+    "question": "How did the Great Depression affect global politics?",
+    "answer": "Economic collapse fueled authoritarian regimes and protectionism. It undermined liberal democracies and contributed to World War II."
+  },
+  {
+    "questionID": "HIST_B_033",
+    "question": "What were the causes of World War II?",
+    "answer": "Aggressive expansion by Axis powers and failure of appeasement triggered war. Economic hardship and nationalist ideologies fueled militarism."
+  },
+  {
+    "questionID": "HIST_B_034",
+    "question": "Why was the Holocaust historically significant?",
+    "answer": "It represented systematic genocide using industrial methods. Its scale and ideology reshaped human rights discourse and international law."
+  },
+  {
+    "questionID": "HIST_B_035",
+    "question": "What was the Cold War and why did it emerge?",
+    "answer": "It was an ideological and geopolitical struggle between the US and USSR. Post-WWII power vacuums and nuclear arms intensified rivalry."
+  },
+  {
+    "questionID": "HIST_B_036",
+    "question": "Explain the policy of containment during the Cold War.",
+    "answer": "Containment aimed to prevent the spread of communism through alliances and proxy wars. It shaped US interventions in Korea and Vietnam."
+  },
+  {
+    "questionID": "HIST_B_037",
+    "question": "What was the significance of the Cuban Missile Crisis?",
+    "answer": "It brought the world to the brink of nuclear war. The crisis led to improved communication and arms control agreements."
+  },
+  {
+    "questionID": "HIST_B_038",
+    "question": "How did decolonization reshape global politics after 1945?",
+    "answer": "Former colonies gained independence, creating new nation-states. This shifted power dynamics and fueled Cold War competition in the Global South."
+  },
+  {
+    "questionID": "HIST_B_039",
+    "question": "What was the Non-Aligned Movement’s goal?",
+    "answer": "It sought to maintain independence from both Cold War blocs. NAM promoted peace, development, and anti-colonial solidarity."
+  },
+  {
+    "questionID": "HIST_B_040",
+    "question": "How did globalization transform economies in the late 20th century?",
+    "answer": "Globalization integrated markets through trade and technology. It accelerated economic growth but widened inequality between and within nations."
+  },
+  {
+    "questionID": "HIST_B_041",
+    "question": "What was the significance of the fall of the Berlin Wall?",
+    "answer": "It symbolized the collapse of communist regimes in Eastern Europe. The event marked the end of the Cold War and German reunification."
+  },
+  {
+    "questionID": "HIST_B_042",
+    "question": "How did the European Union evolve after WWII?",
+    "answer": "It began as an economic community to prevent future wars. Over time, it expanded into a political union promoting integration and peace."
+  },
+  {
+    "questionID": "HIST_B_043",
+    "question": "What was the impact of the 9/11 attacks on global politics?",
+    "answer": "They triggered the War on Terror and US-led invasions of Afghanistan and Iraq. Security concerns reshaped international relations and civil liberties."
+  },
+  {
+    "questionID": "HIST_B_044",
+    "question": "Explain the Arab Spring and its consequences.",
+    "answer": "The Arab Spring was a wave of uprisings against authoritarian regimes. It led to regime changes, civil wars, and ongoing instability in the Middle East."
+  },
+  {
+    "questionID": "HIST_B_045",
+    "question": "What was the significance of the United Nations’ creation?",
+    "answer": "The UN aimed to prevent global conflict and promote cooperation. It became a central forum for diplomacy and humanitarian efforts."
+  },
+  {
+    "questionID": "HIST_B_046",
+    "question": "How did industrialization contribute to imperialism?",
+    "answer": "Industrial economies needed raw materials and markets. This drove European powers to colonize territories worldwide."
+  },
+  {
+    "questionID": "HIST_B_047",
+    "question": "What was the role of nationalism in World War I?",
+    "answer": "Nationalist fervor fueled militarism and territorial ambitions. It intensified rivalries and contributed to the outbreak of war."
+  },
+  {
+    "questionID": "HIST_B_048",
+    "question": "Why was the League of Nations ineffective?",
+    "answer": "It lacked enforcement power and US participation. Its failure to stop aggression undermined collective security."
+  },
+  {
+    "questionID": "HIST_B_049",
+    "question": "What was the significance of Gandhi’s strategy in Indian independence?",
+    "answer": "Gandhi used nonviolent resistance to challenge British rule. His approach mobilized masses and inspired global civil rights movements."
+  },
+  {
+    "questionID": "HIST_B_050",
+    "question": "How did the Marshall Plan shape postwar Europe?",
+    "answer": "It provided economic aid to rebuild Western Europe. The plan strengthened US influence and contained communism."
+  },
+  {
+    "questionID": "HIST_B_051",
+    "question": "What was the significance of the Korean War?",
+    "answer": "It was the first major Cold War conflict, solidifying the division of Korea. The war set a precedent for US military intervention in Asia."
+  },
+  {
+    "questionID": "HIST_B_052",
+    "question": "How did the Vietnam War affect US foreign policy?",
+    "answer": "It exposed limits of military power and eroded public trust. The war led to a shift toward détente and cautious engagement."
+  },
+  {
+    "questionID": "HIST_B_053",
+    "question": "What was the significance of the Treaty of Westphalia?",
+    "answer": "It established state sovereignty and non-interference principles. This treaty laid the foundation for the modern international system."
+  },
+  {
+    "questionID": "HIST_B_054",
+    "question": "How did the Meiji Restoration modernize Japan?",
+    "answer": "It centralized power, industrialized the economy, and built a modern military. These reforms transformed Japan into a global power."
+  },
+  {
+    "questionID": "HIST_B_055",
+    "question": "What was the significance of the Berlin Conference (1884-85)?",
+    "answer": "It formalized the partition of Africa among European powers. The conference ignored African interests, fueling long-term instability."
+  },
+  {
+    "questionID": "HIST_B_056",
+    "question": "How did the Great Fire of London (1666) impact urban planning?",
+    "answer": "The fire destroyed much of the city, prompting stricter building codes. It led to modernized street layouts and fire safety measures."
+  },
+  {
+    "questionID": "HIST_B_057",
+    "question": "What was the role of women in World War II?",
+    "answer": "Women entered factories and military support roles, challenging gender norms. Their contributions accelerated postwar movements for equality."
+  },
+  {
+    "questionID": "HIST_B_058",
+    "question": "How did the Renaissance influence exploration?",
+    "answer": "Humanism and scientific curiosity encouraged geographic discovery. Advances in navigation and cartography enabled transoceanic voyages."
+  },
+  {
+    "questionID": "HIST_B_059",
+    "question": "What was the significance of the fall of Constantinople (1453)?",
+    "answer": "It ended the Byzantine Empire and shifted trade routes. The event spurred European exploration to bypass Ottoman-controlled paths."
+  },
+  {
+    "questionID": "HIST_B_060",
+    "question": "How did the Enlightenment challenge absolutism?",
+    "answer": "Philosophers advocated reason, rights, and constitutional government. These ideas undermined divine monarchy and inspired revolutions."
+  },
+  {
+    "questionID": "HIST_B_061",
+    "question": "What was the significance of the Spanish Armada’s defeat (1588)?",
+    "answer": "It marked the decline of Spanish naval dominance. England’s victory boosted national pride and maritime ambitions."
+  },
+  {
+    "questionID": "HIST_B_062",
+    "question": "How did the Thirty Years’ War reshape Europe?",
+    "answer": "It devastated Central Europe and reduced Habsburg power. The war reinforced state sovereignty under the Westphalian system."
+  },
+  {
+    "questionID": "HIST_B_063",
+    "question": "What was the role of the Silk Road in world history?",
+    "answer": "It facilitated trade and cultural exchange between East and West. The route spread goods, technologies, and religions across continents."
+  },
+  {
+    "questionID": "HIST_B_064",
+    "question": "How did the Mongol Empire influence global trade?",
+    "answer": "The Mongols secured trade routes and promoted cultural exchange. Their empire linked Eurasia, enabling unprecedented connectivity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_001",
+    "question": "Explain how the concept of 'citizenship' differed between Classical Athens and Republican Rome, and how those differences shaped political participation.",
+    "answer": "Athenian citizenship was largely tied to direct participation in the Assembly, with political rights reserved for adult male citizens born of Athenian parents, promoting direct democracy. Roman citizenship evolved as a layered status with legal rights (e.g., appeal and property protections) and representation through assemblies and magistrates, later extended widely to provincial populations. Athens emphasized direct political engagement; Rome emphasized legal frameworks and integration, shaping different models of participation and expansion."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_002",
+    "question": "Assess the role of religion in legitimizing political authority in Ancient Egypt compared to the Mesopotamian city-states.",
+    "answer": "In Egypt, pharaonic authority was legitimized through divine kingship—the pharaoh as a god-king maintaining Ma'at—embedded in monumental architecture and ritual. Mesopotamian leaders claimed divine favor but were not gods; legitimacy was often negotiated through priestly elites, city councils, and legal codes (e.g., Hammurabi), leading to more pluralistic and contested political authority. Egypt’s centralized sacral monarchy contrasts with Mesopotamia’s competing temple-city power structures."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_003",
+    "question": "Analyze the primary economic drivers of the Persian Empire under the Achaemenids and explain how administrative innovations supported them.",
+    "answer": "Key drivers included agrarian taxation, tribute from satrapies, control of trade routes, and resource extraction. Administrative innovations—satrapal governance, standardized coinage (darics), royal road infrastructure, and Aramaic as an administrative lingua franca—streamlined revenue collection, communication, and logistics, enabling imperial cohesion and economic scalability."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_004",
+    "question": "Compare Han China's and Rome's use of law and bureaucracy in imperial consolidation.",
+    "answer": "Han China institutionalized a Confucian-legalist bureaucracy with meritocratic examinations emerging late, codified statutes, and centralized commanderies. Rome relied on a complex legal tradition (civil law, ius gentium), provincial administration, and patronage networks rather than a fully meritocratic bureaucracy. Han emphasized scholarly officials and ideological governance; Rome emphasized legal universality, military integration, and local elites, achieving consolidation via different administrative cultures."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_005",
+    "question": "Evaluate the role of the Silk Road in cultural diffusion and state power from 200 BCE to 600 CE.",
+    "answer": "The Silk Road fostered exchanges of goods (silk, spices), ideas (Buddhism to China, artistic motifs), and technologies (paper), catalyzing syncretic cultures. States leveraged these routes to extract revenue, project influence, and negotiate diplomacy (e.g., Han-Xiongnu relations). However, dependence on these networks increased vulnerability to nomadic disruptions and disease transmission, entwining state power with transregional connectivity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_006",
+    "question": "Explain how the Byzantine Empire preserved and transformed Roman legal and cultural traditions.",
+    "answer": "Byzantium preserved Roman law through Justinian’s Corpus Juris Civilis, transmitted later to Western Europe, and maintained imperial court rituals and administrative structures. Culturally, it fused Roman heritage with Hellenic scholarship and Orthodox Christianity, producing new art forms (icons, mosaics) and theological disputes, thus transforming Roman traditions into a distinct Greco-Christian imperial culture."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_007",
+    "question": "Discuss the causes and consequences of the 1054 Great Schism for European Christendom.",
+    "answer": "Causes included doctrinal disputes (Filioque), papal vs. patriarchal authority, liturgical differences, and geopolitical tension. Consequences were the formal division between Western (Catholic) and Eastern (Orthodox) churches, deepening cultural-linguistic divides, shaping crusading relations, and impacting political alliances, with long-term effects on identity and ecclesiastical autonomy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_008",
+    "question": "Evaluate the role of the 'Enlightenment' in providing an intellectual framework for the American and French Revolutions, highlighting a key philosophical difference in their outcomes.",
+    "answer": "The Enlightenment provided the core ideas of popular sovereignty, natural rights, and social contract theory (Locke, Rousseau) that justified overthrowing tyrannical rule. Both revolutions championed liberty and equality. A key philosophical difference lies in their conception of these ideals. The American Revolution focused on Lockean individual liberty and property rights, resulting in a constitutional republic. The French Revolution, influenced more by Rousseau's concept of the general will, pursued a more radical and abstract ideal of collective equality, which contributed to the period of the Terror and a stronger, centralized state."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_009",
+    "question": "Analyze the political and economic motivations behind the Crusades and their impact on Mediterranean commerce.",
+    "answer": "Motivations included papal authority, piety, noble land hunger, and opportunities for trade and prestige. The Crusades opened and intensified Mediterranean trade networks, benefitting Italian city-states (Venice, Genoa), introducing Eastern goods, and stimulating credit and maritime insurance, while reshaping power balances among Mediterranean polities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_010",
+    "question": "Assess the significance of the Mongol Empire’s governance strategies for Eurasian exchange.",
+    "answer": "The Mongols promoted religious tolerance, merit-based appointments, Yam postal systems, and protection of merchants, facilitating unprecedented Eurasian exchange of goods, people, and knowledge. Their governance enabled safer transit across vast territories and spread technologies (gunpowder, printing), while also causing devastation in conquests and fostering plague transmission."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_011",
+    "question": "Explain the role of maritime innovations in the rise of Iberian empires during the Age of Discovery.",
+    "answer": "Innovations such as the caravel, lateen sails, astrolabe, and improved cartography enabled long-distance oceanic navigation. Coupled with royal sponsorship, military technology, and commercial ambitions, these advances allowed Portugal and Spain to establish global trade networks, colonial footholds, and extractive economies, transforming world systems."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_012",
+    "question": "Compare mercantilism and early capitalism in shaping European colonial policies.",
+    "answer": "Mercantilism stressed accumulating bullion via favorable trade balances and monopolies, prompting restrictive colonial trade (Navigation Acts). Early capitalism emphasized profit, competition, and private investment (joint-stock companies), encouraging market expansion and diversified colonial enterprise. Colonial policies shifted from state-directed monopoly toward more flexible, investor-driven systems."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_013",
+    "question": "Evaluate the impact of the Columbian Exchange on demographic and ecological systems in the Atlantic world.",
+    "answer": "Old World diseases decimated Indigenous populations in the Americas, while New World crops (maize, potatoes) boosted Eurasian populations. Ecologically, the exchange introduced invasive species, transformed agriculture and diets, and reshaped landscapes. The demographic collapse facilitated European conquest; ecological changes fostered global integration and new economic patterns."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_014",
+    "question": "Analyze the political thought of Thomas Hobbes versus John Locke and its implications for sovereignty.",
+    "answer": "Hobbes advocated absolute sovereignty to prevent anarchy, viewing the social contract as irrevocable. Locke argued for limited government protecting natural rights, with a right of rebellion against tyranny. The divergence influenced authoritarian versus liberal constitutional traditions and debates on consent, property, and legitimacy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_015",
+    "question": "Explain the roles of nationalism and liberalism in the 1848 Revolutions across Europe.",
+    "answer": "Nationalism sought self-determination and unity (e.g., German, Italian), while liberalism pushed civil liberties, constitutionalism, and expanded suffrage. Their convergence galvanized mass mobilization but fractured over social questions and conservative counterrevolution. Although many revolts failed, they catalyzed political reforms and set trajectories for later nation-building."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_016",
+    "question": "Assess the causes of the Industrial Revolution in Britain, emphasizing institutional and resource factors.",
+    "answer": "Causes included access to coal and iron, agricultural productivity, capital accumulation, patent systems, property rights, and supportive financial institutions. Colonial markets and naval power expanded demand. These resource and institutional synergies enabled technological breakthroughs (steam power, mechanized textiles) and sustained industrial growth."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_017",
+    "question": "Evaluate the social consequences of industrialization for class structures and urban life in the 19th century.",
+    "answer": "Industrialization stratified society into industrial bourgeoisie and wage laborers, expanded middle classes, and intensified urbanization. Consequences included overcrowding, public health crises, labor organization, and reform movements, prompting new state interventions (sanitation, education) and ideological responses (socialism, liberalism)."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_018",
+    "question": "Compare the Meiji Restoration’s modernization strategies with those of late Qing reformers.",
+    "answer": "Meiji Japan centralized authority, abolished feudal domains, implemented universal conscription, industrialized with state guidance, and adopted Western legal and educational systems. Late Qing reforms were more fragmented and late, consTRAIN_NEW_HISed by internal resistance and foreign pressures. Japan’s comprehensive state-led modernization outpaced Qing incrementalism, reshaping regional power."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_019",
+    "question": "Explain how imperialism reshaped global labor systems in the 19th and early 20th centuries.",
+    "answer": "Imperialism expanded coerced and semi-coerced labor (indenture from India and China), plantation economies, and mineral extraction, integrating labor markets across empires. It accelerated migration, racialized hierarchies, and legal regimes controlling labor, profoundly altering communities and economic structures worldwide."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_020",
+    "question": "Assess the causes of World War I, emphasizing structural and immediate factors.",
+    "answer": "Structural causes included alliance systems, militarism, imperial rivalries, and nationalist tensions. Immediate causes centered on the July Crisis after Archduke Franz Ferdinand’s assassination, miscalculations, and mobilization plans. The interaction of rigid structures and crisis mismanagement precipitated a general war."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_021",
+    "question": "Analyze the impact of the Treaty of Versailles on Weimar Germany’s political stability.",
+    "answer": "Versailles imposed territorial losses, reparations, and military restrictions, damaging legitimacy. Economic sTRAIN_NEW_HIS, nationalist resentment, and political fragmentation undermined Weimar democracy, contributing to extremism and polarization, though it also fostered diplomatic openings later (Dawes Plan, Locarno) before collapse."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_022",
+    "question": "Explain the ideological differences between fascism and communism in the interwar period.",
+    "answer": "Fascism exalted the nation-state, hierarchy, and militarism, rejecting liberalism and Marxism, while communism aimed at classless society through revolutionary overthrow of capitalism under a vanguard party. Fascism tolerated private property within corporatist control; communism pursued collective ownership and planned economies, leading to distinct political repression models."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_023",
+    "question": "Evaluate the strategic significance of air power in World War II.",
+    "answer": "Air power enabled strategic bombing, close air support, and maritime control, influencing industrial capacity and morale. It proved decisive in battles like Britain’s defense, Pacific island campaigns, and combined arms operations. Air supremacy became essential to logistics, reconnaissance, and technological competition."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_024",
+    "question": "Assess the causes and consequences of decolonization after 1945.",
+    "answer": "Causes included war-weakened empires, nationalist mobilization, international norms, and economic shifts. Consequences encompassed state formation, Cold War alignments, economic dependency, and border disputes. Decolonization transformed global governance but left complex legacies of development, identity, and sovereignty."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_025",
+    "question": "Explain the roots and outcomes of the Chinese Civil War (1927–1949).",
+    "answer": "Roots lay in fragmentation, warlordism, socio-economic crises, and ideological conflict between Nationalists (KMT) and Communists (CCP). Outcomes included CCP victory, land reforms, centralization, and new state structures. External factors (Japanese invasion) and rural mobilization were crucial to CCP success."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_026",
+    "question": "Compare the economic strategies of postwar Western Europe and Eastern Bloc states during the Cold War.",
+    "answer": "Western Europe pursued mixed economies, market integration (EEC), and welfare states, supported by the Marshall Plan. Eastern Bloc states centralized planning, collectivization, and COMECON coordination. Divergent strategies led to differing productivity, consumer scarcity, and political legitimacy challenges."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_027",
+    "question": "Evaluate the role of non-aligned movements in reshaping Cold War diplomacy.",
+    "answer": "Non-aligned leaders advocated sovereignty and development outside bipolar blocs, pressing for anti-colonial solidarity and economic justice. They influenced UN debates, mediated conflicts, and sought alternative financial arrangements, reshaping diplomatic norms despite limited material power."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_028",
+    "question": "Explain the historical significance of the Civil Rights Movement in the United States for global human rights discourses.",
+    "answer": "The movement’s strategies—legal challenges, mass protest, media—produced landmark legislation (Civil Rights Act, Voting Rights Act) and inspired global human rights activism. It highlighted systemic racism, influenced anti-apartheid and minority rights campaigns, and expanded the vocabulary of rights beyond national boundaries."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_029",
+    "question": "Analyze the role of oil in Middle Eastern geopolitics from the 20th century onward.",
+    "answer": "Oil reshaped state revenues, foreign intervention, and regional power balances. Nationalization, OPEC coordination, and rentier politics transformed governance while fueling conflict and external dependencies. Oil wealth enabled rapid modernization but created vulnerability to price shocks and political instability."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_030",
+    "question": "Discuss the causes and consequences of the Iranian Revolution of 1979.",
+    "answer": "Causes included authoritarian rule, socio-economic discontent, religious opposition, and perceived Western interference. Consequences were the establishment of an Islamic Republic, reconfigured foreign relations, cultural transformation, and enduring debates over governance, rights, and modernization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_031",
+    "question": "Evaluate globalization’s impact on cultural identities since the late 20th century.",
+    "answer": "Globalization facilitated hybrid identities through media, migration, and markets, while triggering defensive cultural politics and revivalist movements. It expanded cosmopolitanism and transnational networks but also intensified debates on authenticity, sovereignty, and inequality."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_032",
+    "question": "Explain the historical evolution of the European Union from economic community to political union.",
+    "answer": "Beginning with the ECSC and EEC for economic integration, the EU evolved through treaties (Maastricht, Lisbon) expanding competencies into monetary policy, citizenship, and foreign affairs. It represents a unique supranational governance experiment balancing state sovereignty with shared institutions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_033",
+    "question": "Assess the role of print culture in the Protestant Reformation’s spread.",
+    "answer": "Printing enabled rapid dissemination of vernacular texts, pamphlets, and polemics, standardizing doctrine and mobilizing lay participation. It lowered barriers to religious debate, undermined clerical monopolies, and amplified reformers’ reach, fundamentally altering religious communication."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_034",
+    "question": "Compare peasant revolts in late medieval Europe with urban revolts in the early modern period.",
+    "answer": "Medieval peasant revolts often reacted to feudal burdens, taxation, and crises (e.g., the Jacquerie), with limited organization. Early modern urban revolts involved guilds, merchants, and civic institutions, targeting fiscal policies and centralization. Urban revolts had broader political impact due to economic leverage and communication networks."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_035",
+    "question": "Analyze the intellectual foundations of the Scientific Revolution and its challenge to traditional authority.",
+    "answer": "Empiricism, mathematical reasoning, and systematic experimentation (Bacon, Galileo, Newton) challenged scholastic and scriptural authorities. New institutions (academies), instruments (telescope), and publications reinforced a culture of inquiry. It reoriented epistemology from received wisdom to demonstrable evidence."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_036",
+    "question": "Evaluate the political and social consequences of the French Revolution’s radical phase.",
+    "answer": "The radical phase centralized power through the Committee of Public Safety, instituted mass mobilization (levée en masse), and enforced revolutionary ideals via terror. It accelerated reforms (abolition of feudal dues) but bred instability, setting the stage for Napoleon’s rise and recalibrating European politics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_037",
+    "question": "Explain the role of slavery in shaping Atlantic economies and political debates from the 17th to 19th centuries.",
+    "answer": "Slavery underpinned plantation profits (sugar, cotton), financing industrial and commercial expansion, while provoking abolitionist movements and ideological conflicts. Political debates over slavery influenced constitutional compromises, civil wars, and moral economies, leaving enduring social legacies."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_038",
+    "question": "Compare the nation-building processes of Italy and Germany in the 19th century.",
+    "answer": "Italy unified through diplomatic maneuvering, wars, and Piedmont’s leadership under Cavour and Garibaldi’s campaign. Germany unified via Prussian military victories and Bismarck’s Realpolitik, creating a federal empire under the Kaiser. Germany’s unification was more militarily decisive and centralized."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_039",
+    "question": "Assess the impact of the Great Depression on political regimes worldwide.",
+    "answer": "Economic collapse undermined liberal democracies, fueled authoritarian responses, and prompted policy innovations (New Deal). Globally, it accelerated regime change, protectionism, and social unrest, reshaping state-market relations and international financial architecture."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_040",
+    "question": "Explain the strategic logic and risks of nuclear deterrence during the Cold War.",
+    "answer": "Deterrence relied on credible second-strike capabilities and MAD to prevent war. Crises (Cuban Missile Crisis) revealed risks of miscalculation. Arms control (SALT, INF) sought stability, while technological and doctrinal shifts (flexible response) adjusted deterrence credibility."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_041",
+    "question": "Evaluate the role of women’s movements in transforming political rights in the 19th and 20th centuries.",
+    "answer": "Women’s movements challenged legal exclusions, mobilized suffrage campaigns, and broadened rights to education and labor. Their successes varied across countries but cumulatively redefined citizenship and public participation, influencing later feminist waves."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_042",
+    "question": "Analyze the environmental history of industrialization and urban growth since 1800.",
+    "answer": "Industrialization intensified pollution, altered landscapes, and transformed energy regimes. Urban growth spurred sanitation reforms and environmental management. Over time, environmental consciousness and regulation emerged in response to public health crises and ecological degradation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_043",
+    "question": "Compare the collapse of the Soviet Union with earlier imperial dissolutions.",
+    "answer": "The USSR collapsed due to economic stagnation, nationalist mobilization, and political reform (glasnost/perestroika), leading to rapid disintegration. Earlier dissolutions (Ottoman, Austrian) were slower, driven by wars and nationalist pressures. The Soviet collapse was unique in speed, scale, and ideological reversal."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_044",
+    "question": "Explain how technology and media transformed warfare and public opinion in the 20th century.",
+    "answer": "Mass media and later television brought war into public consciousness, influencing policy. Technologies (tanks, aircraft, nukes) altered tactics and civilian vulnerability. Information management and propaganda became central to sustaining or opposing conflicts."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_045",
+    "question": "Assess the historical significance of pandemics (e.g., Black Death, 1918 Flu) on societal change.",
+    "answer": "Pandemics reshaped labor markets, religious practices, and governance. The Black Death weakened feudal structures; the 1918 Flu influenced public health institutions and policy. They accelerated social transformations and highlighted vulnerabilities in global systems."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_046",
+    "question": "Analyze how historiography has evolved from rankeans’ empiricism to cultural and postcolonial approaches.",
+    "answer": "Ranke emphasized archival sources and ‘wie es eigentlich gewesen.’ Later historians integrated social, cultural, and linguistic analyses, while postcolonial approaches critiqued power and representation. Historiography expanded methods, subjects, and interpretive frameworks."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_047",
+    "question": "Evaluate the role of geography and environment in shaping ancient Near Eastern civilizations.",
+    "answer": "Riverine environments (Tigris-Euphrates, Nile) enabled irrigation agriculture and urbanization. Geography influenced trade routes, defensive strategies, and cultural exchange. Environmental consTRAIN_NEW_HISts and variability shaped political organization and technological innovation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_048",
+    "question": "Explain the interplay of ideology and economics in the New Deal reforms.",
+    "answer": "The New Deal combined pragmatic economic intervention with liberal-democratic values, creating social safety nets, regulating finance, and supporting labor rights. It redefined state-market relations and influenced later welfare policies, though contested by conservatives."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_049",
+    "question": "Compare independence movements in South Asia and Sub-Saharan Africa regarding leadership and strategy.",
+    "answer": "South Asia featured mass mobilization and negotiation led by Congress and Gandhi’s nonviolence; Sub-Saharan Africa varied from negotiation to armed struggle depending on colonial context. Leadership styles, international pressures, and settler dynamics shaped strategies and outcomes."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_050",
+    "question": "Assess the role of memory and monument politics in post-conflict societies.",
+    "answer": "Competing narratives drive monument debates and transitional justice. Memory politics influence reconciliation, identity, and legitimacy. Choices around commemoration can heal or inflame tensions, reflecting power relations and evolving historical understanding."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_051",
+    "question": "Explain how the Mandate of Heaven shaped political legitimacy and cycles of rebellion in Imperial China.",
+    "answer": "The Mandate of Heaven legitimized rulers as chosen by divine approval based on moral governance and prosperity. Natural disasters, corruption, and failure in defense signaled loss of mandate, justifying rebellion. This concept structured dynastic cycles: rise with virtuous rule, decline through misrule, and replacement by a new dynasty claiming the mandate."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_052",
+    "question": "Assess the role of maritime trade in the rise of Swahili city-states between the 11th and 15th centuries.",
+    "answer": "Swahili cities prospered by mediating trade between African interior (gold, ivory) and Indian Ocean networks (textiles, spices). Islamic influences, cosmopolitan culture, and monsoon navigation fostered urbanization and elite merchant classes. Trade revenues financed architecture and political authority, while external pressures later disrupted autonomy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_053",
+    "question": "Compare the military organization of the Ottoman Janissaries with Safavid Qizilbash and its political consequences.",
+    "answer": "Janissaries were centralized, salaried infantry recruited through devshirme, loyal to the sultan and state apparatus. Qizilbash were tribal cavalry bound by charisma and sectarian loyalties to Safavid shahs. Ottoman centralization promoted administrative stability; Safavid reliance on tribal coalitions produced factionalism and periodic instability."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_054",
+    "question": "Evaluate the causes and effects of the Investiture Controversy on medieval European state formation.",
+    "answer": "Conflicts over lay investiture pitted papal authority against imperial control of episcopal appointments. The resolution curtailed secular dominance over the church, strengthened papal independence, and indirectly fostered the emergence of territorial states by limiting imperial reach and empowering local rulers and ecclesiastical jurisdictions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_055",
+    "question": "Explain how the Delhi Sultanate influenced cultural and administrative developments in South Asia.",
+    "answer": "The Sultanate introduced Persianate court culture, centralized tax systems, and military governance, while fostering syncretic art and architecture. It encouraged urbanization, trade, and Sufi networks, shaping Indo-Islamic cultural forms and setting precedents for later Mughal administrative integration."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_056",
+    "question": "Analyze the economic and social impacts of the trans-Saharan trade on West African polities.",
+    "answer": "Gold, salt, and enslaved persons underpinned wealth for empires like Mali and Songhai. Trade stimulated urban centers (e.g., Timbuktu), Islamic scholarship, and elite stratification. Caravan networks integrated regions into broader economies, while dependence on long-distance trade made polities vulnerable to route shifts and external incursions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_057",
+    "question": "Evaluate the political strategies of Charlemagne in consolidating the Carolingian Empire.",
+    "answer": "Charlemagne used military campaigns, alliance-building, ecclesiastical patronage, and administrative reforms (counts, missi dominici). Coronation as emperor cemented sacral legitimacy. Standardization of law and educational reforms (Carolingian Renaissance) fostered cohesion, though posthumous partition exposed structural fragility."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_058",
+    "question": "Explain the role of Hellenistic kingdoms in cultural fusion after Alexander the Great.",
+    "answer": "Hellenistic rulers promoted Greek language, urban planning, and institutions across Egypt and the Near East, blending Greek and local traditions. Syncretic religions and art flourished, and scholarly centers (e.g., Alexandria) advanced science, reflecting a cosmopolitan fusion shaped by imperial patronage and migration."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_059",
+    "question": "Assess the significance of the Edict of Milan (313 CE) for the Roman Empire and Christian communities.",
+    "answer": "The edict legalized Christian worship and restored confiscated properties, ending persecution. It shifted imperial policy toward religious toleration, enabling church institutional growth and greater political influence. This paved the way for Christianity’s eventual status as the empire’s dominant religion."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_060",
+    "question": "Compare the legal foundations of the Magna Carta and the English Bill of Rights in consTRAIN_NEW_HISing royal power.",
+    "answer": "Magna Carta limited arbitrary royal actions toward barons, emphasizing due process and feudal rights. The Bill of Rights codified parliamentary supremacy, regular sessions, and rights like petition and prohibitions on cruel punishments. Together they progressively curtailed monarchical absolutism and legitimized constitutional governance."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_061",
+    "question": "Evaluate the effects of the Reconquista on Iberian political structures and religious minorities.",
+    "answer": "Reconquista consolidated Christian monarchies, expanded noble landholdings, and integrated frontier territories. Policies toward minorities included forced conversion, expulsion, or restricted rights (e.g., Jews and Muslims), reshaping demographics and cultural diversity while centralizing royal authority and ecclesiastical influence."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_062",
+    "question": "Explain the role of gunpowder technology in transforming warfare and state power in early modern Eurasia.",
+    "answer": "Gunpowder weapons favored centralized states with resources for artillery and fortifications, diminishing feudal cavalry dominance. The ‘military revolution’ accelerated fiscal capacity, bureaucratic expansion, and professional armies, enabling territorial consolidation and imperial expansion."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_063",
+    "question": "Analyze how the Dutch Republic’s commercial capitalism reshaped European trade in the 17th century.",
+    "answer": "Innovations in finance (joint-stock, insurance), maritime dominance, and shipping efficiency lowered costs and diversified trade. The VOC integrated Asian markets, while domestic toleration attracted skilled migrants. Dutch practices diffused across Europe, elevating commercial capitalism as a driver of state wealth."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_064",
+    "question": "Compare Enlightenment salons and scientific academies in advancing intellectual exchange.",
+    "answer": "Salons fostered mixed-gender, socially diverse debate under elite patronage, shaping public opinion and literature. Academies institutionalized research, peer review, and experimentation, advancing technical sciences. Together, they broadened intellectual networks and legitimated varied forms of knowledge production."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_065",
+    "question": "Evaluate the role of Toussaint Louverture in the Haitian Revolution and its global ramifications.",
+    "answer": "Louverture’s leadership unified factions, navigated international alliances, and implemented emancipation. Haiti’s success challenged slavery and colonialism, inspiring abolitionist movements and altering geopolitics. It provoked fears in slaveholding societies and recalibrated policies on race and labor in the Atlantic world."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_066",
+    "question": "Explain how Napoleonic reforms influenced legal and administrative systems in Europe.",
+    "answer": "The Napoleonic Code standardized civil law, property rights, and secular authority. Administrative centralization, merit-based careers, and rational taxation spread through conquest and alliance, leaving enduring templates for state organization even after Napoleon’s defeat."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_067",
+    "question": "Assess the causes and consequences of the Taiping Rebellion for Qing China.",
+    "answer": "Causes included socio-economic crises, religious heterodoxy, anti-Manchu sentiment, and administrative corruption. Consequences were massive loss of life, regional militarization, fiscal sTRAIN_NEW_HIS, and delayed reforms. It exposed structural weaknesses, prompting later self-strengthening efforts."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_068",
+    "question": "Analyze the role of railways in nation-building and market integration in the 19th century.",
+    "answer": "Railways reduced transport costs, unified internal markets, and facilitated military mobilization. They encouraged national standardization (time, gauges), reshaped urbanization, and attracted capital. States leveraged railways to assert sovereignty over peripheral regions and accelerate industrialization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_069",
+    "question": "Compare abolition in Britain and Brazil in terms of timelines, strategies, and social outcomes.",
+    "answer": "Britain ended the slave trade in 1807 and slavery in 1833 via legal activism, public campaigns, and compensation to owners. Brazil abolished slavery in 1888 through gradual laws amid elite resistance, leading to vulnerable freed populations with limited support. Outcomes differed in integration and labor transitions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_070",
+    "question": "Evaluate the ideological and practical differences between utopian socialism and Marxist socialism.",
+    "answer": "Utopian socialism pursued cooperative communities and moral persuasion, emphasizing gradual reform. Marxist socialism analyzed class struggle and advocated revolutionary transformation through proletarian power. Practically, Marxists prioritized political organization and economic reconfiguration; utopians focused on experimental communes."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_071",
+    "question": "Explain the origins and impact of the Berlin Conference (1884–85) on African political geography.",
+    "answer": "The conference regulated European claims and trade in Africa, prioritizing effective occupation. It accelerated partition, disregarded ethnic and cultural boundaries, and created states with arbitrary borders, contributing to later conflicts and governance challenges."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_072",
+    "question": "Analyze the role of propaganda in World War I across major belligerents.",
+    "answer": "States used posters, censorship, and media to mobilize populations, demonize enemies, and sustain morale. Propaganda shaped recruitment, home-front unity, and perceptions of the war’s purpose, while postwar disillusionment fueled skepticism toward state narratives."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_073",
+    "question": "Assess the New Economic Policy (NEP) in Soviet Russia: rationale and outcomes.",
+    "answer": "NEP reintroduced limited market mechanisms to recover from war communism. It stabilized food supply, revived small enterprise, and improved living standards, while maintaining state control of heavy industry. Politically, it was a tactical retreat, later reversed under Stalin’s collectivization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_074",
+    "question": "Explain the causes of the Spanish Civil War and its significance for international ideological conflict.",
+    "answer": "Causes included polarization between reformist and conservative forces, regional autonomy tensions, and military coups. International volunteers and foreign interventions reflected broader fascist vs. communist-liberal alignments. The war became a precursor to WWII and a test of ideological mobilization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_075",
+    "question": "Evaluate the role of women in wartime economies during World War II and postwar effects.",
+    "answer": "Women entered industrial and military support roles, sustaining production and logistics. Postwar, many were pushed back into domestic roles, yet the experience expanded expectations and advocacy for workplace equality, influencing later feminist movements and labor policy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_076",
+    "question": "Analyze the geopolitical and economic logic of the Marshall Plan.",
+    "answer": "The plan sought European recovery to counter communism, stabilize markets, and rebuild infrastructure. Aid promoted integration, productivity, and political alignment with the West, laying groundwork for cooperation and long-term growth amid Cold War competition."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_077",
+    "question": "Compare the Korean War’s strategic outcomes for the US, China, and the Korean Peninsula.",
+    "answer": "The war solidified US containment, expanded defense commitments, and militarized the Cold War. China gained security buffer and international recognition, albeit at high cost. Korea remained divided with entrenched regimes and militarized borders, shaping regional dynamics for decades."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_078",
+    "question": "Explain the role of Bandung Conference (1955) in shaping postcolonial solidarity.",
+    "answer": "Bandung assembled Asian and African leaders advocating anti-colonialism, sovereignty, and nonalignment. It fostered networks for cooperation, framed development discourse, and symbolized the emergence of a postcolonial diplomatic bloc influencing global debates."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_079",
+    "question": "Assess the impact of Green Revolution technologies on agrarian societies.",
+    "answer": "High-yield seeds, fertilizers, and irrigation boosted production and reduced famines but increased inequality, environmental pressure, and dependency on inputs. Outcomes varied by land tenure, infrastructure, and policy, reshaping rural social structures and markets."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_080",
+    "question": "Analyze détente in the 1970s: objectives, mechanisms, and limitations.",
+    "answer": "Détente aimed to reduce superpower tensions via arms control (SALT), trade, and diplomatic dialogues. It stabilized some fronts but faced limits from proxy conflicts, human rights issues, and domestic political backlash, leading to renewed tensions later."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_081",
+    "question": "Explain the political and economic reforms under Deng Xiaoping and their global implications.",
+    "answer": "Reforms introduced market mechanisms, special economic zones, and pragmatic openness while retaining party control. Rapid industrialization and export-led growth integrated China into global markets, transforming supply chains and geopolitical calculations."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_082",
+    "question": "Evaluate the causes and outcomes of the Iranian Constitutional Revolution (1905–1911).",
+    "answer": "Driven by grievances against autocracy, foreign influence, and economic crises, the revolution established a parliament and constitution. Outcomes included political experimentation, clashes with royal authority, and enduring tensions between constitutionalism and centralized rule."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_083",
+    "question": "Analyze the influence of liberation theology in Latin America during the Cold War.",
+    "answer": "Liberation theology linked Christian ethics with social justice, critiquing inequality and authoritarianism. It empowered grassroots movements and influenced political debates, while provoking backlash from conservative church factions and anti-communist regimes."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_084",
+    "question": "Compare apartheid policies in South Africa with segregation in the United States: legal frameworks and social impacts.",
+    "answer": "Apartheid codified racial hierarchy through comprehensive laws on residence, marriage, and labor, backed by state coercion. US segregation varied by state, rooted in Jim Crow statutes and social practices. Both produced systemic disenfranchisement and socio-economic disparities, though resistance and legal trajectories differed."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_085",
+    "question": "Explain the role of OPEC in restructuring global oil markets in the 1970s.",
+    "answer": "OPEC coordinated production and pricing, asserting sovereignty over resources. Embargoes and price hikes reshaped energy policy, inflation, and geopolitics, prompting diversification, strategic reserves, and altered relations between producers and consumers."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_086",
+    "question": "Evaluate the cultural and political significance of the Prague Spring and its suppression.",
+    "answer": "Prague Spring sought liberalization within socialism: freedom of expression, economic reform, and decentralization. Warsaw Pact intervention reasserted Soviet control, chilling reform across Eastern Europe but inspiring dissident movements and debates over socialism’s future."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_087",
+    "question": "Analyze the dynamics of the Arab-Israeli conflicts up to the Camp David Accords.",
+    "answer": "Conflicts emerged from competing nationalisms, displacement, and geopolitical rivalries. Wars in 1948, 1956, 1967, and 1973 altered borders and strategic calculations. Camp David produced Egyptian-Israeli peace, reconfiguring regional alliances, though broader issues remained unresolved."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_088",
+    "question": "Explain how the rise of the welfare state transformed citizenship in Western democracies.",
+    "answer": "Welfare states expanded social rights—education, healthcare, unemployment support—linking citizenship to entitlements and collective risk management. This redefined state-society relations, expectations of government, and debates over equity, taxation, and responsibility."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_089",
+    "question": "Assess the role of NGOs and transnational advocacy in the evolution of human rights regimes since 1970.",
+    "answer": "NGOs documented abuses, lobbied international bodies, and shaped norms via campaigns and litigation. Their networks facilitated rapid mobilization and accountability, contributing to treaties and monitoring mechanisms, though effectiveness varied by political context."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_090",
+    "question": "Compare the collapse of Yugoslavia with the dissolution of Czechoslovakia: causes and processes.",
+    "answer": "Yugoslavia fractured through ethnic nationalism, economic crisis, and violent conflict amid weak federal institutions. Czechoslovakia dissolved peacefully through negotiated political separation and economic differences. Divergent outcomes reflected leadership, institutions, and external influence."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_091",
+    "question": "Evaluate the historical significance of the Rwandan Genocide for international justice and humanitarian intervention.",
+    "answer": "The genocide exposed failures of international response, catalyzing debates on intervention and the Responsibility to Protect. It advanced accountability through tribunals and influenced peacekeeping doctrines, while highlighting challenges of prevention and post-conflict reconciliation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_092",
+    "question": "Explain the evolution of European colonial education policies and their legacies.",
+    "answer": "Colonial regimes used education to produce administrative intermediaries and inculcate loyalty, often limiting access and privileging metropolitan languages. Legacies include elite formation, language hierarchies, and persistent inequalities, countered by postcolonial reforms and vernacular education movements."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_093",
+    "question": "Analyze how print capitalism influenced nationalism in the 19th century.",
+    "answer": "Mass circulation of vernacular newspapers and novels created shared discourses and imagined communities. Print capitalism standardized language, disseminated symbols, and connected disparate regions, fostering national identities and political mobilization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_094",
+    "question": "Evaluate the impact of microfinance and development paradigms on postcolonial economies since the 1980s.",
+    "answer": "Microfinance expanded access to credit and entrepreneurship, with mixed results on poverty reduction. Neoliberal and alternative development paradigms shaped policies on privatization, governance, and social programs, revealing tensions between market-led growth and social equity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_095",
+    "question": "Explain the role of the Atlantic Charter in shaping postwar international order.",
+    "answer": "The Charter articulated principles of self-determination, free trade, and collective security, informing the UN and postwar institutions. It symbolized Allied war aims and legitimated decolonization narratives, though implementation varied across contexts."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_096",
+    "question": "Assess the political strategies of Gandhi’s nonviolent resistance and their effectiveness.",
+    "answer": "Strategies included mass mobilization, civil disobedience, and symbolic actions (Salt March), aiming to delegitimize colonial authority. Nonviolence garnered domestic and international support, pressured British governance, and advanced independence, despite internal divisions and state repression."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_097",
+    "question": "Analyze the transformation of labor movements from craft unionism to industrial unionism.",
+    "answer": "Industrialization shifted organizing from skilled crafts to mass factory labor, necessitating broader unions and collective bargaining. Strategies evolved toward political alliances and social welfare demands, reshaping class politics and labor-capital relations."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_098",
+    "question": "Compare cultural nationalism in 19th-century Ireland and Poland.",
+    "answer": "Both emphasized language revival, folklore, and historical memory under imperial domination. Irish cultural nationalism intertwined with religious identity and land politics; Polish nationalism drew on Romantic literature and resistance to partition. Cultural institutions sustained identity and mobilization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_099",
+    "question": "Evaluate the significance of the Sykes-Picot Agreement for Middle Eastern borders and politics.",
+    "answer": "Sykes-Picot delineated spheres of influence, shaping artificial borders that disregarded local identities. It influenced mandates, nationalist movements, and persistent conflicts, symbolizing external manipulation and contested state formation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_100",
+    "question": "Explain the role of technology and social media in the Arab Spring uprisings.",
+    "answer": "Digital tools enabled rapid information dissemination, mobilization, and documentation of state abuses, linking local protests to global audiences. While social media amplified voices, outcomes depended on organizational capacity, state responses, and socio-political structures."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_101",
+    "question": "Assess the environmental and political consequences of the Dust Bowl in the United States.",
+    "answer": "Soil mismanagement and drought caused massive erosion and displacement. The crisis spurred federal conservation programs, agricultural reforms, and migration patterns shaping labor markets and regional demographics, while embedding environmental stewardship in policy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_102",
+    "question": "Analyze the political thought of Machiavelli and its departure from medieval moralism.",
+    "answer": "Machiavelli grounded politics in pragmatic power dynamics, separating statecraft from medieval ethical norms. He emphasized virtù, fortuna, and effective rule over moral idealism, influencing realist theories of governance and modern political science."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_103",
+    "question": "Explain the causes and impacts of the Opium Wars on Chinese sovereignty.",
+    "answer": "Trade disputes and British insistence on commercial access triggered conflict. Defeat imposed unequal treaties, extraterritoriality, and treaty ports, undermining Qing sovereignty and catalyzing domestic crises and reform movements."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_104",
+    "question": "Evaluate the role of the printing press in standardizing religious controversies during the Reformation.",
+    "answer": "Printing disseminated polemics, catechisms, and sermons rapidly, allowing standardized arguments and mass literacy. It eroded clerical monopolies, hardened confessional identities, and institutionalized doctrinal divides across Europe."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_105",
+    "question": "Analyze how the Atlantic slave trade reshaped African societies politically and demographically.",
+    "answer": "Slave raiding and trade altered power balances, incentivized militarization and centralized states in some regions, while depopulating others. Social structures were disrupted, and long-term demographic impacts compounded economic and political vulnerabilities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_106",
+    "question": "Compare the political trajectories of post-independence India and Pakistan.",
+    "answer": "India established a secular democratic framework with mixed economy, while Pakistan faced military interventions, identity debates, and regional tensions. Divergent institutions and leadership shaped stability, development, and civil-military relations."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_107",
+    "question": "Evaluate the significance of the Balfour Declaration for Zionism and Arab nationalism.",
+    "answer": "The declaration endorsed a Jewish national home in Palestine, energizing Zionist aims while alarming Arab communities. It reoriented British policy and set conflicts over land and sovereignty, influencing mandates and later state formation dynamics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_108",
+    "question": "Explain the ideological foundations of the Mexican Revolution and its constitutional outcomes.",
+    "answer": "The revolution blended agrarianism, anti-oligarchy, and labor rights, culminating in the 1917 Constitution’s land reform, labor protections, and limits on church power. It forged a new political order balancing revolutionary ideals with centralized governance."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_109",
+    "question": "Analyze the rise of consumer culture in the 20th century and its social implications.",
+    "answer": "Mass production, advertising, and credit fueled consumption, shaping identities and leisure. Consumerism created new gendered roles, suburbanization, and environmental pressures, while influencing politics via regulatory debates and market citizenship."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_110",
+    "question": "Evaluate the role of Bretton Woods institutions in shaping postwar global economics.",
+    "answer": "The IMF and World Bank stabilized currencies, financed reconstruction, and promoted development. Fixed exchange rates supported trade growth, while later reforms shifted toward liberalization. Critiques highlight conditionality and sovereignty tensions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_111",
+    "question": "Explain how borderlands functioned as zones of cultural exchange and conflict in early modern empires.",
+    "answer": "Borderlands hosted mixed populations and overlapping authorities, enabling trade, intermarriage, and hybrid institutions. They also incubated smuggling and military skirmishes, revealing limits of imperial control and dynamic local agency."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_112",
+    "question": "Assess the role of photography and journalism in shaping public consciousness of war and injustice.",
+    "answer": "Visual documentation humanized distant conflicts and exposed abuses, influencing public opinion and policy. From colonial wars to civil rights coverage, media created moral pressure while raising debates on bias, representation, and ethics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_113",
+    "question": "Analyze the relationship between urban planning and authoritarian regimes in the 20th century.",
+    "answer": "Authoritarian states used monumental architecture, zoning, and infrastructure to project power, control movement, and regulate social life. Planning served ideological narratives while often sidelining community needs and democratic participation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_114",
+    "question": "Explain the development of international law from Westphalia to the UN Charter.",
+    "answer": "Westphalia emphasized sovereignty and non-interference; 19th-century codifications refined war and diplomacy. The UN Charter institutionalized collective security, human rights, and international cooperation, expanding legal norms governing state behavior."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_115",
+    "question": "Evaluate the strategies and outcomes of land reform policies in East Asia post-1945.",
+    "answer": "Japan, Taiwan, and South Korea implemented land redistribution and tenancy reforms, boosting productivity and equity, enabling industrialization. Outcomes depended on state capacity, compensation schemes, and integration with rural development programs."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_116",
+    "question": "Analyze the political symbolism and consequences of the 1968 global protest movements.",
+    "answer": "Movements challenged authority, war, and social hierarchies, using new forms of activism. They reshaped cultural norms, rights discourses, and party politics, though immediate policy outcomes varied by country and institutional receptivity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_117",
+    "question": "Explain the role of maritime empires (Portuguese, Spanish) in spreading Christianity and cultural hybridization.",
+    "answer": "Missionary networks accompanied conquest and trade, promoting conversion and syncretism. Local adaptation and resistance produced hybrid practices, while church institutions reinforced colonial administration and social control."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_118",
+    "question": "Evaluate the significance of the Suez Crisis (1956) for postwar imperial decline.",
+    "answer": "The crisis exposed limits of British-French power and accelerated decolonization, while elevating US and Soviet influence in the Middle East. It signaled a global shift toward superpower dynamics and national sovereignty assertions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_119",
+    "question": "Analyze the causes and effects of the Thirty Years’ War on European state systems.",
+    "answer": "Religious and dynastic conflicts devastated Central Europe, prompting population loss and economic decline. The Peace of Westphalia reconfigured sovereignty, balance of power, and diplomatic norms, shaping the modern state system."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_120",
+    "question": "Explain how medieval universities contributed to intellectual and social change.",
+    "answer": "Universities standardized curricula, fostered scholastic debate, and professionalized knowledge. They produced clerical and administrative elites, facilitating bureaucratic governance and cultural transmission across Europe."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_121",
+    "question": "Evaluate the effects of enclosure movements on rural communities in early modern England.",
+    "answer": "Enclosures privatized common lands, increasing agricultural efficiency and profits but displacing smallholders. They accelerated market integration, urban migration, and social polarization, reshaping rural social structures."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_122",
+    "question": "Analyze the politics of memory around the Armenian Genocide and its international recognition.",
+    "answer": "Competing narratives influence diplomatic relations and diasporic activism. Recognition debates reflect historical accountability, national identity, and legal implications, while shaping education and commemoration practices."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_123",
+    "question": "Explain the role of merchant diasporas (e.g., Armenian, Gujarati, Chinese) in global trade networks.",
+    "answer": "Diasporas provided trust-based credit, information, and logistics across cultural boundaries. They facilitated commodity flows, mediated local customs, and stabilized trade through kinship and institutional networks."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_124",
+    "question": "Evaluate the consequences of the Partition of India for nation-building and social cohesion.",
+    "answer": "Partition caused mass displacement, violence, and contested borders. Nation-building faced challenges of refugee integration, minority protections, and security dilemmas, leaving enduring political and social fissures."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_125",
+    "question": "Analyze the ideological and strategic foundations of NATO and the Warsaw Pact.",
+    "answer": "NATO unified Western defense around collective security and liberal-democratic values; the Warsaw Pact consolidated Soviet-aligned militaries. Alliances structured Cold War deterrence, interventions, and technological competition."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_126",
+    "question": "Explain how cartography and exploration redefined spatial knowledge in the Early Modern period.",
+    "answer": "Improved mapping and astronomical navigation expanded geographic accuracy, enabling imperial claims and commerce. Cartography shaped perceptions of space, sovereignty, and identity, underpinning global integration."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_127",
+    "question": "Evaluate the social and political implications of mass literacy campaigns in the 20th century.",
+    "answer": "Literacy expanded civic participation, economic opportunities, and nationalist mobilization. Campaigns transformed public spheres, reduced information asymmetries, and altered power relations, though quality and access varied."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_128",
+    "question": "Analyze the causes and consequences of the Russian Revolution of 1917.",
+    "answer": "War fatigue, economic collapse, and political dissent toppled the tsar, followed by Bolshevik consolidation. Consequences included civil war, centralized party rule, and far-reaching social-economic transformations under Soviet ideology."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_129",
+    "question": "Explain the role of the Peace of Augsburg (1555) in managing religious conflict within the Holy Roman Empire.",
+    "answer": "Augsburg established cuius regio, eius religio for Lutheran and Catholic states, aiming to stabilize religious tensions. It offered limited toleration and institutional compromise, though it left Calvinists excluded and conflicts unresolved."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_130",
+    "question": "Evaluate the effects of global pandemics on migration and labor regulation in the modern era.",
+    "answer": "Pandemics prompted border controls, public health mandates, and labor protections, reshaping migration flows and workplace norms. Long-term impacts include institutionalization of health systems and reconfigured social contracts."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_131",
+    "question": "Explain how the geography of Ancient Greece influenced the development of city-states rather than a unified empire.",
+    "answer": "Mountainous terrain and fragmented valleys limited large-scale political unity, fostering independent city-states like Athens and Sparta. Proximity to the sea encouraged maritime trade and colonization, shaping distinct political and cultural identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_132",
+    "question": "Assess the significance of Hammurabi’s Code for the concept of justice in early civilizations.",
+    "answer": "Hammurabi’s Code established written laws emphasizing social hierarchy and retributive justice. It reinforced state authority and legal predictability, influencing later legal traditions despite its unequal treatment across classes and genders."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_133",
+    "question": "Compare the roles of Confucianism and Legalism in shaping governance during the Qin and Han dynasties.",
+    "answer": "Qin governance relied on Legalist principles of strict laws and centralized control, while Han integrated Confucian ethics emphasizing moral leadership and bureaucratic merit. This shift stabilized rule and legitimized imperial authority."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_134",
+    "question": "Explain how the spread of Islam influenced trade and cultural exchange across Afro-Eurasia.",
+    "answer": "Islamic expansion unified vast regions under shared religious and legal norms, facilitating trade across the Sahara, Indian Ocean, and Silk Road. Cultural diffusion included language, science, and architecture, creating interconnected societies."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_135",
+    "question": "Analyze the impact of the Black Death on European social and economic structures.",
+    "answer": "Population collapse disrupted feudal labor systems, increasing wages and mobility for survivors. It weakened serfdom, stimulated urban growth, and altered religious attitudes, paving the way for social and economic transformation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_136",
+    "question": "Evaluate the role of the printing press in accelerating the Protestant Reformation.",
+    "answer": "Printing enabled rapid dissemination of vernacular texts and reformist ideas, undermining clerical monopolies and fostering public debate. It amplified Luther’s message, making religious controversy a mass phenomenon."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_137",
+    "question": "Explain why the Renaissance began in Italy and how it reflected humanist ideals.",
+    "answer": "Italy’s urban wealth, trade networks, and classical heritage fostered patronage of arts and scholarship. Humanism emphasized secular learning, individual potential, and classical texts, shaping art and intellectual life."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_138",
+    "question": "Compare the motivations behind European exploration during the Age of Discovery.",
+    "answer": "Motivations included economic gain (spices, gold), religious conversion, and political competition for empire. Advances in navigation and state sponsorship enabled voyages, reshaping global trade and cultural contact."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_139",
+    "question": "Assess the consequences of the Columbian Exchange for Europe and the Americas.",
+    "answer": "Europe gained calorie-rich crops (potatoes, maize), boosting population growth, while the Americas suffered demographic collapse from disease. Exchange transformed diets, economies, and ecosystems globally."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_140",
+    "question": "Explain how absolutism in France under Louis XIV reflected the theory of divine right.",
+    "answer": "Louis XIV centralized power, controlled nobility, and projected authority through Versailles, claiming divine sanction for his rule. This reinforced monarchical absolutism and diminished feudal autonomy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_141",
+    "question": "Analyze the Enlightenment’s challenge to traditional authority in Europe.",
+    "answer": "Thinkers like Voltaire and Locke promoted reason, natural rights, and secular governance, questioning monarchy and church dominance. These ideas fueled reform movements and revolutionary ideologies."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_142",
+    "question": "Compare the American and French Revolutions in terms of goals and outcomes.",
+    "answer": "Both sought liberty and equality, but the American Revolution emphasized constitutional government and property rights, while the French pursued radical social restructuring, leading to instability and authoritarianism."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_143",
+    "question": "Explain how industrialization changed family life and gender roles in the 19th century.",
+    "answer": "Industrialization shifted work from homes to factories, separating spheres of labor and domesticity. Women’s roles narrowed to caregiving, though later reforms and labor activism challenged these norms."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_144",
+    "question": "Assess the role of nationalism in the unification of Italy and Germany.",
+    "answer": "Nationalist movements mobilized cultural identity and political aspirations. Italy unified through diplomacy and Garibaldi’s campaigns; Germany through Prussian militarism and Bismarck’s Realpolitik."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_145",
+    "question": "Explain how imperialism in the 19th century was justified by ideologies like Social Darwinism.",
+    "answer": "Social Darwinism framed imperial domination as a natural hierarchy, legitimizing exploitation under the guise of progress and civilization. This ideology reinforced racial and cultural superiority narratives."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_146",
+    "question": "Analyze the causes of World War I, focusing on militarism and alliances.",
+    "answer": "Militarism fostered arms races and aggressive strategies, while rigid alliances escalated regional conflicts into global war after the assassination of Archduke Franz Ferdinand."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_147",
+    "question": "Evaluate the impact of the Treaty of Versailles on postwar Europe.",
+    "answer": "The treaty imposed reparations and territorial losses on Germany, fueling resentment and economic instability. It weakened collective security and contributed to conditions for World War II."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_148",
+    "question": "Explain how totalitarian regimes in the 20th century controlled society.",
+    "answer": "Regimes like Nazi Germany and Stalinist USSR used propaganda, censorship, secret police, and mass mobilization to suppress dissent and enforce ideological conformity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_149",
+    "question": "Compare the Cold War strategies of containment and détente.",
+    "answer": "Containment sought to limit Soviet influence through alliances and proxy wars, while détente aimed to ease tensions via diplomacy and arms control agreements."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_150",
+    "question": "Analyze the role of Gandhi’s nonviolent resistance in India’s independence movement.",
+    "answer": "Gandhi mobilized mass civil disobedience and symbolic protests, undermining British legitimacy and gaining global attention, ultimately pressuring Britain to grant independence."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_151",
+    "question": "Explain how the Great Depression influenced political change worldwide.",
+    "answer": "Economic collapse discredited liberal capitalism, fueling authoritarian regimes and welfare reforms. It reshaped state-market relations and global economic policies."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_152",
+    "question": "Assess the significance of the United Nations in post-World War II diplomacy.",
+    "answer": "The UN institutionalized collective security, human rights, and international cooperation, though Cold War rivalries often limited its effectiveness in conflict resolution."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_153",
+    "question": "Explain how decolonization after 1945 transformed global politics.",
+    "answer": "New states emerged in Asia and Africa, challenging imperial structures and joining international organizations. Decolonization reshaped Cold War alignments and development debates."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_154",
+    "question": "Analyze the role of technology in shaping warfare during the 20th century.",
+    "answer": "Innovations like tanks, aircraft, and nuclear weapons revolutionized tactics and strategy, increasing civilian vulnerability and altering global security dynamics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_155",
+    "question": "Evaluate the cultural impact of globalization since the late 20th century.",
+    "answer": "Globalization spread media, consumer goods, and hybrid identities, while provoking cultural resistance and debates over authenticity and inequality."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_156",
+    "question": "Explain how the fall of the Berlin Wall symbolized the end of the Cold War.",
+    "answer": "The wall’s collapse marked the failure of communist regimes and the triumph of liberal democracy, accelerating German reunification and reshaping global geopolitics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_157",
+    "question": "Compare the goals of the Civil Rights Movement in the US with anti-apartheid activism in South Africa.",
+    "answer": "Both sought racial equality and dismantling systemic discrimination, using mass protest and legal challenges. Outcomes differed in timing and international involvement."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_158",
+    "question": "Analyze the environmental consequences of industrialization since the 19th century.",
+    "answer": "Industrialization caused deforestation, pollution, and climate change, prompting conservation movements and later global environmental agreements."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_159",
+    "question": "Explain how the Meiji Restoration modernized Japan while preserving tradition.",
+    "answer": "Japan adopted Western technology and institutions while maintaining imperial authority and cultural identity, enabling rapid industrialization and global power status."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_160",
+    "question": "Evaluate the role of women in shaping social reforms during the Progressive Era.",
+    "answer": "Women led campaigns for suffrage, labor rights, and public health, expanding civic participation and influencing policy despite persistent gender barriers."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_161",
+    "question": "Explain how the Silk Road facilitated cultural diffusion between East and West.",
+    "answer": "Trade routes transmitted goods, religions, and technologies, fostering syncretic cultures and linking distant civilizations in a shared economic network."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_162",
+    "question": "Analyze the significance of the Glorious Revolution for constitutional monarchy in England.",
+    "answer": "The revolution established parliamentary supremacy and the Bill of Rights, limiting royal power and institutionalizing constitutional governance."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_163",
+    "question": "Compare the economic systems of capitalism and socialism in the 20th century.",
+    "answer": "Capitalism prioritized private ownership and markets; socialism emphasized collective ownership and planning. Their rivalry shaped global politics and development models."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_164",
+    "question": "Explain how the Scientific Revolution changed European views of nature and knowledge.",
+    "answer": "Empirical observation and mathematical reasoning replaced reliance on tradition and authority, fostering modern science and technological progress."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_165",
+    "question": "Assess the role of propaganda in shaping public opinion during World War II.",
+    "answer": "Governments used media to mobilize support, demonize enemies, and sustain morale, influencing recruitment and perceptions of war aims."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_166",
+    "question": "Explain how the Atlantic slave trade affected African societies.",
+    "answer": "Slave raiding destabilized communities, depopulated regions, and altered power structures, while integrating Africa into exploitative global economic systems."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_167",
+    "question": "Analyze the causes and effects of the Russian Revolution of 1917.",
+    "answer": "War fatigue, economic collapse, and political dissent toppled the tsar, leading to Bolshevik rule and radical social-economic transformations."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_168",
+    "question": "Evaluate the impact of the Green Revolution on global food security.",
+    "answer": "High-yield crops and fertilizers boosted production, reducing famine but increasing inequality and environmental stress in developing regions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_169",
+    "question": "Explain how the Cold War shaped space exploration.",
+    "answer": "US-Soviet rivalry drove technological innovation and symbolic competition, culminating in milestones like Sputnik and the moon landing."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_170",
+    "question": "Analyze the role of nationalism in the breakup of the Soviet Union.",
+    "answer": "Ethnic and regional identities challenged centralized control, fueling independence movements and accelerating the USSR’s collapse."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_171",
+    "question": "Compare the effects of World War I and World War II on civilian populations.",
+    "answer": "WWI caused displacement and shortages; WWII brought mass bombings, genocide, and unprecedented civilian casualties, reshaping humanitarian norms."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_172",
+    "question": "Explain how the Marshall Plan contributed to European recovery after WWII.",
+    "answer": "US aid financed reconstruction, stabilized economies, and promoted integration, countering communist influence and fostering long-term growth."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_173",
+    "question": "Assess the significance of the Cuban Missile Crisis for nuclear diplomacy.",
+    "answer": "The crisis highlighted risks of escalation, prompting arms control agreements and establishing norms for crisis management during the Cold War."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_174",
+    "question": "Explain how industrialization influenced imperial expansion in the 19th century.",
+    "answer": "Industrial economies demanded raw materials and markets, driving colonial conquest and global integration under European dominance."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_175",
+    "question": "Analyze the role of the League of Nations in interwar diplomacy.",
+    "answer": "The League aimed to prevent war through collective security but lacked enforcement power, failing to stop aggression and preserve peace."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_176",
+    "question": "Evaluate the impact of television on political culture in the 20th century.",
+    "answer": "Television transformed campaigns, public opinion, and global awareness, amplifying leaders’ visibility and shaping democratic engagement."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_177",
+    "question": "Explain how the Opium Wars reflected imperialism and economic interests.",
+    "answer": "Britain’s insistence on opium trade to balance deficits led to conflict, imposing unequal treaties that undermined Chinese sovereignty."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_178",
+    "question": "Analyze the significance of the Berlin Conference for African societies.",
+    "answer": "Partition disregarded ethnic boundaries, creating artificial states and fostering long-term political instability and conflict."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_179",
+    "question": "Evaluate the role of technology in shaping globalization since 1990.",
+    "answer": "Digital networks accelerated trade, communication, and cultural exchange, while raising issues of inequality, privacy, and economic dependency."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS_180",
+    "question": "Explain how the Great Fire of London (1666) influenced urban planning and architecture.",
+    "answer": "The fire prompted stricter building codes, wider streets, and use of fire-resistant materials, reshaping London’s urban landscape."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS181",
+    "question": "Explain the role of the Delian League in Athenian imperialism.",
+    "answer": "Athenian control of contributions and fleets turned a defensive alliance into an empire, funding public works and coercing allies."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS182",
+    "question": "Assess the significance of Alexander’s policy of fusion.",
+    "answer": "Intermarriage, local elite integration, and shared administration aimed to stabilize conquests; results varied by region and resistance."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS183",
+    "question": "Analyze Roman road networks and state power.",
+    "answer": "Roads enabled troop movement, trade, and communication, consolidating imperial control and economic integration."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS184",
+    "question": "Explain how the patron-client system shaped Roman society.",
+    "answer": "Reciprocal obligations linked elites and commoners, structuring political mobilization and social welfare."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS185",
+    "question": "Evaluate the role of nomadic confederations (Xiongnu) in Han foreign policy.",
+    "answer": "Tribute, trade, and warfare strategies balanced deterrence with diplomacy along northern frontiers."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS186",
+    "question": "Compare Hellenic polis democracy with Hellenistic monarchies.",
+    "answer": "Polis models emphasized citizen assemblies; Hellenistic realms centralized authority under dynasts with court bureaucracy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS187",
+    "question": "Explain the significance of the Twelve Olympians in Greek religion.",
+    "answer": "They embodied anthropomorphic deities governing natural and social domains, shaping ritual life and myth."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS188",
+    "question": "Assess the impact of Roman slavery on the economy.",
+    "answer": "Enslaved labor underpinned agriculture and households, yet risked revolt and influenced class dynamics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS189",
+    "question": "Analyze the causes of the Second Punic War.",
+    "answer": "Carthaginian ambitions in Iberia and Roman fears prompted conflict; Hannibal’s campaigns tested Rome’s resilience."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS190",
+    "question": "Explain the role of coinage in ancient economies.",
+    "answer": "Standardized currency facilitated trade, taxation, and military pay, increasing market efficiency and state capacity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS191",
+    "question": "Evaluate Athens’ Golden Age cultural achievements.",
+    "answer": "Drama, philosophy, and architecture flourished under Pericles, reflecting civic identity and imperial resources."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS192",
+    "question": "Compare Roman and Persian approaches to religious tolerance.",
+    "answer": "Romans often allowed local cults; Persians institutionalized diversity through imperial policy, both seeking stability."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS193",
+    "question": "Explain the fall of the Mycenaean civilization.",
+    "answer": "Complex factors like invasions, internal strife, and economic disruption led to collapse and a Greek Dark Age."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS194",
+    "question": "Assess the significance of the Battle of Thermopylae.",
+    "answer": "Spartan resistance slowed Persian advance, inspiring Greek unity despite strategic defeat."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS195",
+    "question": "Analyze Phoenician maritime trade and colonization.",
+    "answer": "Skill in navigation and shipbuilding enabled networks across the Mediterranean, spreading alphabetic writing and commerce."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS196",
+    "question": "Explain the political role of the Roman Senate.",
+    "answer": "It advised magistrates, controlled finances and foreign policy, and embodied elite consensus within republican norms."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS197",
+    "question": "Evaluate Egyptian New Kingdom imperial expansion.",
+    "answer": "Campaigns into Levant and Nubia secured resources and prestige, sustained by centralized administration and temples."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS198",
+    "question": "Compare Athenian triremes and Roman legions as instruments of power.",
+    "answer": "Triremes projected naval supremacy and trade control; legions secured land conquests and internal order."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS199",
+    "question": "Explain the significance of the Cyrus Cylinder.",
+    "answer": "It articulated ideals of just rule and local autonomy, often seen as early human rights rhetoric in imperial policy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS200",
+    "question": "Assess the role of oracle cults (Delphi) in politics.",
+    "answer": "Consultations influenced decisions and legitimation, intertwining religion with governance and diplomacy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS201",
+    "question": "Explain the Carolingian Renaissance’s educational reforms.",
+    "answer": "Scriptoria, standardized Latin, and royal schools improved literacy among clergy and officials."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS202",
+    "question": "Assess the role of castles in feudal control.",
+    "answer": "Castles projected power, secured trade routes, and served as administrative centers and refuges."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS203",
+    "question": "Analyze the Investiture Controversy’s local impacts.",
+    "answer": "Conflicts over appointments rebalanced power among bishops, princes, and urban elites."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS204",
+    "question": "Explain the economic function of fairs (Champagne).",
+    "answer": "Seasonal fairs connected regions, standardized contracts, and fostered banking innovations."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS205",
+    "question": "Evaluate the Teutonic Order’s state-building in the Baltic.",
+    "answer": "Military colonization and Christianization established governance but provoked resistance and cultural change."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS206",
+    "question": "Compare mendicant orders (Franciscans, Dominicans).",
+    "answer": "Both embraced poverty and preaching; Dominicans focused on doctrine, Franciscans on charity and mysticism."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS207",
+    "question": "Explain the role of canon law in medieval jurisprudence.",
+    "answer": "Church courts regulated marriage, inheritance, and morality, intersecting with secular authority."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS208",
+    "question": "Assess the cultural exchange across the Crusader States.",
+    "answer": "Trade and diplomacy facilitated knowledge transfer despite persistent conflict and segregation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS209",
+    "question": "Analyze the Black Death’s religious responses.",
+    "answer": "Flagellant movements and piety surges coexisted with anti-minority violence and clerical scrutiny."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS210",
+    "question": "Explain the rise of Parliament in England.",
+    "answer": "Fiscal consent and representation of shires and boroughs institutionalized bargaining with the crown."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS211",
+    "question": "Evaluate Byzantine diplomacy’s methods.",
+    "answer": "Gift-giving, marriages, and titles managed relations with neighbors, leveraging prestige over force."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS212",
+    "question": "Compare feudal inheritance practices (primogeniture vs. partition).",
+    "answer": "Primogeniture consolidated estates; partition maintained kin equity but fragmented power."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS213",
+    "question": "Explain the role of Islamic madrasas in education.",
+    "answer": "They trained scholars in law and theology, preserving and advancing intellectual traditions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS214",
+    "question": "Assess trade along the Silk Road during Mongol Pax.",
+    "answer": "Security increased volume and diversity of goods, while cultural exchange accelerated."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS215",
+    "question": "Analyze the Albigensian Crusade’s political outcomes.",
+    "answer": "It expanded royal authority in southern France and suppressed heterodox movements."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS216",
+    "question": "Explain town charters and liberties.",
+    "answer": "Legal privileges granted self-governance, market rights, and judicial autonomy to urban communities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS217",
+    "question": "Evaluate the Reconquista’s economic effects.",
+    "answer": "Land redistribution and settlement transformed agriculture and labor structures."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS218",
+    "question": "Compare Norman administration in England with Capetian France.",
+    "answer": "Normans centralized records and law; Capetians gradually extended royal justice and domain control."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS219",
+    "question": "Explain pilgrimage’s social and economic roles.",
+    "answer": "Pilgrimage fostered spiritual merit, hospitality industries, and cultural exchange."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS220",
+    "question": "Assess the role of scholastic disputations in universities.",
+    "answer": "They trained critical reasoning and standardized curricula across Europe."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS221",
+    "question": "Explain the Price Revolution’s causes.",
+    "answer": "Influx of silver and demographic recovery raised prices, straining fixed incomes and prompting fiscal reforms."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS222",
+    "question": "Assess the Dutch tulip mania and financial culture.",
+    "answer": "Speculative bubbles reflected emerging markets and risk behavior within a robust commercial system."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS223",
+    "question": "Analyze the Thirty Years’ War’s diplomatic innovations.",
+    "answer": "Westphalian principles of sovereignty reshaped interstate relations and legal norms."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS224",
+    "question": "Explain Galileo’s trial’s significance.",
+    "answer": "It highlighted tensions between scientific evidence and ecclesiastical authority, shaping narratives of intellectual freedom."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS225",
+    "question": "Evaluate Cromwell’s Protectorate.",
+    "answer": "Military rule stabilized finances and trade but faced legitimacy issues and factional opposition."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS226",
+    "question": "Compare Spanish and Portuguese missionary strategies.",
+    "answer": "Spanish coordinated with colonial administration; Portuguese relied on orders like Jesuits across Asia and Africa."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS227",
+    "question": "Explain the rise of coffeehouses as public spheres.",
+    "answer": "They provided venues for news, debate, and commerce, linking print culture to civic discourse."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS228",
+    "question": "Assess the impact of smallpox on the Americas.",
+    "answer": "Epidemics decimated populations, enabling conquest and labor reorganization under colonial regimes."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS229",
+    "question": "Analyze the Great Northern War’s outcomes.",
+    "answer": "Sweden’s decline and Russia’s rise shifted Baltic power, opening access to European trade."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS230",
+    "question": "Explain Catherine the Great’s enlightened absolutism.",
+    "answer": "Legal codification and cultural patronage expanded state power while retaining autocracy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS231",
+    "question": "Evaluate the causes of the American Bill of Rights.",
+    "answer": "Concerns over federal power induced enumerated protections for liberties and due process."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS232",
+    "question": "Compare revolutionary constitutions in France (1791) and America (1787).",
+    "answer": "France’s constitutional monarchy collapsed amid war; America’s federal system endured through checks and balances."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS233",
+    "question": "Explain Napoleonic warfare’s logistics.",
+    "answer": "Corps systems and foraging enabled operational flexibility but strained civilian populations."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS234",
+    "question": "Assess Simon Bolívar’s challenges in Gran Colombia.",
+    "answer": "Regionalism and governance disputes undermined unity despite shared independence goals."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS235",
+    "question": "Analyze the Haitian Revolution’s class and race dynamics.",
+    "answer": "Enslaved, free people of color, and planters contested power, producing radical emancipation and state formation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS236",
+    "question": "Explain British abolition’s drivers.",
+    "answer": "Religious activism, economic shifts, and slave resistance converged to end trade and slavery within the empire."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS237",
+    "question": "Evaluate Enlightenment economic thought (physiocrats).",
+    "answer": "Agriculture as wealth and laissez-faire ideas influenced reform debates against mercantilist controls."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS238",
+    "question": "Compare Qing literati culture with European Enlightenment salons.",
+    "answer": "Both fostered elite discourse; Qing emphasized classics and moral cultivation, salons emphasized critique and novelty."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS239",
+    "question": "Explain urban policing’s emergence in early modern cities.",
+    "answer": "Authorities professionalized surveillance and order to manage growth, crime, and unrest."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS240",
+    "question": "Assess the causes of the French Revolutionary Wars.",
+    "answer": "Ideological zeal and defensive responses to foreign hostility expanded conflict across Europe."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS241",
+    "question": "Explain the Opium Wars’ trade imbalances.",
+    "answer": "British deficits with China prompted opium sales; conflict enforced market access via unequal treaties."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS242",
+    "question": "Assess the Chartist movement’s demands.",
+    "answer": "Universal male suffrage and parliamentary reforms sought political inclusion; petitions showed mass mobilization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS243",
+    "question": "Analyze the Irish Home Rule debates.",
+    "answer": "Autonomy advocates clashed with unionists; compromises reshaped imperial governance and identity politics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS244",
+    "question": "Explain the origins of Pan-Slavism.",
+    "answer": "Shared linguistic-cultural identity motivated political aspirations and influenced Balkan rivalries."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS245",
+    "question": "Evaluate the Transcontinental Railroad’s labor politics.",
+    "answer": "Immigrant labor faced exploitation and discrimination while enabling national integration."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS246",
+    "question": "Compare Japanese and Russian modernization efforts.",
+    "answer": "Japan’s coordinated reforms contrasted with Russia’s uneven industrialization and autocratic constraints."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS247",
+    "question": "Explain the Berlin Conference’s ‘effective occupation’.",
+    "answer": "Claims required administrative presence, accelerating partition and colonial competition."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS248",
+    "question": "Assess New Imperialism’s scientific racism.",
+    "answer": "Pseudoscientific hierarchies justified domination and shaped policy and education."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS249",
+    "question": "Analyze urban tenement conditions and reform.",
+    "answer": "Crowding and disease spurred public health and housing regulations."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS250",
+    "question": "Explain the Dreyfus Affair’s cultural impact.",
+    "answer": "Antisemitism and republican ideals clashed, galvanizing civil rights and political realignments."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS251",
+    "question": "Evaluate women’s suffrage campaigns in Britain.",
+    "answer": "Legal strategies and militancy pressured reforms culminating in partial then full enfranchisement."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS252",
+    "question": "Compare free trade vs. tariff debates in late 19th-century Europe.",
+    "answer": "Industrial interests and agricultural protection shaped party politics and policy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS253",
+    "question": "Explain the Boer Wars’ imperial lessons.",
+    "answer": "Guerrilla conflict exposed logistical limits, leading to reforms in military organization and colonial administration."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS254",
+    "question": "Assess the Habsburg Empire’s nationalities problem.",
+    "answer": "Competing national claims strained federal structures and contributed to instability."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS255",
+    "question": "Analyze temperance movements’ social goals.",
+    "answer": "They pursued moral reform, worker welfare, and women’s rights through alcohol regulation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS256",
+    "question": "Explain the rise of mass education.",
+    "answer": "States expanded schooling to foster citizenship, productivity, and national identity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS257",
+    "question": "Evaluate telegraphy’s effect on diplomacy and markets.",
+    "answer": "Instant communication transformed negotiation speed and integrated financial exchanges."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS258",
+    "question": "Compare Romantic nationalism in Italy and Germany.",
+    "answer": "Cultural myths and heroes mobilized identity for political change under different leaderships."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS259",
+    "question": "Explain the Satsuma Rebellion’s significance.",
+    "answer": "Samurai resistance tested Meiji centralization and conscription-based military systems."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS260",
+    "question": "Explain the causes of the Spanish Flu’s rapid spread.",
+    "answer": "Wartime mobility and crowded conditions accelerated transmission, overwhelming health systems."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS261",
+    "question": "Assess the League of Nations’ mandates system.",
+    "answer": "Territories were administered under ‘civilizing’ claims, extending imperial control with international oversight."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS262",
+    "question": "Analyze hyperinflation in Weimar Germany.",
+    "answer": "Fiscal deficits and reparations led to currency collapse, eroding savings and political trust."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS263",
+    "question": "Explain Stalin’s Five-Year Plans.",
+    "answer": "Forced industrialization and collectivization achieved growth but caused famine and repression."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS264",
+    "question": "Evaluate the Popular Fronts in Europe.",
+    "answer": "Coalitions of left parties resisted fascism, advancing social reforms amid internal tensions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS265",
+    "question": "Compare Blitzkrieg with attritional warfare.",
+    "answer": "Rapid combined-arms assaults sought decisive breakthroughs versus prolonged resource-draining battles."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS266",
+    "question": "Explain Lend-Lease’s role in WWII.",
+    "answer": "US aid equipped Allies, sustaining production and logistics across theaters."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS267",
+    "question": "Assess Nuremberg Trials’ legal precedents.",
+    "answer": "Crimes against humanity and individual responsibility advanced international criminal law."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS268",
+    "question": "Analyze the partition of India and Pakistan.",
+    "answer": "Religious and political divisions produced violence and enduring border disputes."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS269",
+    "question": "Explain the creation of Israel in 1948.",
+    "answer": "Zionist settlement, British policy, and UN partition led to statehood amid war with neighbors."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS270",
+    "question": "Evaluate the Chinese Great Leap Forward.",
+    "answer": "Ambitious targets and communal production caused inefficiencies and famine, undermining policy credibility."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS271",
+    "question": "Compare civil rights strategies in the US (legal vs. direct action).",
+    "answer": "Court victories complemented mass protests, producing landmark legislation and social shifts."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS272",
+    "question": "Explain the Cultural Revolution’s aims and outcomes.",
+    "answer": "Purging ‘bourgeois’ elements mobilized youth, disrupted institutions, and traumatized society."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS273",
+    "question": "Assess détente’s limits after Soviet interventions.",
+    "answer": "Human rights issues and regional conflicts reignited tensions despite agreements."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS274",
+    "question": "Analyze neoliberal reforms in the 1980s.",
+    "answer": "Privatization and deregulation sought efficiency but increased inequality and volatility."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS275",
+    "question": "Explain the Iran-Iraq War’s regional impact.",
+    "answer": "Prolonged conflict devastated economies, militarized politics, and reshaped alliances."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS276",
+    "question": "Evaluate the end of apartheid negotiations.",
+    "answer": "Compromises established universal suffrage and constitutional protections amid reconciliation efforts."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS277",
+    "question": "Compare German reunification’s economic challenges in East and West.",
+    "answer": "Integration required transfers, privatization, and labor adjustment, uneven across regions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS278",
+    "question": "Explain Yugoslavia’s breakup causes.",
+    "answer": "Ethno-nationalism, economic crisis, and weak federal institutions led to violent dissolution."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS279",
+    "question": "Assess globalization’s impact on labor outsourcing.",
+    "answer": "Firms relocated production to reduce costs, altering domestic employment and global supply chains."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS280",
+    "question": "Analyze the rise of the EU’s single market.",
+    "answer": "Elimination of barriers increased competition and mobility, requiring regulatory harmonization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS281",
+    "question": "Explain microfinance’s mixed outcomes.",
+    "answer": "Credit access empowered entrepreneurs but sometimes increased debt burdens and didn’t always reduce poverty."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS282",
+    "question": "Evaluate ICT’s role in education.",
+    "answer": "Digital tools expanded access and personalization, but exposed divides in infrastructure and skills."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS283",
+    "question": "Compare environmental movements in the 1970s and 2000s.",
+    "answer": "Early campaigns targeted pollution control; later ones emphasized climate justice and global coordination."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS284",
+    "question": "Explain humanitarian law’s evolution since 1949.",
+    "answer": "Geneva Conventions and protocols broadened protections for civilians and POWs, though enforcement varies."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS285",
+    "question": "Assess migration policies in the EU since 1990.",
+    "answer": "Schengen eased internal movement while external borders tightened, prompting debates on asylum and integration."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS286",
+    "question": "Analyze media framing in modern conflicts.",
+    "answer": "Narratives influence public opinion and policy, with disinformation complicating accountability."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS287",
+    "question": "Explain the Arab Spring’s varied outcomes.",
+    "answer": "Regime changes, civil wars, and authoritarian resilience reflected institutional capacities and external roles."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS288",
+    "question": "Evaluate urban protest movements’ policy effects.",
+    "answer": "They catalyze reforms on policing, housing, and climate, contingent on sustained organization."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS289",
+    "question": "Compare development models in East Asia and Latin America since 1960.",
+    "answer": "Export-led industrialization outperformed commodity dependence, with institutional differences in governance."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS290",
+    "question": "Explain public health systems’ role in pandemic resilience.",
+    "answer": "Preparedness, testing, and communication determine containment success and social trust."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS291",
+    "question": "Assess cyber security’s geopolitical stakes.",
+    "answer": "State and non-state actors contest infrastructure and information, necessitating norms and deterrence."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS292",
+    "question": "Analyze the politics of memory in post-conflict museums.",
+    "answer": "Curatorial choices shape narratives, reconciliation, and contested identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS293",
+    "question": "Explain climate diplomacy’s challenges.",
+    "answer": "Burden-sharing, finance, and verification hinder agreements despite scientific consensus."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS294",
+    "question": "Evaluate women’s political representation trends since 1990.",
+    "answer": "Quota systems and activism improved participation, though leadership gaps persist."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS295",
+    "question": "Compare federal vs. unitary responses to disasters.",
+    "answer": "Coordination and local autonomy affect speed and equity of relief."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS296",
+    "question": "Explain the geopolitics of rare earths.",
+    "answer": "Supply concentration creates strategic leverage in technology sectors and trade disputes."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS297",
+    "question": "Assess the role of NGOs in refugee assistance.",
+    "answer": "They deliver services and advocacy but face funding and access constraints."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS298",
+    "question": "Analyze social media algorithms and polarization.",
+    "answer": "Engagement-driven curation can amplify divisive content, affecting discourse and democracy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS299",
+    "question": "Explain how urban heritage preservation intersects with development.",
+    "answer": "Balancing economic growth with conservation requires participatory planning and incentives."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS300",
+    "question": "Evaluate international election monitoring’s effectiveness.",
+    "answer": "It deters fraud and legitimizes outcomes when accepted by stakeholders and backed by capacity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS301",
+    "question": "Compare responses to financial crises (1997 vs. 2008).",
+    "answer": "Asia used capital controls and IMF programs; 2008 saw quantitative easing and bank rescues."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS302",
+    "question": "Explain the role of diasporas in homeland politics.",
+    "answer": "Remittances and lobbying influence policy, elections, and conflict dynamics."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS303",
+    "question": "Assess the Belt and Road Initiative’s geopolitical implications.",
+    "answer": "Infrastructure finance expands influence but raises debt and sovereignty concerns."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS304",
+    "question": "Analyze the ethics of autonomous weapons.",
+    "answer": "Accountability and civilian protection challenge legal frameworks and strategic doctrine."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS305",
+    "question": "Explain food security’s link to political stability.",
+    "answer": "Price spikes and shortages can trigger unrest, requiring safety nets and trade policies."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS306",
+    "question": "Evaluate digital privacy regulations’ trade-offs.",
+    "answer": "Protection of data vs. innovation and business models shapes regulatory approaches."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS307",
+    "question": "Compare multicultural policies in Canada and Europe.",
+    "answer": "Canada’s official multiculturalism contrasts with varied European integration models and debates."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS308",
+    "question": "Explain urban-rural political divides.",
+    "answer": "Economic structures and cultural identities produce divergent policy preferences and electoral patterns."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS309",
+    "question": "Assess water scarcity’s conflict risks.",
+    "answer": "Transboundary rivers and climate stress can escalate tensions without cooperative institutions."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS310",
+    "question": "Analyze civic education’s impact on democratic participation.",
+    "answer": "Knowledge and skills foster engagement and resilience against misinformation."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS311",
+    "question": "Explain renewable energy transitions’ challenges.",
+    "answer": "Grid integration, storage, and policy incentives must align to decarbonize effectively."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS312",
+    "question": "Evaluate sanctions’ effectiveness.",
+    "answer": "Targeted measures can coerce policy changes when multilateral and well-designed; evasion reduces impact."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS313",
+    "question": "Compare state responses to terrorism post-2001.",
+    "answer": "Expanded surveillance and military interventions reshaped civil liberties and foreign policy."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS314",
+    "question": "Explain the politics of vaccination campaigns.",
+    "answer": "Trust, logistics, and communication determine uptake; mandates provoke debates on rights and public health."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS315",
+    "question": "Assess demographic aging’s policy implications.",
+    "answer": "Pensions, healthcare, and labor markets require reform to sustain welfare states."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS316",
+    "question": "Analyze megacity governance innovations.",
+    "answer": "Data-driven services and participatory budgeting seek efficiency and inclusion amid complexity."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS317",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS318",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS319",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS320",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS321",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS322",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS323",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS324",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS325",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS326",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS327",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS328",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS329",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS330",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS331",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS332",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS333",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS334",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS335",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS336",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS337",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS338",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS339",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS340",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS341",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS342",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS343",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS344",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS345",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS346",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS347",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS348",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS349",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS350",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS351",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS352",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS353",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS354",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS355",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS356",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS357",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS358",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS359",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS360",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS361",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS362",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS363",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS364",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS365",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS366",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS367",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS368",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS369",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS370",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS371",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS372",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS373",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS374",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS375",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS376",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS377",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS378",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS379",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  },
+  {
+    "questionID": "TRAIN_NEW_HIS380",
+    "question": "Explain the role of cultural exchanges in shaping historical change.",
+    "answer": "Trade, migration, and communication transmit ideas and practices, producing hybrid institutions and identities."
+  }
+]

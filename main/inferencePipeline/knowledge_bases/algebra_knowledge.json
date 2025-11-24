@@ -1,0 +1,1226 @@
+{
+    "metadata": {
+        "subject": "algebra",
+        "level": "olympiad",
+        "topics_covered": [
+            "inequalities",
+            "polynomials",
+            "functional_equations",
+            "number_theory",
+            "sequences_series",
+            "combinatorics",
+            "advanced_techniques"
+        ],
+        "sources": [
+            "IMO Shortlist",
+            "USA TST",
+            "Putnam",
+            "AMC/AIME",
+            "Classical Theorems",
+            "Standard Techniques"
+        ]
+    },
+    "documents": [
+        {
+            "id": "alg_deepseek_ineq_001",
+            "topic": "inequalities",
+            "subtopic": "AM-GM-HM",
+            "content": "The Arithmetic Mean-Geometric Mean Inequality (AM-GM): For non-negative real numbers a₁, a₂, ..., aₙ, (a₁ + a₂ + ... + aₙ)/n ≥ (a₁a₂...aₙ)^(1/n). Equality holds when all numbers are equal. The Weighted AM-GM: For positive weights wᵢ with sum 1, and positive numbers xᵢ, we have ∑wᵢxᵢ ≥ ∏xᵢ^{wᵢ}. The HM-GM-AM chain: HM ≤ GM ≤ AM.",
+            "example": "For positive a,b,c prove: (a+b)(b+c)(c+a) ≥ 8abc. Solution: By AM-GM, a+b ≥ 2√(ab), b+c ≥ 2√(bc), c+a ≥ 2√(ca). Multiply to get result.",
+            "difficulty": "medium",
+            "tags": [
+                "AM-GM",
+                "inequality",
+                "basic"
+            ]
+        },
+        {
+            "id": "alg_deepseek_ineq_002",
+            "topic": "inequalities",
+            "subtopic": "Cauchy-Schwarz",
+            "content": "Cauchy-Schwarz Inequality: (∑aᵢbᵢ)² ≤ (∑aᵢ²)(∑bᵢ²). Equality when sequences are proportional. Engel form (Titu's Lemma): ∑(aᵢ²/bᵢ) ≥ (∑aᵢ)²/∑bᵢ for positive bᵢ. Vector form: |u·v| ≤ ||u|| ||v||.",
+            "example": "Prove: ∑(a²/(b+c)) ≥ (a+b+c)/2 for positive a,b,c. Solution: By C-S: ∑(a²/(b+c)) ≥ (∑a)²/∑(b+c) = (a+b+c)²/(2(a+b+c)) = (a+b+c)/2.",
+            "difficulty": "medium",
+            "tags": [
+                "Cauchy-Schwarz",
+                "Titu",
+                "inequality"
+            ]
+        },
+        {
+            "id": "alg_deepseek_ineq_003",
+            "topic": "inequalities",
+            "subtopic": "Holder",
+            "content": "Holder's Inequality: For positive numbers and conjugate exponents p,q (1/p + 1/q = 1), we have ∑aᵢbᵢ ≤ (∑aᵢᵖ)^{1/p}(∑bᵢᵠ)^{1/q}. General form: For m sequences and exponents pᵢ with ∑1/pᵢ = 1, we have ∑(∏x_{ij}) ≤ ∏(∑x_{ij}^{pᵢ})^{1/pᵢ}.",
+            "example": "Prove: ∑(a/√(b²+bc+c²)) ≤ √3 for positive a,b,c with a²+b²+c²=1. Use Holder with careful exponent choice.",
+            "difficulty": "hard",
+            "tags": [
+                "Holder",
+                "advanced",
+                "inequality"
+            ]
+        },
+        {
+            "id": "alg_deepseek_ineq_004",
+            "topic": "inequalities",
+            "subtopic": "Jensen",
+            "content": "Jensen's Inequality: For convex function f and weights λᵢ ≥ 0 with ∑λᵢ = 1, we have f(∑λᵢxᵢ) ≤ ∑λᵢf(xᵢ). For concave functions, inequality reverses. Common convex functions: x², eˣ, -ln(x) for x>0, xln(x) for x>0.",
+            "example": "Prove Nesbitt's inequality: a/(b+c) + b/(c+a) + c/(a+b) ≥ 3/2 for positive a,b,c. Use convexity of f(x)=1/x or symmetry and smoothing.",
+            "difficulty": "medium",
+            "tags": [
+                "Jensen",
+                "convexity",
+                "inequality"
+            ]
+        },
+        {
+            "id": "alg_deepseek_poly_001",
+            "topic": "polynomials",
+            "subtopic": "Vieta",
+            "content": "Vieta's Formulas: For polynomial P(x)=aₙxⁿ+aₙ₋₁xⁿ⁻¹+...+a₀ with roots r₁,...,rₙ, we have: ∑rᵢ = -aₙ₋₁/aₙ, ∑rᵢrⱼ = aₙ₋₂/aₙ, ..., r₁r₂...rₙ = (-1)ⁿa₀/aₙ. Symmetric sums of roots relate to coefficients.",
+            "example": "If α,β,γ are roots of x³-2x²+3x-4=0, find αβ+βγ+γα. Solution: By Vieta, αβ+βγ+γα = 3.",
+            "difficulty": "easy",
+            "tags": [
+                "Vieta",
+                "polynomial",
+                "roots"
+            ]
+        },
+        {
+            "id": "alg_deepseek_poly_002",
+            "topic": "polynomials",
+            "subtopic": "Factor_Theorem",
+            "content": "Factor Theorem: (x-a) is a factor of P(x) iff P(a)=0. Remainder Theorem: When P(x) divided by (x-a), remainder is P(a). Useful for constructing polynomials with given roots.",
+            "example": "Find polynomial with roots 1,2,3. Solution: P(x)=k(x-1)(x-2)(x-3) for constant k.",
+            "difficulty": "easy",
+            "tags": [
+                "factor theorem",
+                "polynomial",
+                "roots"
+            ]
+        },
+        {
+            "id": "alg_deepseek_poly_003",
+            "topic": "polynomials",
+            "subtopic": "Symmetric_Polynomials",
+            "content": "Elementary symmetric polynomials: e₁=∑xᵢ, e₂=∑xᵢxⱼ, e₃=∑xᵢxⱼxₖ, etc. Fundamental Theorem of Symmetric Polynomials: Every symmetric polynomial can be expressed as polynomial in elementary symmetric polynomials. Newton's identities relate power sums to elementary symmetric polynomials.",
+            "example": "Express x³+y³+z³-3xyz in terms of elementary symmetric polynomials. Answer: (x+y+z)³ - 3(x+y+z)(xy+yz+zx) = e₁³ - 3e₁e₂.",
+            "difficulty": "medium",
+            "tags": [
+                "symmetric",
+                "polynomial",
+                "Newton"
+            ]
+        },
+        {
+            "id": "alg_deepseek_poly_004",
+            "topic": "polynomials",
+            "subtopic": "Interpolation",
+            "content": "Lagrange Interpolation: Given n points (xᵢ,yᵢ), the unique degree <n polynomial through them is P(x)=∑yᵢLᵢ(x) where Lᵢ(x)=∏(x-xⱼ)/(xᵢ-xⱼ). Useful for constructing polynomials with specific values.",
+            "example": "Find quadratic through (1,2), (2,3), (3,5). Use Lagrange: P(x)=2(x-2)(x-3)/((1-2)(1-3)) + 3(x-1)(x-3)/((2-1)(2-3)) + 5(x-1)(x-2)/((3-1)(3-2)).",
+            "difficulty": "medium",
+            "tags": [
+                "interpolation",
+                "Lagrange",
+                "polynomial"
+            ]
+        },
+        {
+            "id": "alg_deepseek_func_001",
+            "topic": "functional_equations",
+            "subtopic": "Cauchy",
+            "content": "Cauchy's Functional Equation: f(x+y)=f(x)+f(y). Over reals, continuous solutions are f(x)=cx. Over rationals, all solutions are f(x)=cx. Useful for many functional equations through substitution.",
+            "example": "Find all f:ℝ→ℝ satisfying f(x+y)=f(x)+f(y). Over reals with continuity: f(x)=cx. Over rationals: f(q)=cq for rational q.",
+            "difficulty": "medium",
+            "tags": [
+                "Cauchy",
+                "functional",
+                "additive"
+            ]
+        },
+        {
+            "id": "alg_deepseek_func_002",
+            "topic": "functional_equations",
+            "subtopic": "Injection_Surjection",
+            "content": "Common techniques: 1) Plug in special values (0,1,-1), 2) Assume injectivity/surjectivity, 3) Find fixed points, 4) Use symmetry, 5) Iterate the equation, 6) Look for polynomial solutions.",
+            "example": "Solve f(x+f(y))=f(x)+y. Assume surjectivity, find f(0)=0, then show injectivity, then f(f(y))=y, then solve to get f(x)=±x.",
+            "difficulty": "hard",
+            "tags": [
+                "functional",
+                "injective",
+                "surjective"
+            ]
+        },
+        {
+            "id": "alg_deepseek_func_003",
+            "topic": "functional_equations",
+            "subtopic": "Cyclic_Substitutions",
+            "content": "For equations with cyclic symmetry, make cyclic substitutions and combine results. For f(x+f(y))=g(x,y) type, often set y such that f(y) has nice property.",
+            "example": "Solve f(x+f(y))=f(x)+x+f(y)-1. Set y such that f(y)=c constant, then solve.",
+            "difficulty": "hard",
+            "tags": [
+                "cyclic",
+                "substitution",
+                "functional"
+            ]
+        },
+        {
+            "id": "alg_deepseek_nt_001",
+            "topic": "number_theory",
+            "subtopic": "Divisibility",
+            "content": "Basic properties: a|b and b|c ⇒ a|c; a|b and a|c ⇒ a|(bx+cy); If a|bc and gcd(a,b)=1 then a|c. Euclidean algorithm for gcd. Bezout's identity: gcd(a,b)=ax+by for some integers x,y.",
+            "example": "Prove gcd(a,b)×lcm(a,b)=ab. Use prime factorization or Bezout.",
+            "difficulty": "easy",
+            "tags": [
+                "divisibility",
+                "gcd",
+                "lcm"
+            ]
+        },
+        {
+            "id": "alg_deepseek_nt_002",
+            "topic": "number_theory",
+            "subtopic": "Modular_Arithmetic",
+            "content": "a ≡ b (mod m) means m|(a-b). Properties: If a≡b and c≡d then a±c≡b±d, ac≡bd. Chinese Remainder Theorem: If moduli pairwise coprime, system has unique solution modulo product. Fermat's Little Theorem: aᵖ≡a (mod p) for prime p. Euler's Theorem: a^φ(m)≡1 (mod m) for gcd(a,m)=1.",
+            "example": "Solve x≡2 mod 3, x≡3 mod 5, x≡2 mod 7. Use CRT to find x≡23 mod 105.",
+            "difficulty": "medium",
+            "tags": [
+                "modular",
+                "CRT",
+                "Fermat"
+            ]
+        },
+        {
+            "id": "alg_deepseek_nt_003",
+            "topic": "number_theory",
+            "subtopic": "Diophantine",
+            "content": "Linear Diophantine: ax+by=c has solution iff gcd(a,b)|c. Pythagorean triples: a=m²-n², b=2mn, c=m²+n². Pell's equation: x²-dy²=1 has infinitely many solutions. Use modular arithmetic, bounding, infinite descent.",
+            "example": "Solve x²+y²=z² in positive integers. Parameterize as (m²-n², 2mn, m²+n²) for m>n.",
+            "difficulty": "hard",
+            "tags": [
+                "Diophantine",
+                "Pell",
+                "Pythagorean"
+            ]
+        },
+        {
+            "id": "alg_deepseek_seq_001",
+            "topic": "sequences_series",
+            "subtopic": "Recurrence",
+            "content": "Linear recurrences: aₙ=caₙ₋₁+daₙ₋₂. Solve characteristic equation r²=cr+d. For repeated roots, solution includes n×rⁿ. Non-homogeneous: find particular solution. Generating functions useful for complex recurrences.",
+            "example": "Solve aₙ=5aₙ₋₁-6aₙ₋₂ with a₀=0,a₁=1. Characteristic: r²-5r+6=0, roots 2,3. So aₙ=A·2ⁿ+B·3ⁿ. Use initial conditions to find A=-1,B=1.",
+            "difficulty": "medium",
+            "tags": [
+                "recurrence",
+                "characteristic",
+                "generating"
+            ]
+        },
+        {
+            "id": "alg_deepseek_seq_002",
+            "topic": "sequences_series",
+            "subtopic": "Telescoping",
+            "content": "Telescoping sums: Write term as difference of successive terms. ∑(aₖ-aₖ₊₁) = a₁-aₙ₊₁. Partial fractions often help create telescoping form.",
+            "example": "Sum 1/(k(k+1)) = ∑(1/k - 1/(k+1)) = 1 - 1/(n+1).",
+            "difficulty": "easy",
+            "tags": [
+                "telescoping",
+                "sums",
+                "series"
+            ]
+        },
+        {
+            "id": "alg_deepseek_comb_001",
+            "topic": "combinatorics",
+            "subtopic": "Binomial",
+            "content": "Binomial theorem: (x+y)ⁿ=∑C(n,k)xᵏyⁿ⁻ᵏ. Properties: ∑C(n,k)=2ⁿ, ∑(-1)ᵏC(n,k)=0, C(n,k)=C(n,n-k). Vandermonde identity: ∑C(m,k)C(n,r-k)=C(m+n,r).",
+            "example": "Prove ∑C(n,k)² = C(2n,n). Use Vandermonde with m=r=n.",
+            "difficulty": "medium",
+            "tags": [
+                "binomial",
+                "combinatorics",
+                "Vandermonde"
+            ]
+        },
+        {
+            "id": "alg_deepseek_comb_002",
+            "topic": "combinatorics",
+            "subtopic": "Inclusion_Exclusion",
+            "content": "For sets A₁,...,Aₙ, |∪Aᵢ| = ∑|Aᵢ| - ∑|Aᵢ∩Aⱼ| + ∑|Aᵢ∩Aⱼ∩Aₖ| - ... + (-1)ⁿ⁺¹|∩Aᵢ|. Useful for counting with restrictions.",
+            "example": "Count derangements of n elements: n!∑(-1)ᵏ/k! ≈ n!/e.",
+            "difficulty": "medium",
+            "tags": [
+                "inclusion-exclusion",
+                "counting",
+                "combinatorics"
+            ]
+        },
+        {
+            "id": "alg_deepseek_tech_001",
+            "topic": "advanced_techniques",
+            "subtopic": "Substitution",
+            "content": "Useful substitutions: x=a+b, y=ab for symmetric problems; x=tanθ for trigonometric problems; x=√(a/b) for homogenization; Set variables equal for equality cases in inequalities.",
+            "example": "For inequality in a,b,c>0, sometimes substitute x=a+b, etc., or normalize a+b+c=1.",
+            "difficulty": "hard",
+            "tags": [
+                "substitution",
+                "technique",
+                "advanced"
+            ]
+        },
+        {
+            "id": "alg_deepseek_tech_002",
+            "topic": "advanced_techniques",
+            "subtopic": "Symmetry_Equalization",
+            "content": "In symmetric inequalities, equality often when variables equal. Use methods like smoothing: replace two unequal variables by their average to increase/decrease expression. For cyclic inequalities, careful with equality cases.",
+            "example": "In symmetric inequalities, often maximum/minimum when all variables equal. Use smoothing to prove.",
+            "difficulty": "hard",
+            "tags": [
+                "symmetry",
+                "smoothing",
+                "technique"
+            ]
+        },
+        {
+            "id": "alg_deepseek_tech_003",
+            "topic": "advanced_techniques",
+            "subtopic": "Generating_Functions",
+            "content": "Generating functions: A(x)=∑aₙxⁿ. Useful for recurrences, combinatorial identities, and complex sums. Product of generating functions corresponds to convolution of sequences.",
+            "example": "Fibonacci: F₀=0,F₁=1,Fₙ=Fₙ₋₁+Fₙ₋₂. Generating function: x/(1-x-x²). Extract coefficients to get closed form.",
+            "difficulty": "hard",
+            "tags": [
+                "generating functions",
+                "advanced",
+                "technique"
+            ]
+        },
+        {
+            "id": "alg_deepseek_tech_004",
+            "topic": "advanced_techniques",
+            "subtopic": "Complex_Numbers",
+            "content": "Euler's formula: eⁱᶿ=cosθ+isinθ. De Moivre: (cosθ+isinθ)ⁿ=cos(nθ)+isin(nθ). Roots of unity: ωₖ=e^{2πik/n} satisfy 1+ω+ω²+...+ωⁿ⁻¹=0. Useful for sums and polynomials.",
+            "example": "Sum cos(kθ) for k=0 to n-1. Use geometric series with complex numbers.",
+            "difficulty": "hard",
+            "tags": [
+                "complex numbers",
+                "roots of unity",
+                "advanced"
+            ]
+        },
+        {
+            "id": "alg_deepseek_olym_001",
+            "topic": "olympiad_problems",
+            "subtopic": "Classic_Inequalities",
+            "content": "Schur's inequality: For non-negative a,b,c and real r, aʳ(a-b)(a-c)+bʳ(b-c)(b-a)+cʳ(c-a)(c-b)≥0. For r=1: a³+b³+c³+3abc ≥ ∑a²(b+c). Muirhead's inequality: For symmetric sums and majorization.",
+            "example": "Prove a³+b³+c³+3abc ≥ ∑a²(b+c) using Schur.",
+            "difficulty": "hard",
+            "tags": [
+                "Schur",
+                "Muirhead",
+                "classic"
+            ]
+        },
+        {
+            "id": "alg_deepseek_olym_002",
+            "topic": "olympiad_problems",
+            "subtopic": "Functional_Strategies",
+            "content": "For f:ℕ→ℕ or f:ℝ→ℝ, try: P(x,y) then P(y,x); find f(0), f(1); assume polynomial form; use Cauchy-type arguments; find fixed points; use injectivity/surjectivity arguments.",
+            "example": "IMO 2002: Find all f:ℝ→ℝ such that f(f(x)+y)=2x+f(f(y)-x). Solution involves finding f is bijective and linear.",
+            "difficulty": "hard",
+            "tags": [
+                "functional",
+                "IMO",
+                "advanced"
+            ]
+        },
+        {
+            "id": "ineq-amgm",
+            "title": "Arithmetic–Geometric Mean Inequality (AM–GM)",
+            "tags": [
+                "inequalities",
+                "nonnegative",
+                "bounds"
+            ],
+            "difficulty": "foundation",
+            "content_type": "theorem",
+            "statement": "For nonnegative reals x_1, …, x_n, we have (x_1 + … + x_n)/n ≥ (x_1 x_2 … x_n)^{1/n}. Equality holds iff x_1 = … = x_n.",
+            "sketch": "Proof by induction on n or by convexity of ln x (Jensen). For n=2: (x+y)/2 ≥ sqrt(xy) follows from (x−y)^2 ≥ 0.",
+            "strategy": "Normalize sums, homogenize expressions, or pair terms to extract products. Use weighted AM–GM for coefficients. Combine with substitution to obtain clean symmetric bounds.",
+            "examples": [
+                {
+                    "prompt": "Given a+b=10 and a,b ≥ 0, find max of ab.",
+                    "solution": "By AM–GM, (a+b)/2 ≥ sqrt(ab) ⇒ ab ≤ ((a+b)/2)^2 = 25. Equality at a=b=5.",
+                    "key_steps": [
+                        "Apply AM–GM to two variables",
+                        "Use equality condition"
+                    ],
+                    "answer": "25"
+                },
+                {
+                    "prompt": "Minimize x + 1/x for x>0.",
+                    "solution": "By AM–GM: x + 1/x ≥ 2 with equality at x=1.",
+                    "key_steps": [
+                        "AM–GM on x and 1/x"
+                    ],
+                    "answer": "Minimum 2 at x=1"
+                }
+            ],
+            "keywords": [
+                "AM–GM",
+                "weighted",
+                "homogenization",
+                "equality condition"
+            ],
+            "related": [
+                "ineq-cauchy",
+                "ineq-jensen",
+                "ineq-titu"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-amgm-c1",
+                    "text": "Statement: For nonnegative reals x_1, …, x_n, we have (x_1 + … + x_n)/n ≥ (x_1 x_2 … x_n)^{1/n}. Equality holds iff x_1 = … = x_n.\nSketch: Proof by induction on n or by convexity of ln x (Jensen). For n=2: (x+y)/2 ≥ sqrt(xy) follows from (x−y)^2 ≥ 0.\nStrategy: Normalize sums, homogenize expressions, or pair terms to extract products. Use weighted AM–GM for coefficients. Combine with substitution to obtain clean symmetric bounds.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ineq-cauchy",
+            "title": "Cauchy–Schwarz and Engel Form (Titu's Lemma)",
+            "tags": [
+                "inequalities",
+                "sum-of-squares"
+            ],
+            "difficulty": "foundation",
+            "content_type": "theorem",
+            "statement": "(∑ a_i b_i)^2 ≤ (∑ a_i^2)(∑ b_i^2). Engel: ∑ (x_i^2 / y_i) ≥ (∑ x_i)^2 / (∑ y_i) for y_i>0.",
+            "sketch": "Derive from nonnegativity of ∑ (a_i sqrt(y_i) − b_i / sqrt(y_i))^2 or by projection geometry. Engel follows by setting a_i = x_i/√y_i, b_i = √y_i.",
+            "strategy": "Match numerators to squares; use CS on sequences or vectors. For sum of fractions, try Titu to collapse denominators.",
+            "examples": [
+                {
+                    "prompt": "Prove ∑_{i=1}^n x_i^2/y_i ≥ (∑ x_i)^2 / (∑ y_i) for y_i>0.",
+                    "solution": "Set a_i = x_i/√y_i, b_i = √y_i and apply CS.",
+                    "key_steps": [
+                        "Identify Engel form",
+                        "Apply CS"
+                    ],
+                    "answer": "Done"
+                }
+            ],
+            "keywords": [
+                "Cauchy–Schwarz",
+                "Engel",
+                "Titu's Lemma"
+            ],
+            "related": [
+                "ineq-amgm",
+                "ineq-jensen"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-cauchy-c1",
+                    "text": "Statement: (∑ a_i b_i)^2 ≤ (∑ a_i^2)(∑ b_i^2). Engel: ∑ (x_i^2 / y_i) ≥ (∑ x_i)^2 / (∑ y_i) for y_i>0.\nSketch: Derive from nonnegativity of ∑ (a_i sqrt(y_i) − b_i / sqrt(y_i))^2 or by projection geometry. Engel follows by setting a_i = x_i/√y_i, b_i = √y_i.\nStrategy: Match numerators to squares; use CS on sequences or vectors. For sum of fractions, try Titu to collapse denominators.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ineq-jensen",
+            "title": "Jensen's Inequality",
+            "tags": [
+                "inequalities",
+                "convexity"
+            ],
+            "difficulty": "advanced",
+            "content_type": "theorem",
+            "statement": "For convex f and weights α_i ≥ 0 with ∑ α_i = 1: f(∑ α_i x_i) ≤ ∑ α_i f(x_i). Reverse for concave f.",
+            "sketch": "Uses supporting lines of convex functions or Karamata. Apply to f=ln, f=x^p, f=1/x on appropriate domains.",
+            "strategy": "Check convexity via f'' ≥ 0; normalize weights; consider symmetry and equality cases (all x_i equal).",
+            "examples": [
+                {
+                    "prompt": "Show (x+y)/2 ≥ √(xy) for x,y>0 using Jensen.",
+                    "solution": "Take f=ln (concave); ln((x+y)/2) ≥ (ln x + ln y)/2 ⇒ (x+y)/2 ≥ √(xy).",
+                    "key_steps": [
+                        "Choose f=ln",
+                        "Concavity"
+                    ],
+                    "answer": "AM–GM"
+                }
+            ],
+            "keywords": [
+                "convex",
+                "concave",
+                "weights",
+                "normalization"
+            ],
+            "related": [
+                "ineq-amgm",
+                "ineq-cauchy"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-jensen-c1",
+                    "text": "Statement: For convex f and weights α_i ≥ 0 with ∑ α_i = 1: f(∑ α_i x_i) ≤ ∑ α_i f(x_i). Reverse for concave f.\nSketch: Uses supporting lines of convex functions or Karamata. Apply to f=ln, f=x^p, f=1/x on appropriate domains.\nStrategy: Check convexity via f'' ≥ 0; normalize weights; consider symmetry and equality cases (all x_i equal).",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "poly-vieta",
+            "title": "Vieta's Formulas and Symmetric Sums",
+            "tags": [
+                "polynomials",
+                "roots",
+                "symmetric"
+            ],
+            "difficulty": "foundation",
+            "content_type": "technique",
+            "statement": "For monic P(x)=x^n+a_{n-1}x^{n-1}+…+a_0 with roots r_i, we have ∑ r_i = −a_{n-1}, ∑_{i<j} r_i r_j = a_{n-2}, …, (−1)^n a_0 = ∏ r_i.",
+            "sketch": "Compare coefficients of ∏ (x−r_i). Express symmetric expressions in terms of coefficients; use Newton sums for power sums.",
+            "strategy": "Transform root conditions into coefficient relations; apply substitutions to reduce symmetric constraints; use factor-reveal tricks.",
+            "examples": [
+                {
+                    "prompt": "If r,s are roots of x^2−5x+6=0, compute r^2+s^2.",
+                    "solution": "(r+s)^2−2rs = 25−12 = 13 by Vieta.",
+                    "key_steps": [
+                        "Compute r+s and rs",
+                        "Use identity"
+                    ],
+                    "answer": "13"
+                }
+            ],
+            "keywords": [
+                "Vieta",
+                "Newton sums",
+                "symmetric polynomials"
+            ],
+            "related": [
+                "poly-rootcount",
+                "poly-factor"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "poly-vieta-c1",
+                    "text": "Statement: For monic P(x)=x^n+a_{n-1}x^{n-1}+…+a_0 with roots r_i, we have ∑ r_i = −a_{n-1}, ∑_{i<j} r_i r_j = a_{n-2}, …, (−1)^n a_0 = ∏ r_i.\nSketch: Compare coefficients of ∏ (x−r_i). Express symmetric expressions in terms of coefficients; use Newton sums for power sums.\nStrategy: Transform root conditions into coefficient relations; apply substitutions to reduce symmetric constraints; use factor-reveal tricks.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "poly-rootcount",
+            "title": "Root Counting: Descartes' Rule, RRT, Bounds",
+            "tags": [
+                "polynomials",
+                "root-count",
+                "bounds"
+            ],
+            "difficulty": "intermediate",
+            "content_type": "technique",
+            "statement": "Descartes: #positive real roots ≤ sign changes in coefficients. RRT: Rational roots of integer polynomials are ±(factors of constant)/(factors of leading). Cauchy bound: all real roots satisfy |x| ≤ 1 + max |a_i/a_n|.",
+            "sketch": "Use sign variation, test rational candidates, bound roots to limit search. Combine with factoring and Vieta.",
+            "strategy": "First bound possible roots; try RRT; use synthetic division; analyze sign changes for positivity.",
+            "examples": [
+                {
+                    "prompt": "Find rational roots of 2x^3−3x^2−8x+12.",
+                    "solution": "Candidates ±1,±2,±3,±4,±6,±12 over ±1,±2. Test x=2 ⇒ 16−12−16+12=0 ⇒ (x−2) factor; continue division.",
+                    "key_steps": [
+                        "RRT",
+                        "Candidate testing",
+                        "Division"
+                    ],
+                    "answer": "x=2 is a rational root"
+                }
+            ],
+            "keywords": [
+                "Descartes",
+                "RRT",
+                "Cauchy bound"
+            ],
+            "related": [
+                "poly-vieta",
+                "poly-factor"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "poly-rootcount-c1",
+                    "text": "Statement: Descartes: #positive real roots ≤ sign changes in coefficients. RRT: Rational roots of integer polynomials are ±(factors of constant)/(factors of leading). Cauchy bound: all real roots satisfy |x| ≤ 1 + max |a_i/a_n|.\nSketch: Use sign variation, test rational candidates, bound roots to limit search. Combine with factoring and Vieta.\nStrategy: First bound possible roots; try RRT; use synthetic division; analyze sign changes for positivity.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "feq-standard",
+            "title": "Functional Equations: Invariants & Substitutions",
+            "tags": [
+                "functional-equations",
+                "algebra"
+            ],
+            "difficulty": "advanced",
+            "content_type": "technique",
+            "statement": "Common tools: plug special values (0,1,−1), symmetry f(x)=f(−x), injectivity/surjectivity checks, monotonicity, iteration, define g(x)=f(x)−ax, Cauchy-type f(x+y)=f(x)+f(y).",
+            "sketch": "Establish base properties (odd/even, boundedness). Use substitution to force cancellations; look for fixed points f(x)=x.",
+            "strategy": "Start with f(0), f(1); test y=x, y=−x; consider domain restrictions; if polynomial-like, try to prove linearity.",
+            "examples": [
+                {
+                    "prompt": "Find all f: R→R with f(x+y)=f(x)+f(y) and continuity at 0.",
+                    "solution": "Additivity + continuity ⇒ f(x)=cx. Continuity eliminates Hamel basis pathologies.",
+                    "key_steps": [
+                        "Plug y=0",
+                        "Continuity ⇒ linear"
+                    ],
+                    "answer": "f(x)=cx"
+                }
+            ],
+            "keywords": [
+                "additive",
+                "injective",
+                "surjective",
+                "odd/even"
+            ],
+            "related": [
+                "ineq-jensen",
+                "poly-vieta"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "feq-standard-c1",
+                    "text": "Statement: Common tools: plug special values (0,1,−1), symmetry f(x)=f(−x), injectivity/surjectivity checks, monotonicity, iteration, define g(x)=f(x)−ax, Cauchy-type f(x+y)=f(x)+f(y).\nSketch: Establish base properties (odd/even, boundedness). Use substitution to force cancellations; look for fixed points f(x)=x.\nStrategy: Start with f(0), f(1); test y=x, y=−x; consider domain restrictions; if polynomial-like, try to prove linearity.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "seq-telescope",
+            "title": "Telescoping Sums and Products",
+            "tags": [
+                "sequences",
+                "series"
+            ],
+            "difficulty": "foundation",
+            "content_type": "technique",
+            "statement": "Write terms as differences or ratios so that intermediate cancellations occur: a_{k}−a_{k+1}, or (b_{k+1}/b_k).",
+            "sketch": "Partial fraction decomposition and clever rewriting often yield telescoping behavior.",
+            "strategy": "Try to represent term T_k as F(k)−F(k+1). For rational series, use partial fractions.",
+            "examples": [
+                {
+                    "prompt": "Compute ∑_{k=1}^n 1/(k(k+1)).",
+                    "solution": "= ∑ (1/k − 1/(k+1)) = 1 − 1/(n+1).",
+                    "key_steps": [
+                        "Partial fractions",
+                        "Telescopes"
+                    ],
+                    "answer": "1 − 1/(n+1)"
+                }
+            ],
+            "keywords": [
+                "telescoping",
+                "partial fractions"
+            ],
+            "related": [
+                "ineq-cauchy"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "seq-telescope-c1",
+                    "text": "Statement: Write terms as differences or ratios so that intermediate cancellations occur: a_{k}−a_{k+1}, or (b_{k+1}/b_k).\nSketch: Partial fraction decomposition and clever rewriting often yield telescoping behavior.\nStrategy: Try to represent term T_k as F(k)−F(k+1). For rational series, use partial fractions.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "dio-tech",
+            "title": "Diophantine Techniques: Modular Arithmetic & Descent",
+            "tags": [
+                "diophantine",
+                "integer",
+                "number-theory"
+            ],
+            "difficulty": "advanced",
+            "content_type": "technique",
+            "statement": "Use congruences to rule out solutions, bound variables via inequalities, apply infinite descent or parity arguments.",
+            "sketch": "Start with small moduli (2,3,4,5,8,9,11). If form resembles Pell or Pythagorean, parametrize.",
+            "strategy": "Check parity; reduce modulo small bases; look for factorization; consider bounding via AM–GM or CS.",
+            "examples": [
+                {
+                    "prompt": "Solve in integers x^2 − y^2 = 15.",
+                    "solution": "(x−y)(x+y)=15. Factor pairs of 15 ⇒ solve linear system to get solutions.",
+                    "key_steps": [
+                        "Factorization",
+                        "Pair enumeration"
+                    ],
+                    "answer": "All pairs from (x−y, x+y) ∈ {(1,15),(3,5),(5,3),(15,1),(−1,−15),…}"
+                }
+            ],
+            "keywords": [
+                "modular",
+                "descent",
+                "parametrization"
+            ],
+            "related": [
+                "poly-factor",
+                "ineq-amgm"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "dio-tech-c1",
+                    "text": "Statement: Use congruences to rule out solutions, bound variables via inequalities, apply infinite descent or parity arguments.\nSketch: Start with small moduli (2,3,4,5,8,9,11). If form resembles Pell or Pythagorean, parametrize.\nStrategy: Check parity; reduce modulo small bases; look for factorization; consider bounding via AM–GM or CS.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sym-homog",
+            "title": "Symmetric/Homogeneous Manipulation & Homogenization",
+            "tags": [
+                "symmetric",
+                "homogeneous",
+                "technique"
+            ],
+            "difficulty": "intermediate",
+            "content_type": "technique",
+            "statement": "A homogeneous inequality has all terms of same degree. To homogenize, introduce a constraint (e.g., a+b+c=1) or multiply by suitable powers to balance degrees.",
+            "sketch": "Use substitution like a=x/y to reduce symmetry; exploit Schur or Muirhead for symmetric sums.",
+            "strategy": "Normalize variables (sum=1 or product=1); apply AM–GM or Schur post-homogenization; check equality cases to guess substitutions.",
+            "examples": [
+                {
+                    "prompt": "For a,b,c>0 with a+b+c=1, prove ∑ a^2 ≥ ∑ ab.",
+                    "solution": "Rewrite ∑ a^2 − ∑ ab = 1/2 ∑ (a−b)^2 ≥ 0.",
+                    "key_steps": [
+                        "Symmetric identity",
+                        "SOS"
+                    ],
+                    "answer": "True"
+                }
+            ],
+            "keywords": [
+                "homogenization",
+                "SOS",
+                "Schur",
+                "Muirhead"
+            ],
+            "related": [
+                "ineq-amgm",
+                "ineq-cauchy"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "sym-homog-c1",
+                    "text": "Statement: A homogeneous inequality has all terms of same degree. To homogenize, introduce a constraint (e.g., a+b+c=1) or multiply by suitable powers to balance degrees.\nSketch: Use substitution like a=x/y to reduce symmetry; exploit Schur or Muirhead for symmetric sums.\nStrategy: Normalize variables (sum=1 or product=1); apply AM–GM or Schur post-homogenization; check equality cases to guess substitutions.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ineq-schur-muirhead",
+            "title": "Schur's Inequality and Muirhead",
+            "tags": [
+                "inequalities",
+                "symmetric"
+            ],
+            "difficulty": "advanced",
+            "content_type": "theorem",
+            "statement": "Schur (3rd degree): for a,b,c≥0 and r≥0, ∑ a^r(a−b)(a−c) ≥ 0. Muirhead: for symmetric sums of same total degree, majorization implies inequality under a,b,c≥0.",
+            "sketch": "Schur proved via rearrangement or SOS. Muirhead relies on convexity/majorization and follows from Karamata.",
+            "strategy": "Use Schur to handle a^3 terms with ∑ ab(a+b). For symmetric power sums, check majorization vectors and apply Muirhead.",
+            "examples": [
+                {
+                    "prompt": "Prove a^3+b^3+c^3 + 3abc ≥ ∑_{sym} a^2 b for a,b,c≥0.",
+                    "solution": "This is Schur's inequality of degree 1 (or 3rd degree in common form).",
+                    "key_steps": [
+                        "Identify Schur form",
+                        "Apply SOS"
+                    ],
+                    "answer": "True"
+                }
+            ],
+            "keywords": [
+                "Schur",
+                "Muirhead",
+                "majorization",
+                "Karamata"
+            ],
+            "related": [
+                "sym-homog",
+                "ineq-jensen"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-schur-muirhead-c1",
+                    "text": "Statement: Schur (3rd degree): for a,b,c≥0 and r≥0, ∑ a^r(a−b)(a−c) ≥ 0. Muirhead: for symmetric sums of same total degree, majorization implies inequality under a,b,c≥0.\nSketch: Schur proved via rearrangement or SOS. Muirhead relies on convexity/majorization and follows from Karamata.\nStrategy: Use Schur to handle a^3 terms with ∑ ab(a+b). For symmetric power sums, check majorization vectors and apply Muirhead.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "checklist-ineq",
+            "title": "Inequality Problem-Solving Checklist",
+            "tags": [
+                "checklist",
+                "inequalities"
+            ],
+            "difficulty": "foundation",
+            "content_type": "checklist",
+            "statement": "A quick decision tree for algebra inequalities.",
+            "sketch": "1) Identify symmetry/degree; 2) Normalize or homogenize; 3) Try AM–GM/CS/Jensen; 4) SOS or weighted AM–GM; 5) Consider substitution (x=y=z or boundary); 6) Check equality cases.",
+            "strategy": "Prefer simplest inequality first; ensure domain conditions (positivity).",
+            "examples": [],
+            "keywords": [
+                "decision tree",
+                "normalization",
+                "equality case"
+            ],
+            "related": [
+                "ineq-amgm",
+                "ineq-cauchy",
+                "sym-homog"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "checklist-ineq-c1",
+                    "text": "Statement: A quick decision tree for algebra inequalities.\nSketch: 1) Identify symmetry/degree; 2) Normalize or homogenize; 3) Try AM–GM/CS/Jensen; 4) SOS or weighted AM–GM; 5) Consider substitution (x=y=z or boundary); 6) Check equality cases.\nStrategy: Prefer simplest inequality first; ensure domain conditions (positivity).",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "poly-factor",
+            "title": "Factorization Tricks & Identities",
+            "tags": [
+                "polynomials",
+                "algebraic-identities"
+            ],
+            "difficulty": "foundation",
+            "content_type": "technique",
+            "statement": "Common identities: a^2−b^2=(a−b)(a+b); a^3+b^3=(a+b)(a^2−ab+b^2); a^3−b^3=(a−b)(a^2+ab+b^2); Sophie Germain: a^4+4b^4=(a^2−2ab+2b^2)(a^2+2ab+2b^2).",
+            "sketch": "Look for pattern matching to reveal factors; complete the square/cube; introduce and subtract terms to fit identities.",
+            "strategy": "When asked to solve integer equations or simplify, attempt classic identities; for quartics, try SG and sum of squares.",
+            "examples": [
+                {
+                    "prompt": "Prove that x^4 + 4y^4 has nontrivial factorization over Z.",
+                    "solution": "Use Sophie Germain identity: x^4+4y^4=(x^2−2xy+2y^2)(x^2+2xy+2y^2).",
+                    "key_steps": [
+                        "Recognize SG pattern"
+                    ],
+                    "answer": "Factorization given"
+                }
+            ],
+            "keywords": [
+                "Sophie Germain",
+                "sum/difference of squares",
+                "completing square"
+            ],
+            "related": [
+                "dio-tech",
+                "poly-rootcount"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "poly-factor-c1",
+                    "text": "Statement: Common identities: a^2−b^2=(a−b)(a+b); a^3+b^3=(a+b)(a^2−ab+b^2); a^3−b^3=(a−b)(a^2+ab+b^2); Sophie Germain: a^4+4b^4=(a^2−2ab+2b^2)(a^2+2ab+2b^2).\nSketch: Look for pattern matching to reveal factors; complete the square/cube; introduce and subtract terms to fit identities.\nStrategy: When asked to solve integer equations or simplify, attempt classic identities; for quartics, try SG and sum of squares.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "complex-tech",
+            "title": "Complex Number Techniques in Algebra",
+            "tags": [
+                "complex",
+                "algebra"
+            ],
+            "difficulty": "intermediate",
+            "content_type": "technique",
+            "statement": "Use polar form z=re^{iθ}, triangle inequality, De Moivre for roots of unity, and exploit |z| multiplicativity |zw|=|z||w|.",
+            "sketch": "Roots of unity simplify symmetric sums; consider argument/ modulus to bound expressions.",
+            "strategy": "Convert products/sums into geometric interpretations; align with CS inequality on ℝ^2 by |∑ z_k| ≤ ∑ |z_k|.",
+            "examples": [
+                {
+                    "prompt": "Compute ∑_{k=0}^{n−1} ω^{k} for primitive n-th root ω.",
+                    "solution": "Geometric series: (1−ω^n)/(1−ω)=0.",
+                    "key_steps": [
+                        "Use ω^n=1, ω≠1"
+                    ],
+                    "answer": "0"
+                }
+            ],
+            "keywords": [
+                "roots of unity",
+                "triangle inequality",
+                "De Moivre"
+            ],
+            "related": [
+                "seq-telescope",
+                "poly-vieta"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "complex-tech-c1",
+                    "text": "Statement: Use polar form z=re^{iθ}, triangle inequality, De Moivre for roots of unity, and exploit |z| multiplicativity |zw|=|z||w|.\nSketch: Roots of unity simplify symmetric sums; consider argument/ modulus to bound expressions.\nStrategy: Convert products/sums into geometric interpretations; align with CS inequality on ℝ^2 by |∑ z_k| ≤ ∑ |z_k|.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ineq-rearrangement",
+            "title": "Rearrangement Inequality",
+            "tags": [
+                "inequalities",
+                "rearrangement"
+            ],
+            "difficulty": "advanced",
+            "content_type": "theorem",
+            "statement": "For sorted sequences a_1≤…≤a_n and b_1≤…≤b_n, the sum ∑ a_i b_{π(i)} is maximized when π is identity and minimized when π reverses.",
+            "sketch": "Pairwise swaps increase sum; equivalently follows from Chebyshev or Karamata in some settings.",
+            "strategy": "Sort variables; match largest with largest to bound maxima; use reverse pairing to bound minima.",
+            "examples": [
+                {
+                    "prompt": "Show (a+b)(c+d) ≤ ac+bd+ad+bc when a≤b and c≤d.",
+                    "solution": "Max occurs at aligned pairing ac+bd; any other pairing no larger by rearrangement.",
+                    "key_steps": [
+                        "Sort",
+                        "Align"
+                    ],
+                    "answer": "Bound established"
+                }
+            ],
+            "keywords": [
+                "rearrangement",
+                "Chebyshev"
+            ],
+            "related": [
+                "ineq-jensen",
+                "ineq-cauchy"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-rearrangement-c1",
+                    "text": "Statement: For sorted sequences a_1≤…≤a_n and b_1≤…≤b_n, the sum ∑ a_i b_{π(i)} is maximized when π is identity and minimized when π reverses.\nSketch: Pairwise swaps increase sum; equivalently follows from Chebyshev or Karamata in some settings.\nStrategy: Sort variables; match largest with largest to bound maxima; use reverse pairing to bound minima.",
+                    "tags": [
+                        "theorem"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "templates-common",
+            "title": "Problem Templates for RAG Prompting",
+            "tags": [
+                "templates",
+                "prompt-engineering"
+            ],
+            "difficulty": "foundation",
+            "content_type": "template",
+            "statement": "Reusable templates to frame solutions: inequality, polynomial root, functional equation, sequence, Diophantine.",
+            "sketch": "Each template lists inputs and outputs to guide structured reasoning.",
+            "strategy": "Use these templates as retrieval targets in RAG to scaffold solution steps.",
+            "examples": [
+                {
+                    "prompt": "Inequality Template",
+                    "solution": "Inputs: variables domain (≥0?), constraints (sum=1?), expression. Steps: normalize/homogenize; try AM–GM/CS/Jensen; test equality; optionally SOS or rearrangement. Output: bound and equality conditions.",
+                    "key_steps": [
+                        "Domain",
+                        "Normalize",
+                        "Apply canonical inequality",
+                        "Check equality"
+                    ],
+                    "answer": "Structured plan"
+                },
+                {
+                    "prompt": "Polynomial Root Template",
+                    "solution": "Inputs: polynomial with integer coefficients. Steps: apply RRT and bounds; factor; use Vieta; analyze multiplicity; output roots and relationships.",
+                    "key_steps": [
+                        "RRT",
+                        "Bounds",
+                        "Vieta"
+                    ],
+                    "answer": "Plan"
+                }
+            ],
+            "keywords": [
+                "template",
+                "workflow",
+                "scaffold"
+            ],
+            "related": [
+                "checklist-ineq",
+                "poly-rootcount"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "templates-common-c1",
+                    "text": "Statement: Reusable templates to frame solutions: inequality, polynomial root, functional equation, sequence, Diophantine.\nSketch: Each template lists inputs and outputs to guide structured reasoning.\nStrategy: Use these templates as retrieval targets in RAG to scaffold solution steps.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ineq-sos",
+            "title": "Sum of Squares (SOS) Decompositions",
+            "tags": [
+                "inequalities",
+                "SOS"
+            ],
+            "difficulty": "advanced",
+            "content_type": "technique",
+            "statement": "Rewrite target as ∑ c_i(Linear_i)^2 or ∑ c_{ij}(a−b)^2 with nonnegative coefficients c_i to prove ≥0.",
+            "sketch": "For symmetric expressions in a,b,c with constraints like a+b+c=1, use identities: ∑ a^2−∑ ab = 1/2 ∑ (a−b)^2.",
+            "strategy": "Search for square completions; consider cyclic sums; leverage homogenization.",
+            "examples": [
+                {
+                    "prompt": "Prove ∑ a^2 ≥ ∑ ab for real a,b,c.",
+                    "solution": "Equality of 1/2 ∑ (a−b)^2 ≥ 0 yields result.",
+                    "key_steps": [
+                        "Identity",
+                        "Nonnegativity of squares"
+                    ],
+                    "answer": "True"
+                }
+            ],
+            "keywords": [
+                "square completion",
+                "cyclic sums"
+            ],
+            "related": [
+                "sym-homog",
+                "ineq-schur-muirhead"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-sos-c1",
+                    "text": "Statement: Rewrite target as ∑ c_i(Linear_i)^2 or ∑ c_{ij}(a−b)^2 with nonnegative coefficients c_i to prove ≥0.\nSketch: For symmetric expressions in a,b,c with constraints like a+b+c=1, use identities: ∑ a^2−∑ ab = 1/2 ∑ (a−b)^2.\nStrategy: Search for square completions; consider cyclic sums; leverage homogenization.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "checklist-jensen",
+            "title": "Convexity/Jensen Checklist",
+            "tags": [
+                "checklist",
+                "convexity"
+            ],
+            "difficulty": "intermediate",
+            "content_type": "checklist",
+            "statement": "How to deploy Jensen: verify domain, convexity via second derivative, normalize weights, identify equality cases, consider Karamata.",
+            "sketch": "Use suitable convex/concave f (ln, x^p, 1/x).",
+            "strategy": "Prefer concave ln to recover AM–GM; use 1/x convex on x>0 for harmonic mean bounds.",
+            "examples": [],
+            "keywords": [
+                "second derivative",
+                "weights",
+                "Karamata"
+            ],
+            "related": [
+                "ineq-jensen",
+                "ineq-amgm"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "checklist-jensen-c1",
+                    "text": "Statement: How to deploy Jensen: verify domain, convexity via second derivative, normalize weights, identify equality cases, consider Karamata.\nSketch: Use suitable convex/concave f (ln, x^p, 1/x).\nStrategy: Prefer concave ln to recover AM–GM; use 1/x convex on x>0 for harmonic mean bounds.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ineq-weighted-amgm",
+            "title": "Weighted AM–GM",
+            "tags": [
+                "inequalities",
+                "weights"
+            ],
+            "difficulty": "intermediate",
+            "content_type": "theorem",
+            "statement": "For nonnegative x_i and weights w_i≥0 with ∑ w_i = 1: ∑ w_i x_i ≥ ∏ x_i^{w_i}.",
+            "sketch": "Follows from Jensen with ln or by grouping equal variables in AM–GM.",
+            "strategy": "Match coefficients by choosing weights proportional to exponents; homogenize first.",
+            "examples": [
+                {
+                    "prompt": "Given a+2b=3 with a,b≥0, bound a^1 b^2.",
+                    "solution": "Set weights (1/3,2/3): a/3 + 2b/3 ≥ (a^1 b^2)^{1/3} ⇒ a b^2 ≤ 1.",
+                    "key_steps": [
+                        "Choose weights",
+                        "Apply inequality"
+                    ],
+                    "answer": "ab^2 ≤ 1"
+                }
+            ],
+            "keywords": [
+                "weights",
+                "homogenization"
+            ],
+            "related": [
+                "ineq-amgm",
+                "sym-homog"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-weighted-amgm-c1",
+                    "text": "Statement: For nonnegative x_i and weights w_i≥0 with ∑ w_i = 1: ∑ w_i x_i ≥ ∏ x_i^{w_i}.\nSketch: Follows from Jensen with ln or by grouping equal variables in AM–GM.\nStrategy: Match coefficients by choosing weights proportional to exponents; homogenize first.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "ineq-pqr-outline",
+            "title": "p–q–r Method (Outline)",
+            "tags": [
+                "inequalities",
+                "symmetric",
+                "pqr"
+            ],
+            "difficulty": "advanced",
+            "content_type": "technique",
+            "statement": "For symmetric inequalities in a,b,c, introduce p=a+b+c, q=ab+bc+ca, r=abc. Reduce inequality to polynomial in p,q,r and analyze extremal cases (e.g., two variables equal).",
+            "sketch": "Use Schur to substitute expressions with p,q,r; reduce dimension by setting b=c to check necessary conditions.",
+            "strategy": "Apply when expression symmetric and degree manageable; test equality at a=b=c or a=b, c→0.",
+            "examples": [],
+            "keywords": [
+                "symmetric reduction",
+                "extremal principle"
+            ],
+            "related": [
+                "ineq-schur-muirhead",
+                "sym-homog"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "ineq-pqr-outline-c1",
+                    "text": "Statement: For symmetric inequalities in a,b,c, introduce p=a+b+c, q=ab+bc+ca, r=abc. Reduce inequality to polynomial in p,q,r and analyze extremal cases (e.g., two variables equal).\nSketch: Use Schur to substitute expressions with p,q,r; reduce dimension by setting b=c to check necessary conditions.\nStrategy: Apply when expression symmetric and degree manageable; test equality at a=b=c or a=b, c→0.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "meta-extremal",
+            "title": "Extremal Principle in Algebra Problems",
+            "tags": [
+                "meta",
+                "extremal"
+            ],
+            "difficulty": "intermediate",
+            "content_type": "technique",
+            "statement": "Assume configuration achieving max/min and derive structure (e.g., variables equal or one at boundary).",
+            "sketch": "Combine with convexity or rearrangement; use smoothing (equalization) arguments.",
+            "strategy": "Check whether equalizing variables increases/decreases the objective; reduces to fewer degrees of freedom.",
+            "examples": [
+                {
+                    "prompt": "Maximize ab given a+b fixed.",
+                    "solution": "Extremal at a=b via AM–GM; equalization maximizes product.",
+                    "key_steps": [
+                        "Equalization",
+                        "AM–GM"
+                    ],
+                    "answer": "At a=b"
+                }
+            ],
+            "keywords": [
+                "equalization",
+                "smoothing"
+            ],
+            "related": [
+                "ineq-amgm",
+                "checklist-ineq"
+            ],
+            "chunks": [
+                {
+                    "chunk_id": "meta-extremal-c1",
+                    "text": "Statement: Assume configuration achieving max/min and derive structure (e.g., variables equal or one at boundary).\nSketch: Combine with convexity or rearrangement; use smoothing (equalization) arguments.\nStrategy: Check whether equalizing variables increases/decreases the objective; reduces to fewer degrees of freedom.",
+                    "tags": [
+                        "general"
+                    ]
+                }
+            ]
+        }
+    ],
+    "problem_patterns": [
+        {
+            "pattern": "symmetric_inequality",
+            "description": "Inequality symmetric in variables",
+            "approach": "Try AM-GM, Cauchy-Schwarz, Schur; check equality when variables equal; use normalization or substitution",
+            "techniques": [
+                "AM-GM",
+                "Cauchy-Schwarz",
+                "Schur",
+                "normalization"
+            ]
+        },
+        {
+            "pattern": "cyclic_inequality",
+            "description": "Inequality cyclic in variables",
+            "approach": "More careful with equality cases; may need different techniques than symmetric case",
+            "techniques": [
+                "AM-GM",
+                "Titu",
+                "summation",
+                "cyclic_substitution"
+            ]
+        },
+        {
+            "pattern": "polynomial_roots",
+            "description": "Problem involving polynomial roots",
+            "approach": "Use Vieta's formulas; consider symmetric polynomials; use transformation of roots",
+            "techniques": [
+                "Vieta",
+                "symmetric_polynomials",
+                "root_transformation"
+            ]
+        },
+        {
+            "pattern": "functional_equation",
+            "description": "Equation involving unknown function",
+            "approach": "Plug special values; find f(0), f(1); assume injectivity/surjectivity; try polynomial solutions",
+            "techniques": [
+                "special_values",
+                "injectivity",
+                "polynomial_ansatz"
+            ]
+        },
+        {
+            "pattern": "sequence_recurrence",
+            "description": "Sequence defined by recurrence",
+            "approach": "Find closed form using characteristic equation; use generating functions; look for pattern",
+            "techniques": [
+                "characteristic_equation",
+                "generating_functions",
+                "pattern_recognition"
+            ]
+        }
+    ]
+}

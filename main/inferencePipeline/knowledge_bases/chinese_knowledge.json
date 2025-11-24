@@ -1,0 +1,158 @@
+{
+  "chinese_knowledge": {
+    "documents": [
+      {
+        "title": "Introduction to Pinyin and Tones",
+        "content": "Pinyin is the Romanization system for Standard Chinese. It uses the Latin alphabet to represent the sounds of Mandarin. The most critical aspect is the 'tones'. There are four main tones and one neutral tone: 1st Tone (high and level, e.g., mā 妈 - mother), 2nd Tone (rising, e.g., má 麻 - hemp), 3rd Tone (falling-rising, e.g., mǎ 马 - horse), and 4th Tone (falling, e.g., mà 骂 - scold). The same syllable with different tones has completely different meanings.",
+        "topic": "Language Fundamentals",
+        "keywords": [
+          "pinyin",
+          "pronunciation",
+          "tones"
+        ]
+      },
+      {
+        "title": "What are Chinese Characters (Hanzi)?",
+        "content": "Chinese characters are logograms, where each character represents a syllable and a meaning, not just a sound. They are the oldest continuously used system of writing in the world. Characters are built from components, the most basic of which are 'radicals' (部首 bùshǒu), which often give a clue to the character's meaning. Learning characters involves recognizing the structure (e.g., left-right, top-bottom) and practicing stroke order.",
+        "topic": "Language Fundamentals",
+        "keywords": [
+          "characters",
+          "hanzi",
+          "writing"
+        ]
+      },
+      {
+        "title": "Basic Chinese Grammar Structure",
+        "content": "A fundamental Chinese sentence structure is Subject + Verb + Object (SVO), similar to English. For example, 'I eat an apple' is '我 (Wǒ) 吃 (chī) 苹果 (píngguǒ)'. Key features include: 1) No verb conjugations (tense is shown with context words like 了 le for past), 2) No grammatical gender or plural forms for nouns, 3) The use of 'measure words' (量词 liàngcí) between a number and a noun (e.g., 一个人 yí gè rén - one person, where 个 gè is the measure word).",
+        "topic": "Language Fundamentals",
+        "keywords": [
+          "grammar",
+          "sentence structure",
+          "basic"
+        ]
+      },
+      {
+        "title": "The Concept of 'Face' (面子 Miànzi)",
+        "content": "'Face' represents a person's reputation, prestige, and honor within social networks. It is a cornerstone of social interaction. 'Giving face' (给面子 gěi miànzi) means showing respect or honoring someone. 'Losing face' (丢脸 diūliǎn) is a source of great shame and embarrassment, often caused by public criticism or insult. It's crucial to avoid causing others to lose face.",
+        "topic": "Core Cultural Concepts",
+        "keywords": [
+          "face",
+          "mianzi",
+          "social"
+        ]
+      },
+      {
+        "title": "Family and Filial Piety (孝 Xiào)",
+        "content": "The family is the central unit of Chinese society. 'Filial Piety' is a Confucian virtue emphasizing respect for one's parents, elders, and ancestors. It involves taking care of parents in their old age, obeying them, and carrying on the family lineage. This concept is deeply ingrained and influences family dynamics, social expectations, and even laws.",
+        "topic": "Core Cultural Concepts",
+        "keywords": [
+          "family",
+          "filial piety",
+          "xiaoshun"
+        ]
+      },
+      {
+        "title": "The Importance of Relationships (关系 Guānxi)",
+        "content": "Guānxi refers to the network of relationships and social connections a person cultivates. Strong guanxi implies deep trust and mutual obligation. It is often more important than formal rules in business and social life. Maintaining guanxi involves frequent contact, exchange of favors, and gift-giving. It's the social 'currency' that can open doors and facilitate deals.",
+        "topic": "Core Cultural Concepts",
+        "keywords": [
+          "guanxi",
+          "relationships",
+          "network"
+        ]
+      },
+      {
+        "title": "Collectivism and Social Harmony (和谐 Héxié)",
+        "content": "Chinese culture is largely collectivist, valuing group goals over individual desires. Maintaining social harmony (和谐 Héxié) is paramount. This can mean avoiding direct confrontation, open criticism, or causing public embarrassment to preserve group cohesion. The group (family, company, country) often takes precedence over the individual self.",
+        "topic": "Core Cultural Concepts",
+        "keywords": [
+          "harmony",
+          "collectivism",
+          "group"
+        ]
+      },
+      {
+        "title": "Greetings and Introductions",
+        "content": "A common verbal greeting is '你好 (Nǐ hǎo)' - Hello. For elders or superiors, use the more formal '您好 (Nín hǎo)'. Handshakes are common in business. Physical contact like hugging is generally not used for initial greetings. When being introduced, a slight nod is polite. It's common to address people by their title and surname (e.g., Manager Wang - 王经理 Wáng jīnglǐ).",
+        "topic": "Social Etiquette & Customs",
+        "keywords": [
+          "greeting",
+          "hello",
+          "nin hao"
+        ]
+      },
+      {
+        "title": "Gift-Giving Etiquette",
+        "content": "Gifts are important for building guanxi. Always present and receive a gift with both hands. Gifts are often refused two or three times out of politeness before being accepted. Avoid giving clocks, umbrellas, or white flowers, as they are associated with funerals and death. Money in a red envelope (红包 hóngbāo) is a common gift for weddings and holidays. Do not open a gift immediately in front of the giver.",
+        "topic": "Social Etiquette & Customs",
+        "keywords": [
+          "gift",
+          "giving",
+          "presents"
+        ]
+      },
+      {
+        "title": "Dining Etiquette and Food Culture",
+        "content": "Food is central to Chinese social life. The host typically orders and pays for the meal. Dishes are shared communally. When using chopsticks: never stick them upright in a bowl of rice (resembles funeral rites), don't point with them, and don't spear food. It's polite to try a bit of everything. Tapping your bowl is considered rude. Leaving a small amount of food on your plate indicates the host was generous.",
+        "topic": "Social Etiquette & Customs",
+        "keywords": [
+          "dining",
+          "meal",
+          "food",
+          "chopsticks"
+        ]
+      },
+      {
+        "title": "Chinese New Year (春节 Chūnjié)",
+        "content": "Also known as the Spring Festival, this is the most important holiday. It's a family reunion time. Traditions include: a massive family dinner on New Year's Eve, giving red envelopes (红包 hóngbāo) with money to children, setting off firecrackers, decorating with red paper-cuts and couplets, and watching the CCTV New Year's Gala. It ends with the Lantern Festival 15 days later.",
+        "topic": "Festivals & Traditions",
+        "keywords": [
+          "spring festival",
+          "chinese new year",
+          "guonian"
+        ]
+      },
+      {
+        "title": "Mid-Autumn Festival (中秋节 Zhōngqiū Jié)",
+        "content": "Held on the 15th day of the 8th lunar month, this festival celebrates the harvest and family reunion. The core activity is admiring the full moon, which symbolizes completeness. The traditional food is the mooncake (月饼 yuèbǐng), a rich pastry filled with sweet bean paste or lotus seed paste, often with salted egg yolks in the center to represent the moon.",
+        "topic": "Festivals & Traditions",
+        "keywords": [
+          "mid-autumn",
+          "moon festival",
+          "mooncake"
+        ]
+      },
+      {
+        "title": "The Role of WeChat (微信 Wēixìn)",
+        "content": "WeChat is a 'super-app' essential for daily life in China. It's not just a messaging app; it's used for social media (Moments), mobile payments (WeChat Pay), hailing taxis, ordering food, booking appointments, and official business. You will need it to connect with locals and navigate modern Chinese society. Having a Chinese bank account is often required to unlock its full payment functionality.",
+        "topic": "Practical Information for Newcomers",
+        "keywords": [
+          "wechat",
+          "app",
+          "social media",
+          "payment"
+        ]
+      },
+      {
+        "title": "Bargaining in Markets",
+        "content": "Bargaining is expected in street markets, tourist shops, and sometimes smaller stores. It is not common in supermarkets, malls, or restaurants. Start by offering 1/3 to 1/2 of the initial asking price. Be polite, smile, and be prepared to walk away. The process is a social interaction, not a confrontation.",
+        "topic": "Practical Information for Newcomers",
+        "keywords": [
+          "bargaining",
+          "shopping",
+          "price"
+        ]
+      },
+      {
+        "title": "Personal Space and Queuing",
+        "content": "The concept of personal space is different in densely populated Chinese cities. 'Queue jumping' or crowded lines can be common in public places. Don't take it personally; it's often a result of intense competition for resources. A firm but polite stance is best. In more formal or modern settings, orderly queuing is becoming more standard.",
+        "topic": "Practical Information for Newcomers",
+        "keywords": [
+          "personal space",
+          "queue",
+          "line"
+        ]
+      }
+    ]
+  }
+}

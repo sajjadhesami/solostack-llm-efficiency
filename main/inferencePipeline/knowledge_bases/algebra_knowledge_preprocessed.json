@@ -1,0 +1,750 @@
+{
+  "documents": [
+    {
+      "chunk_id": "ineq_amgm_001",
+      "title": "Arithmetic Mean - Geometric Mean Inequality (AM-GM)",
+      "text": "The AM-GM inequality states that for non-negative real numbers, the arithmetic mean is always greater than or equal to the geometric mean. For n numbers, (x₁ + x₂ + ... + xₙ)/n ≥ (x₁x₂...xₙ)^(1/n). Equality holds when all numbers are equal. This is fundamental for proving many inequalities and optimization problems.",
+      "tags": [
+        "inequality",
+        "AM-GM",
+        "basic",
+        "optimization",
+        "mean"
+      ],
+      "doc_meta": {
+        "id": "ineq_amgm_001",
+        "topic": "inequalities",
+        "subtopic": "AM-GM",
+        "difficulty": "foundation",
+        "content_type": "theorem",
+        "statement": "For non-negative real numbers x₁, x₂, ..., xₙ: (x₁ + x₂ + ... + xₙ)/n ≥ (x₁x₂...xₙ)^(1/n). Equality holds iff x₁ = x₂ = ... = xₙ.",
+        "proof_sketch": "Proof by induction or using convexity of ln(x). For n=2: (x+y)/2 ≥ √(xy) follows from (√x - √y)² ≥ 0.",
+        "strategy": "Use when product appears in inequality. Normalize sums or use weighted version for coefficients.",
+        "examples": [
+          {
+            "prompt": "For a,b,c > 0, prove (a+b)(b+c)(c+a) ≥ 8abc",
+            "solution": "By AM-GM: a+b ≥ 2√(ab), b+c ≥ 2√(bc), c+a ≥ 2√(ca). Multiply all inequalities.",
+            "key_steps": [
+              "Apply AM-GM to each pair",
+              "Multiply results"
+            ],
+            "answer": "Inequality proved"
+          }
+        ],
+        "keywords": [
+          "mean",
+          "non-negative",
+          "equality condition"
+        ],
+        "related": [
+          "ineq_weighted_amgm_001",
+          "ineq_cauchy_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "ineq_cauchy_001",
+      "title": "Cauchy-Schwarz Inequality",
+      "text": "The Cauchy-Schwarz inequality bounds the dot product of two vectors. In elementary form: (∑aᵢbᵢ)² ≤ (∑aᵢ²)(∑bᵢ²). Engel form (Titu's Lemma): ∑(aᵢ²/bᵢ) ≥ (∑aᵢ)²/∑bᵢ for positive bᵢ.",
+      "tags": [
+        "inequality",
+        "Cauchy-Schwarz",
+        "Titu",
+        "vector"
+      ],
+      "doc_meta": {
+        "id": "ineq_cauchy_001",
+        "topic": "inequalities",
+        "subtopic": "Cauchy-Schwarz",
+        "difficulty": "intermediate",
+        "content_type": "theorem",
+        "statement": "(∑aᵢbᵢ)² ≤ (∑aᵢ²)(∑bᵢ²). Equality when sequences are proportional.",
+        "proof_sketch": "Consider discriminant of quadratic ∑(aᵢx + bᵢ)² ≥ 0, or use vector projection.",
+        "strategy": "Use when sums of squares appear. Engel form useful for fraction sums.",
+        "examples": [
+          {
+            "prompt": "Prove: ∑(a²/(b+c)) ≥ (a+b+c)/2 for positive a,b,c",
+            "solution": "By Engel form: ∑(a²/(b+c)) ≥ (∑a)²/∑(b+c) = (a+b+c)²/(2(a+b+c))",
+            "key_steps": [
+              "Apply Engel form",
+              "Simplify denominator"
+            ],
+            "answer": "(a+b+c)/2"
+          }
+        ],
+        "keywords": [
+          "dot product",
+          "Engel",
+          "Titu"
+        ],
+        "related": [
+          "ineq_amgm_001",
+          "ineq_holder_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_determinant_001",
+      "title": "Matrix Determinants and Properties",
+      "text": "The determinant is a scalar value that can be computed from a square matrix. It provides important information about the matrix, including invertibility and volume scaling factor.",
+      "tags": [
+        "linear_algebra",
+        "determinant",
+        "matrix",
+        "invertibility"
+      ],
+      "doc_meta": {
+        "id": "linalg_determinant_001",
+        "topic": "linear_algebra",
+        "subtopic": "determinants",
+        "difficulty": "intermediate",
+        "content_type": "concept",
+        "statement": "For 2×2: det([[a,b],[c,d]]) = ad - bc. For 3×3: use Sarrus rule or cofactor expansion.",
+        "proof_sketch": "Defined by permutation formula or recursively via cofactor expansion.",
+        "strategy": "Use for checking invertibility (det ≠ 0), solving systems (Cramer's rule), finding eigenvalues.",
+        "examples": [
+          {
+            "prompt": "Find det([[1,2,3],[0,1,4],[5,6,0]])",
+            "solution": "Cofactor expansion: 1·det([[1,4],[6,0]]) - 2·det([[0,4],[5,0]]) + 3·det([[0,1],[5,6]]) = 1·(-24) - 2·(-20) + 3·(-5) = 1",
+            "key_steps": [
+              "Choose row/column",
+              "Cofactor expansion",
+              "Compute 2×2 determinants"
+            ],
+            "answer": "1"
+          }
+        ],
+        "keywords": [
+          "invertible",
+          "cofactor",
+          "Sarrus"
+        ],
+        "related": [
+          "linalg_inverse_001",
+          "linalg_eigen_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_eigen_001",
+      "title": "Eigenvalues and Eigenvectors",
+      "text": "Eigenvalues and eigenvectors characterize linear transformations. An eigenvector only gets scaled when the transformation is applied, not rotated.",
+      "tags": [
+        "linear_algebra",
+        "eigenvalues",
+        "eigenvectors",
+        "diagonalization"
+      ],
+      "doc_meta": {
+        "id": "linalg_eigen_001",
+        "topic": "linear_algebra",
+        "subtopic": "eigen_theory",
+        "difficulty": "intermediate",
+        "content_type": "concept",
+        "statement": "For square matrix A, λ is eigenvalue and v is eigenvector if Av = λv with v ≠ 0.",
+        "proof_sketch": "Solve characteristic equation det(A - λI) = 0 for λ, then solve (A - λI)v = 0 for v.",
+        "strategy": "1) Find characteristic polynomial 2) Solve for eigenvalues 3) For each λ, find null space of (A - λI)",
+        "examples": [
+          {
+            "prompt": "Find eigenvalues/eigenvectors of [[2,1],[1,2]]",
+            "solution": "Characteristic: (2-λ)² - 1 = 0 ⇒ λ² - 4λ + 3 = 0 ⇒ λ = 1,3. For λ=1: [[1,1],[1,1]]v=0 ⇒ v=[1,-1]ᵀ. For λ=3: [[-1,1],[1,-1]]v=0 ⇒ v=[1,1]ᵀ",
+            "key_steps": [
+              "Characteristic polynomial",
+              "Solve for λ",
+              "Find null spaces"
+            ],
+            "answer": "λ=1: [1,-1]ᵀ; λ=3: [1,1]ᵀ"
+          }
+        ],
+        "keywords": [
+          "characteristic polynomial",
+          "null space",
+          "diagonalization"
+        ],
+        "related": [
+          "linalg_determinant_001",
+          "linalg_diagonalization_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_gaussian_001",
+      "title": "Gaussian Elimination and Row Reduction",
+      "text": "Gaussian elimination systematically transforms a matrix to row-echelon form using elementary row operations to solve linear systems.",
+      "tags": [
+        "linear_algebra",
+        "gaussian",
+        "row_reduction",
+        "linear_system"
+      ],
+      "doc_meta": {
+        "id": "linalg_gaussian_001",
+        "topic": "linear_algebra",
+        "subtopic": "linear_systems",
+        "difficulty": "foundation",
+        "content_type": "technique",
+        "statement": "Three elementary row operations: 1) Swap rows 2) Multiply row by non-zero scalar 3) Add multiple of one row to another",
+        "proof_sketch": "Each operation preserves solution set of linear system.",
+        "strategy": "1) Get leading 1 in first row 2) Eliminate below 3) Repeat for subsequent rows 4) Back substitute",
+        "examples": [
+          {
+            "prompt": "Solve using Gaussian elimination: 3x + 2y = 8, x - y = 1",
+            "solution": "Augmented matrix: [[3,2,8],[1,-1,1]]. R1↔R2: [[1,-1,1],[3,2,8]]. R2→R2-3R1: [[1,-1,1],[0,5,5]]. R2→R2/5: [[1,-1,1],[0,1,1]]. R1→R1+R2: [[1,0,2],[0,1,1]]",
+            "key_steps": [
+              "Form augmented matrix",
+              "Row operations to REF",
+              "Back substitution"
+            ],
+            "answer": "x=2, y=1"
+          }
+        ],
+        "keywords": [
+          "row echelon",
+          "pivot",
+          "augmented matrix"
+        ],
+        "related": [
+          "linalg_matrix_001",
+          "linalg_inverse_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_subspace_001",
+      "title": "Subspaces and Vector Spaces",
+      "text": "A subspace is a subset of a vector space that is itself a vector space under the same operations. Must be closed under addition and scalar multiplication.",
+      "tags": [
+        "linear_algebra",
+        "subspace",
+        "vector_space",
+        "closure"
+      ],
+      "doc_meta": {
+        "id": "linalg_subspace_001",
+        "topic": "linear_algebra",
+        "subtopic": "vector_spaces",
+        "difficulty": "intermediate",
+        "content_type": "concept",
+        "statement": "Subset W ⊆ V is subspace iff: 1) 0 ∈ W 2) Closed under addition 3) Closed under scalar multiplication",
+        "proof_sketch": "Verify three conditions directly from definitions.",
+        "strategy": "Check zero vector, then closure under both operations. For solution sets, verify homogeneous equations.",
+        "examples": [
+          {
+            "prompt": "Prove 3×3 diagonal matrices form subspace of all 3×3 matrices",
+            "solution": "1) Zero matrix is diagonal ✓ 2) Sum of diagonals is diagonal ✓ 3) Scalar multiple of diagonal is diagonal ✓",
+            "key_steps": [
+              "Check zero element",
+              "Check addition closure",
+              "Check scalar multiplication closure"
+            ],
+            "answer": "Is subspace"
+          }
+        ],
+        "keywords": [
+          "closure",
+          "vector space",
+          "homogeneous"
+        ],
+        "related": [
+          "linalg_basis_001",
+          "linalg_linear_independence_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "poly_vieta_001",
+      "title": "Vieta's Formulas for Polynomial Roots",
+      "text": "Vieta's formulas relate polynomial coefficients to sums and products of roots. Essential for symmetric polynomial problems.",
+      "tags": [
+        "polynomial",
+        "roots",
+        "Vieta",
+        "symmetric"
+      ],
+      "doc_meta": {
+        "id": "poly_vieta_001",
+        "topic": "polynomials",
+        "subtopic": "root_coefficient_relations",
+        "difficulty": "foundation",
+        "content_type": "theorem",
+        "statement": "For P(x)=xⁿ + aₙ₋₁xⁿ⁻¹ + ... + a₀ with roots r₁,...,rₙ: ∑rᵢ = -aₙ₋₁, ∑rᵢrⱼ = aₙ₋₂, ..., r₁r₂...rₙ = (-1)ⁿa₀",
+        "proof_sketch": "Compare coefficients in expanded form P(x) = (x-r₁)...(x-rₙ)",
+        "strategy": "Use to express symmetric functions of roots in terms of coefficients.",
+        "examples": [
+          {
+            "prompt": "If α,β,γ roots of x³-2x²+3x-4=0, find αβ+βγ+γα",
+            "solution": "By Vieta: αβ+βγ+γα = 3",
+            "key_steps": [
+              "Identify coefficient for sum of pairwise products"
+            ],
+            "answer": "3"
+          }
+        ],
+        "keywords": [
+          "symmetric sums",
+          "root relations",
+          "coefficients"
+        ],
+        "related": [
+          "poly_factor_001",
+          "poly_symmetric_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "func_cauchy_001",
+      "title": "Cauchy's Functional Equation",
+      "text": "The fundamental functional equation f(x+y) = f(x) + f(y). Solutions depend on domain and additional conditions.",
+      "tags": [
+        "functional_equation",
+        "Cauchy",
+        "additive",
+        "linear"
+      ],
+      "doc_meta": {
+        "id": "func_cauchy_001",
+        "topic": "functional_equations",
+        "subtopic": "additive_functions",
+        "difficulty": "advanced",
+        "content_type": "theorem",
+        "statement": "Over reals with continuity: f(x) = cx. Over rationals: f(x) = cx. Without regularity: pathological solutions exist.",
+        "proof_sketch": "Show f(q) = cq for rational q, extend to reals via continuity/density.",
+        "strategy": "Plug special values (0,1), prove f(qx)=qf(x) for rational q, look for linear solutions.",
+        "examples": [
+          {
+            "prompt": "Find all continuous f:ℝ→ℝ satisfying f(x+y)=f(x)+f(y)",
+            "solution": "f(0)=0, f(n)=nf(1), f(1/n)=f(1)/n, f(m/n)=mf(1)/n, by continuity f(x)=xf(1)",
+            "key_steps": [
+              "Find f(0)",
+              "Prove for integers",
+              "Prove for rationals",
+              "Extend via continuity"
+            ],
+            "answer": "f(x)=cx"
+          }
+        ],
+        "keywords": [
+          "additive",
+          "linear",
+          "regularity conditions"
+        ],
+        "related": [
+          "func_standard_001",
+          "func_cyclic_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_linear_transformation_001",
+      "title": "Linear Transformations and Matrix Representations",
+      "text": "Linear transformations preserve vector space operations. Every linear transformation between finite-dimensional spaces can be represented by a matrix.",
+      "tags": [
+        "linear_algebra",
+        "linear_transformation",
+        "matrix_representation"
+      ],
+      "doc_meta": {
+        "id": "linalg_linear_transformation_001",
+        "topic": "linear_algebra",
+        "subtopic": "linear_transformations",
+        "difficulty": "intermediate",
+        "content_type": "concept",
+        "statement": "T: V → W is linear if T(u+v) = T(u) + T(v) and T(cv) = cT(v) for all vectors u,v and scalars c",
+        "proof_sketch": "Matrix representation obtained by applying T to basis vectors and expressing results in target basis.",
+        "strategy": "To find matrix: apply T to each basis vector, write results as columns in target basis coordinates",
+        "examples": [
+          {
+            "prompt": "Find matrix for T(x,y,z) = (x+y, y+z, z+x)",
+            "solution": "T(1,0,0)=(1,0,1), T(0,1,0)=(1,1,0), T(0,0,1)=(0,1,1). Matrix: [[1,1,0],[0,1,1],[1,0,1]]",
+            "key_steps": [
+              "Apply to standard basis",
+              "Write results as columns"
+            ],
+            "answer": "[[1,1,0],[0,1,1],[1,0,1]]"
+          }
+        ],
+        "keywords": [
+          "basis",
+          "coordinate vector",
+          "homomorphism"
+        ],
+        "related": [
+          "linalg_matrix_001",
+          "linalg_subspace_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_inverse_001",
+      "title": "Matrix Inverses and Invertibility",
+      "text": "A square matrix is invertible if there exists a matrix that multiplies with it to give the identity. Equivalent to having non-zero determinant.",
+      "tags": [
+        "linear_algebra",
+        "inverse",
+        "invertible",
+        "determinant"
+      ],
+      "doc_meta": {
+        "id": "linalg_inverse_001",
+        "topic": "linear_algebra",
+        "subtopic": "matrix_inverses",
+        "difficulty": "intermediate",
+        "content_type": "concept",
+        "statement": "A is invertible iff det(A) ≠ 0 iff columns are linearly independent iff A has full rank",
+        "proof_sketch": "Use adjugate formula A⁻¹ = adj(A)/det(A) or show existence via Gaussian elimination",
+        "strategy": "Check det ≠ 0. Find inverse via: 1) Gaussian elimination 2) Adjugate formula 3) Formula for 2×2",
+        "examples": [
+          {
+            "prompt": "Find inverse of [[1,1,0],[1,0,1],[0,1,1]] using adjugate",
+            "solution": "det=2, adjugate = [[-1,1,1],[1,-1,1],[1,1,-1]], inverse = 1/2 * adjugate",
+            "key_steps": [
+              "Compute determinant",
+              "Find adjugate matrix",
+              "Divide by determinant"
+            ],
+            "answer": "1/2 * [[-1,1,1],[1,-1,1],[1,1,-1]]"
+          }
+        ],
+        "keywords": [
+          "adjugate",
+          "identity matrix",
+          "non-singular"
+        ],
+        "related": [
+          "linalg_determinant_001",
+          "linalg_gaussian_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_basis_001",
+      "title": "Basis and Dimension",
+      "text": "A basis is a linearly independent spanning set. The number of basis vectors is the dimension of the space.",
+      "tags": [
+        "linear_algebra",
+        "basis",
+        "dimension",
+        "span"
+      ],
+      "doc_meta": {
+        "id": "linalg_basis_001",
+        "topic": "linear_algebra",
+        "subtopic": "basis_dimension",
+        "difficulty": "intermediate",
+        "content_type": "concept",
+        "statement": "B vectors form basis for V if: 1) B spans V 2) B is linearly independent. Dimension = |B|",
+        "proof_sketch": "All bases have same size by replacement theorem.",
+        "strategy": "To find basis: 1) Find spanning set 2) Remove dependent vectors until independent",
+        "examples": [
+          {
+            "prompt": "Find basis for solution space of x + 2y - z = 0",
+            "solution": "z = x + 2y, so vectors: [1,0,1]ᵀ, [0,1,2]ᵀ. These are independent and span solution space",
+            "key_steps": [
+              "Solve for one variable",
+              "Express in parametric form",
+              "Extract basis vectors"
+            ],
+            "answer": "{[1,0,1]ᵀ, [0,1,2]ᵀ}"
+          }
+        ],
+        "keywords": [
+          "spanning set",
+          "linear independence",
+          "coordinates"
+        ],
+        "related": [
+          "linalg_subspace_001",
+          "linalg_linear_independence_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "poly_factor_001",
+      "title": "Polynomial Factorization and Roots",
+      "text": "Factorization breaks polynomials into simpler factors. Closely related to finding roots of polynomials.",
+      "tags": [
+        "polynomial",
+        "factorization",
+        "roots",
+        "algebra"
+      ],
+      "doc_meta": {
+        "id": "poly_factor_001",
+        "topic": "polynomials",
+        "subtopic": "factorization",
+        "difficulty": "foundation",
+        "content_type": "technique",
+        "statement": "Factor Theorem: (x-a) is factor iff P(a)=0. Remainder Theorem: P(a) is remainder when dividing by (x-a)",
+        "proof_sketch": "Polynomial division algorithm.",
+        "strategy": "Use Rational Root Theorem to test possible roots, then synthetic division to factor",
+        "examples": [
+          {
+            "prompt": "Factor x⁴ - 5x² + 4 completely over ℝ",
+            "solution": "Let u=x²: u²-5u+4=(u-1)(u-4). So (x²-1)(x²-4)=(x-1)(x+1)(x-2)(x+2)",
+            "key_steps": [
+              "Substitution if needed",
+              "Factor quadratic",
+              "Factor further if possible"
+            ],
+            "answer": "(x-1)(x+1)(x-2)(x+2)"
+          }
+        ],
+        "keywords": [
+          "factor theorem",
+          "synthetic division",
+          "irreducible"
+        ],
+        "related": [
+          "poly_vieta_001",
+          "poly_rational_root_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_rank_001",
+      "title": "Matrix Rank and Nullity",
+      "text": "Rank measures the dimension of the column space (image). Nullity measures the dimension of the null space (kernel).",
+      "tags": [
+        "linear_algebra",
+        "rank",
+        "nullity",
+        "dimension"
+      ],
+      "doc_meta": {
+        "id": "linalg_rank_001",
+        "topic": "linear_algebra",
+        "subtopic": "rank_nullity",
+        "difficulty": "intermediate",
+        "content_type": "theorem",
+        "statement": "Rank-Nullity Theorem: rank(A) + nullity(A) = number of columns of A",
+        "proof_sketch": "Extend basis of null space to basis of domain space.",
+        "strategy": "Find rank via: 1) Row reduction to count pivots 2) Dimension of column space. Nullity = n - rank",
+        "examples": [
+          {
+            "prompt": "Find rank and nullity of [[1,2,3],[4,5,6],[7,8,9]]",
+            "solution": "Row reduce: rows 2 and 3 become dependent. Rank = 2 (2 pivots), nullity = 3-2=1",
+            "key_steps": [
+              "Row reduce to REF",
+              "Count pivot columns",
+              "Apply rank-nullity"
+            ],
+            "answer": "rank=2, nullity=1"
+          }
+        ],
+        "keywords": [
+          "pivot",
+          "column space",
+          "null space"
+        ],
+        "related": [
+          "linalg_subspace_001",
+          "linalg_gaussian_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "ineq_schur_001",
+      "title": "Schur's Inequality",
+      "text": "Schur's inequality is a fundamental symmetric inequality for three variables, useful for Olympiad problems.",
+      "tags": [
+        "inequality",
+        "Schur",
+        "symmetric",
+        "olympiad"
+      ],
+      "doc_meta": {
+        "id": "ineq_schur_001",
+        "topic": "inequalities",
+        "subtopic": "Schur",
+        "difficulty": "advanced",
+        "content_type": "theorem",
+        "statement": "For a,b,c ≥ 0 and real r: aʳ(a-b)(a-c) + bʳ(b-c)(b-a) + cʳ(c-a)(c-b) ≥ 0. Common cases: r=1 and r=2",
+        "proof_sketch": "By symmetry, assume a ≥ b ≥ c. Rearrangement or SOS method.",
+        "strategy": "Use when cubic terms appear. Often combined with AM-GM or Cauchy-Schwarz",
+        "examples": [
+          {
+            "prompt": "Prove a³+b³+c³+3abc ≥ a²(b+c)+b²(a+c)+c²(a+b) for a,b,c≥0",
+            "solution": "This is Schur's inequality with r=1",
+            "key_steps": [
+              "Recognize Schur form",
+              "Apply with r=1"
+            ],
+            "answer": "Inequality proved"
+          }
+        ],
+        "keywords": [
+          "symmetric",
+          "three variables",
+          "degree 3"
+        ],
+        "related": [
+          "ineq_amgm_001",
+          "ineq_muirhead_001"
+        ]
+      }
+    },
+    {
+      "chunk_id": "linalg_diagonalization_001",
+      "title": "Matrix Diagonalization",
+      "text": "A matrix is diagonalizable if it can be written as PDP⁻¹ where D is diagonal. Equivalent to having basis of eigenvectors.",
+      "tags": [
+        "linear_algebra",
+        "diagonalization",
+        "eigenvectors",
+        "similarity"
+      ],
+      "doc_meta": {
+        "id": "linalg_diagonalization_001",
+        "topic": "linear_algebra",
+        "subtopic": "diagonalization",
+        "difficulty": "advanced",
+        "content_type": "concept",
+        "statement": "A is diagonalizable iff it has n linearly independent eigenvectors (geometric multiplicity = algebraic multiplicity for each eigenvalue)",
+        "proof_sketch": "P has eigenvectors as columns, D has eigenvalues on diagonal.",
+        "strategy": "1) Find eigenvalues 2) Find n independent eigenvectors 3) Form P from eigenvectors, D from eigenvalues",
+        "examples": [
+          {
+            "prompt": "Diagonalize A = [[2,1],[1,2]]",
+            "solution": "Eigenvalues: 1,3. Eigenvectors: [1,-1]ᵀ, [1,1]ᵀ. P=[[1,1],[-1,1]], D=[[1,0],[0,3]], A=PDP⁻¹",
+            "key_steps": [
+              "Find eigenvalues",
+              "Find eigenvectors",
+              "Construct P and D"
+            ],
+            "answer": "P=[[1,1],[-1,1]], D=[[1,0],[0,3]]"
+          }
+        ],
+        "keywords": [
+          "eigenbasis",
+          "similar",
+          "geometric multiplicity"
+        ],
+        "related": [
+          "linalg_eigen_001",
+          "linalg_basis_001"
+        ]
+      }
+    }
+  ],
+  "problem_patterns": [
+    {
+      "pattern": "linear_system",
+      "description": "System of linear equations to solve",
+      "approach": "Use Gaussian elimination, matrix inversion, or Cramer's rule. Check consistency and number of solutions",
+      "techniques": [
+        "gaussian_elimination",
+        "matrix_inversion",
+        "rank_analysis"
+      ],
+      "related_chunks": [
+        "linalg_gaussian_001",
+        "linalg_inverse_001",
+        "linalg_rank_001"
+      ]
+    },
+    {
+      "pattern": "eigen_problem",
+      "description": "Find eigenvalues and/or eigenvectors",
+      "approach": "Solve characteristic equation det(A-λI)=0, then find null space of (A-λI) for each eigenvalue",
+      "techniques": [
+        "characteristic_polynomial",
+        "null_space_calculation",
+        "algebraic_multiplicity"
+      ],
+      "related_chunks": [
+        "linalg_eigen_001",
+        "linalg_determinant_001",
+        "linalg_diagonalization_001"
+      ]
+    },
+    {
+      "pattern": "subspace_proof",
+      "description": "Prove a set is a subspace",
+      "approach": "Verify three conditions: contains zero vector, closed under addition, closed under scalar multiplication",
+      "techniques": [
+        "closure_verification",
+        "zero_vector_check",
+        "linear_combination"
+      ],
+      "related_chunks": [
+        "linalg_subspace_001",
+        "linalg_linear_independence_001"
+      ]
+    },
+    {
+      "pattern": "polynomial_roots",
+      "description": "Problems about polynomial roots and coefficients",
+      "approach": "Use Vieta's formulas, factor theorem, symmetric polynomial identities",
+      "techniques": [
+        "vieta_formulas",
+        "symmetric_sums",
+        "root_transformations"
+      ],
+      "related_chunks": [
+        "poly_vieta_001",
+        "poly_factor_001",
+        "poly_symmetric_001"
+      ]
+    },
+    {
+      "pattern": "matrix_inversion",
+      "description": "Find inverse of a matrix",
+      "approach": "Use Gaussian elimination, adjugate formula, or special formulas for 2×2/3×3",
+      "techniques": [
+        "gaussian_elimination",
+        "adjugate_method",
+        "determinant_check"
+      ],
+      "related_chunks": [
+        "linalg_inverse_001",
+        "linalg_determinant_001",
+        "linalg_gaussian_001"
+      ]
+    },
+    {
+      "pattern": "inequality_proof",
+      "description": "Prove an algebraic inequality",
+      "approach": "Try AM-GM, Cauchy-Schwarz, substitution, induction, or calculus methods",
+      "techniques": [
+        "AM-GM",
+        "Cauchy-Schwarz",
+        "substitution",
+        "normalization"
+      ],
+      "related_chunks": [
+        "ineq_amgm_001",
+        "ineq_cauchy_001",
+        "ineq_schur_001"
+      ]
+    },
+    {
+      "pattern": "linear_transformation",
+      "description": "Problems about linear transformations",
+      "approach": "Find matrix representation, kernel, image, or verify linearity properties",
+      "techniques": [
+        "matrix_representation",
+        "kernel_image_analysis",
+        "basis_transformation"
+      ],
+      "related_chunks": [
+        "linalg_linear_transformation_001",
+        "linalg_basis_001",
+        "linalg_rank_001"
+      ]
+    },
+    {
+      "pattern": "functional_equation",
+      "description": "Find functions satisfying given equations",
+      "approach": "Plug special values, assume injectivity/surjectivity, look for polynomial solutions",
+      "techniques": [
+        "special_values",
+        "injectivity_arguments",
+        "polynomial_ansatz"
+      ],
+      "related_chunks": [
+        "func_cauchy_001",
+        "func_standard_001"
+      ]
+    }
+  ]
+}

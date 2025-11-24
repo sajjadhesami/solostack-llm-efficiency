@@ -1,0 +1,187 @@
+{
+  "documents": [
+    {
+      "chunk_id": "Plate Tectonics",
+      "title": "Plate Tectonics",
+      "text": "The theory that Earth's lithosphere is divided into plates that move over the asthenosphere. Key Processes: Seafloor Spreading, Subduction, Continental Collision, Rifting",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Plate Tectonics",
+        "topic": "Core Concepts",
+        "subtopic": "physical"
+      }
+    },
+    {
+      "chunk_id": "Hydrological Cycle",
+      "title": "Hydrological Cycle",
+      "text": "The continuous movement of water on, above, and below the surface of the Earth. Key Processes: Evaporation, Condensation, Precipitation, Runoff, Infiltration",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Hydrological Cycle",
+        "topic": "Core Concepts",
+        "subtopic": "physical"
+      }
+    },
+    {
+      "chunk_id": "Core-Periphery Model",
+      "title": "Core-Periphery Model",
+      "text": "A model describing how economic, political, and cultural power is dispersed between core (dominant) and periphery (dependent) regions. Key Processes: Uneven Development, Colonialism, Globalization",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Core-Periphery Model",
+        "topic": "Core Concepts",
+        "subtopic": "human"
+      }
+    },
+    {
+      "chunk_id": "Demographic Transition Model",
+      "title": "Demographic Transition Model",
+      "text": "A model that describes population change over time, based on birth and death rates.",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Demographic Transition Model",
+        "topic": "Core Concepts",
+        "subtopic": "human"
+      }
+    },
+    {
+      "chunk_id": "Himalayas",
+      "title": "Himalayas",
+      "text": "Key Facts: highestPeak: Mount Everest (8,848m); length: 2,400 km; significance: Contains the world's highest peaks; influences climate (blocks monsoon winds). Location: Asia Countries: CN, IN, NP, BT",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Himalayas",
+        "topic": "Physical Geography",
+        "subtopic": "landforms"
+      }
+    },
+    {
+      "chunk_id": "Amazon Basin",
+      "title": "Amazon Basin",
+      "text": "Key Facts: area: ~7,000,000 sq km; river: Amazon River (RF-001); biome: Tropical Rainforest (BM-001) Location: South America Countries: BR, PE, CO, BO",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Amazon Basin",
+        "topic": "Physical Geography",
+        "subtopic": "landforms"
+      }
+    },
+    {
+      "chunk_id": "Lake Baikal",
+      "title": "Lake Baikal",
+      "text": "Key Facts: volume: Largest freshwater lake by volume (23,600 cubic km); depth: Deepest lake in the world (1,642m); age: Oldest lake in the world (25-30 million years); biodiversity: >2,000 endemic species Location: Siberia, Russia",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Lake Baikal",
+        "topic": "Physical Geography",
+        "subtopic": "waterBodies"
+      }
+    },
+    {
+      "chunk_id": "Amazon River",
+      "title": "Amazon River",
+      "text": "Countries: BR, PE, CO, BO",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Amazon River",
+        "topic": "Physical Geography",
+        "subtopic": "rivers"
+      }
+    },
+    {
+      "chunk_id": "Tropical Rainforest",
+      "title": "Tropical Rainforest",
+      "text": "Characteristics: High temperature, high rainfall year-round, immense biodiversity.",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Tropical Rainforest",
+        "topic": "Physical Geography",
+        "subtopic": "climateAndBiomes"
+      }
+    },
+    {
+      "chunk_id": "South Asian Monsoon",
+      "title": "South Asian Monsoon",
+      "text": "A seasonal weather pattern characterized by winds from the southwest (summer) bringing heavy rain, and winds from the northeast (winter) bringing dry conditions. Mechanism: Differential heating of land and sea, shift of the ITCZ. Impact: Critical for agriculture in India, Bangladesh, Pakistan; can cause severe flooding.",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "South Asian Monsoon",
+        "topic": "Physical Geography",
+        "subtopic": "climateAndBiomes"
+      }
+    },
+    {
+      "chunk_id": "China",
+      "title": "China",
+      "text": "China",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "China",
+        "topic": "Human Geography",
+        "subtopic": "countries"
+      }
+    },
+    {
+      "chunk_id": "Tokyo",
+      "title": "Tokyo",
+      "text": "Tokyo",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Tokyo",
+        "topic": "Human Geography",
+        "subtopic": "cities"
+      }
+    },
+    {
+      "chunk_id": "Quaternary Sector",
+      "title": "Quaternary Sector",
+      "text": "Knowledge-based activities such as information technology, research and development, and consulting.",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Quaternary Sector",
+        "topic": "Human Geography",
+        "subtopic": "economicActivities"
+      }
+    },
+    {
+      "chunk_id": "Mercator",
+      "title": "Mercator",
+      "text": "Mercator",
+      "tags": [
+        "general"
+      ],
+      "doc_meta": {
+        "title": "Mercator",
+        "topic": "Geospatial Concepts",
+        "subtopic": "mapProjections"
+      }
+    }
+  ],
+  "problem_patterns": {}
+}

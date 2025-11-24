@@ -1,0 +1,90 @@
+{
+  "geography_knowledge": {
+    "documents": [
+      {
+        "title": "Plate Tectonics",
+        "content": "The theory that Earth's lithosphere is divided into plates that move over the asthenosphere.\nKey Processes: Seafloor Spreading, Subduction, Continental Collision, Rifting",
+        "topic": "Core Concepts",
+        "subtopic": "physical"
+      },
+      {
+        "title": "Hydrological Cycle",
+        "content": "The continuous movement of water on, above, and below the surface of the Earth.\nKey Processes: Evaporation, Condensation, Precipitation, Runoff, Infiltration",
+        "topic": "Core Concepts",
+        "subtopic": "physical"
+      },
+      {
+        "title": "Core-Periphery Model",
+        "content": "A model describing how economic, political, and cultural power is dispersed between core (dominant) and periphery (dependent) regions.\nKey Processes: Uneven Development, Colonialism, Globalization",
+        "topic": "Core Concepts",
+        "subtopic": "human"
+      },
+      {
+        "title": "Demographic Transition Model",
+        "content": "A model that describes population change over time, based on birth and death rates.",
+        "topic": "Core Concepts",
+        "subtopic": "human"
+      },
+      {
+        "title": "Himalayas",
+        "content": "Key Facts: highestPeak: Mount Everest (8,848m); length: 2,400 km; significance: Contains the world's highest peaks; influences climate (blocks monsoon winds).\nLocation: Asia\nCountries: CN, IN, NP, BT",
+        "topic": "Physical Geography",
+        "subtopic": "landforms"
+      },
+      {
+        "title": "Amazon Basin",
+        "content": "Key Facts: area: ~7,000,000 sq km; river: Amazon River (RF-001); biome: Tropical Rainforest (BM-001)\nLocation: South America\nCountries: BR, PE, CO, BO",
+        "topic": "Physical Geography",
+        "subtopic": "landforms"
+      },
+      {
+        "title": "Lake Baikal",
+        "content": "Key Facts: volume: Largest freshwater lake by volume (23,600 cubic km); depth: Deepest lake in the world (1,642m); age: Oldest lake in the world (25-30 million years); biodiversity: >2,000 endemic species\nLocation: Siberia, Russia",
+        "topic": "Physical Geography",
+        "subtopic": "waterBodies"
+      },
+      {
+        "title": "Amazon River",
+        "content": "Countries: BR, PE, CO, BO",
+        "topic": "Physical Geography",
+        "subtopic": "rivers"
+      },
+      {
+        "title": "Tropical Rainforest",
+        "content": "Characteristics: High temperature, high rainfall year-round, immense biodiversity.",
+        "topic": "Physical Geography",
+        "subtopic": "climateAndBiomes"
+      },
+      {
+        "title": "South Asian Monsoon",
+        "content": "A seasonal weather pattern characterized by winds from the southwest (summer) bringing heavy rain, and winds from the northeast (winter) bringing dry conditions.\nMechanism: Differential heating of land and sea, shift of the ITCZ.\nImpact: Critical for agriculture in India, Bangladesh, Pakistan; can cause severe flooding.",
+        "topic": "Physical Geography",
+        "subtopic": "climateAndBiomes"
+      },
+      {
+        "title": "China",
+        "content": "China",
+        "topic": "Human Geography",
+        "subtopic": "countries"
+      },
+      {
+        "title": "Tokyo",
+        "content": "Tokyo",
+        "topic": "Human Geography",
+        "subtopic": "cities"
+      },
+      {
+        "title": "Quaternary Sector",
+        "content": "Knowledge-based activities such as information technology, research and development, and consulting.",
+        "topic": "Human Geography",
+        "subtopic": "economicActivities"
+      },
+      {
+        "title": "Mercator",
+        "content": "Mercator",
+        "topic": "Geospatial Concepts",
+        "subtopic": "mapProjections"
+      }
+    ]
+  }
+}
