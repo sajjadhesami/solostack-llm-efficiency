@@ -476,14 +476,14 @@ Examples:
     # Check for subject-specific files
     if args.data_algebra and Path(args.data_algebra).exists():
         subject_configs.append(("algebra", args.data_algebra))
-    # if args.data_geography and Path(args.data_geography).exists():
-    #     subject_configs.append(("geography", args.data_geography))
-    # if args.data_history and Path(args.data_history).exists():
-    #     subject_configs.append(("history", args.data_history))
-    # if args.data_chinese and Path(args.data_chinese).exists():
-    #     subject_configs.append(("chinese", args.data_chinese))
-    # if args.data_general and Path(args.data_general).exists():
-     #   subject_configs.append(("general", args.data_general))
+    if args.data_geography and Path(args.data_geography).exists():
+        subject_configs.append(("geography", args.data_geography))
+    if args.data_history and Path(args.data_history).exists():
+        subject_configs.append(("history", args.data_history))
+    if args.data_chinese and Path(args.data_chinese).exists():
+        subject_configs.append(("chinese", args.data_chinese))
+    if args.data_general and Path(args.data_general).exists():
+       subject_configs.append(("general", args.data_general))
     # Check if we should train multiple models (4 separate models)
     train_multiple = len(subject_configs) > 1
 
@@ -609,3 +609,4 @@ Examples:
 
 if __name__ == "__main__":
     main()
+
